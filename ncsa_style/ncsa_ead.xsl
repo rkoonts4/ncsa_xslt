@@ -569,7 +569,7 @@
                             </xsl:if>
                         </xsl:otherwise>
                     </xsl:choose>
-                    <xsl:for-each select="descendant::c02|descendant::c03|descendant::c04|descendant::c05">
+                    <xsl:for-each select="descendant::c02|descendant::c03|descendant::c04|descendant::c05|descendant::c06|descendant::c07|descendant::c08">
                         <!-- remove this outter choose statement once microfilm is included in the finding aids -->
                         <xsl:choose>
                             <xsl:when test="did/unitid[contains(@label,'CMicro')]"/>
@@ -631,6 +631,10 @@
                         <p dir="auto"><b><xsl:value-of select="processinfo/head"/><xsl:text>: </xsl:text></b>
                             <xsl:apply-templates select="processinfo/p"/></p>
                     </xsl:if>
+                    <xsl:if test="scopecontent">
+                        <p dir="auto"><b><xsl:value-of select="scopecontent/head"/><xsl:text>: </xsl:text></b>
+                            <xsl:apply-templates select="scopecontent/p"/></p>
+                    </xsl:if>
                 </div>
             </div>
             <xsl:call-template name="sa_containers"/>
@@ -651,6 +655,10 @@
                     <xsl:if test="processinfo">
                         <p dir="auto"><b><xsl:value-of select="processinfo/head"/><xsl:text>: </xsl:text></b>
                             <xsl:apply-templates select="processinfo/p"/></p>
+                    </xsl:if>
+                    <xsl:if test="scopecontent">
+                        <p dir="auto"><b><xsl:value-of select="scopecontent/head"/><xsl:text>: </xsl:text></b>
+                            <xsl:apply-templates select="scopecontent/p"/></p>
                     </xsl:if>
                 </div>
             </div>
@@ -772,6 +780,15 @@
         </xsl:if>
         <xsl:if test="@render='italics'">
             <i><xsl:apply-templates/></i>
+        </xsl:if>
+        <xsl:if test="@render='italic'">
+            <i><xsl:apply-templates/></i>
+        </xsl:if>
+        <xsl:if test="@render='underline'">
+            <u><xsl:apply-templates/></u>
+        </xsl:if>
+        <xsl:if test="@render='super'">
+            <sup><xsl:apply-templates/></sup>
         </xsl:if>
     </xsl:template>
     

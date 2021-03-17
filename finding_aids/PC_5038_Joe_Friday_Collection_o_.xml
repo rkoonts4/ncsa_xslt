@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="ISO-8859-15" standalone="yes"?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+    <eadid countrycode="US" mainagencycode="NC-Ar">PC.5038</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Joe Friday Collection on the U.S.S. Huron<num>PC.5038</num></titleproper>
+        <author>State Archives of North Carolina</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>State Archives of North Carolina</publisher>
+        <date type="publication" normal="20210317">2021-03-17T14:41:14</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using AXAEM<date normal="20210317">2021-03-17T14:41:14</date></creation>
+      <langusage>Description is in<language>English</language></langusage>
+    </profiledesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Joe Friday Collection on the U.S.S. Huron<num>PC.5038</num></titleproper>
+      <author>State Archives of North Carolina</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc id="collection5073" level="collection" relatedencoding="dc">
+    <did>
+      <unittitle encodinganalog="title">Joe Friday Collection on the U.S.S. Huron</unittitle>
+      <unitid type="local ID">PC.5038</unitid>
+      <unitdate encodinganalog="date" type="inclusive" normal="1984/1989">1984-1989</unitdate>
+      <container id="cid1237141" label="Box 1" type="Box">Box 1</container>
+      <langmaterial>
+        <language encodinganalog="language" langcode="eng">English</language>
+      </langmaterial>
+      <physdesc>
+        <genreform>Manuscripts</genreform>
+      </physdesc>
+      <physdesc>
+        <extent label="Calculated Extent" encodinganalog="format" unit="cubic feet">0.410</extent>
+      </physdesc>
+      <abstract label="Abstract">Joe Friday was a graduate student in East Carolina University's program in maritime history and nautical archeology who researched and mapped the wreck of the U.S.S. Huron in the late 1980s. This research culminated in Friday's master's thesis, A History of the Wreck of the U.S.S. Huron, in 1988. The Joe Friday Collection on the U.S.S. Huron, 1984-1989, primarily consists of research materials gathered by Friday while conducting his research, as well as drafts, notes, and other materials related to the thesis itself.</abstract>
+      <physloc label="Location">Manuscript box: 3A1<lb/>Oversize folder: GRF-11</physloc>
+      <origination label="creator">
+        <persname role="Originator">Friday, Joe D., Jr.</persname>
+      </origination>
+      <origination label="Creator">
+        <persname role="Author">Friday, Joe D., Jr.</persname>
+      </origination>
+      <repository encodinganalog="publisher">
+        <corpname>Outer Banks History Center</corpname>
+      </repository>
+    </did>
+    <acqinfo>
+      <p>Gift</p>
+    </acqinfo>
+    <arrangement>
+      <head>Arrangement</head>
+      <p>Alphabetical.</p>
+    </arrangement>
+    <accessrestrict>
+      <head>Access Restrictions</head>
+      <p>Available for research.</p>
+    </accessrestrict>
+    <userestrict>
+      <head>Copyright Notice</head>
+      <p>Copyright is retained by the authors of these materials, or their descendants, as stipulated by the United States copyright law (Title 17 US Code). Individual researchers are responsible for using these materials in conformance with copyright law as well as any donor restrictions accompanying these materials.</p>
+    </userestrict>
+    <processinfo>
+      <head>Processing</head>
+      <p>Processed by Samantha Crisp, January 2020.</p>
+    </processinfo>
+    <bioghist>
+      <head>Biographical/Historical</head>
+      <p>The U.S.S. Huron was an iron-hulled screw steamer of the United States Navy. She was built in the mid-1870s and commissioned at Philadelphia Navy Yard in 1875. She was stationed at Norfolk Navy Yard and cruised the Caribbean and Gulf of Mexico for two years before returning for repairs in August 1877. She ran aground in November 1877 during a storm off the coast of Nags Head, North Carolina. 98 passengers were killed when she heeled over. The wreck of the Huron is now a popular diving site, located about 250 yards offshore at 35.97751, -75.63092. Joe Friday, a graduate student in East Carolina University's program in maritime history and nautical archeology, researched and mapped the wreck of the Huron in the late 1980s. This research culminated in Friday's master's thesis, A History of the Wreck of the U.S.S. Huron, submitted to the university in 1988.</p>
+    </bioghist>
+    <custodhist>
+      <p>Joe D. Friday, Jr.</p>
+    </custodhist>
+    <custodhist>
+      <head>Custodial History</head>
+      <p>Formerly classified as 33MSS-0-61</p>
+    </custodhist>
+    <prefercite>
+      <head>Preferred Citation</head>
+      <p>[Identification of item], PC.5038, Joe Friday Collection on the U.S.S. Huron, Outer Banks History Center, Manteo, NC, U.S.A.</p>
+    </prefercite>
+    <scopecontent>
+      <head>Scope and Content</head>
+      <p>The Joe Friday Collection on the U.S.S. Huron, 1984-1989, primarily consists of research materials gathered by Friday while writing his master's thesis on the wreck of the U.S.S. Huron in the late 1980s. The research materials in this collection were photocopied by Friday from libraries and archival repositories; no original manuscripts pertinent to the ship are present. Folder titles include dates of the original documents in parentheses when known. Also included are drafts, notes, an outline and prospectus, and other materials created by Friday while writing his thesis.</p>
+    </scopecontent>
+    <controlaccess>
+      <controlaccess>
+        <corpname encodinganalog="610" source="local">Huron (Screw steamer)</corpname>
+      </controlaccess>
+      <controlaccess>
+        <subject encodinganalog="650" source="local">Shipwrecks--North Carolina--Nags Head</subject>
+        <subject encodinganalog="650" source="local">Underwater archaeology--North Carolina</subject>
+      </controlaccess>
+    </controlaccess>
+    <dsc>
+      <c01 id="file38925" level="file">
+        <did>
+          <unittitle encodinganalog="title">Annotated Bibliography Notecards</unittitle>
+          <unitid type="level ID">38925</unitid>
+          <unitdate encodinganalog="date" type="inclusive" normal="1987/1987">circa 1987</unitdate>
+          <container id="cid1237143" label="Box 1" type="Folder" parent="cid1237141">Annotated Bibliography Notecards</container>
+          <origination label="creator">
+            <persname role="Originator">Friday, Joe D., Jr.</persname>
+          </origination>
+        </did>
+      </c01>
+      <c01 id="file38926" level="file">
+        <did>
+          <unittitle encodinganalog="title">Articles and Publications (1879-1981)</unittitle>
+          <unitid type="level ID">38926</unitid>
+          <unitdate encodinganalog="date" type="inclusive" normal="1986/1986">circa 1986</unitdate>
+          <container id="cid1237144" label="Box 1" type="Folder" parent="cid1237141">Articles and Publications (1879-1981)</container>
+          <origination label="creator">
+            <persname role="Originator">Friday, Joe D., Jr.</persname>
+          </origination>
+        </did>
+      </c01>
+      <c01 id="file38927" level="file">
+        <did>
+          <unittitle encodinganalog="title">Government Documents (1866-1975)</unittitle>
+          <unitid type="level ID">38927</unitid>
+          <unitdate encodinganalog="date" type="inclusive" normal="1986/1986">circa 1986</unitdate>
+          <container id="cid1237145" label="Box 1" type="Folder" parent="cid1237141">Government Documents (1866-1975)</container>
+          <origination label="creator">
+            <persname role="Originator">Friday, Joe D., Jr.</persname>
+          </origination>
+        </did>
+      </c01>
+      <c01 id="file38928" level="file">
+        <did>
+          <unittitle encodinganalog="title">A History of the Wreck of the U.S.S. Huron by Joe Friday</unittitle>
+          <unitid type="level ID">38928</unitid>
+          <unitdate encodinganalog="date" type="inclusive" normal="1988/1988">circa 1988</unitdate>
+          <container id="cid1237146" label="Box 1" type="Folder" parent="cid1237141">A History of the Wreck of the U.S.S. Huron by Joe Friday</container>
+          <origination label="creator">
+            <persname role="Originator">Friday, Joe D., Jr.</persname>
+          </origination>
+        </did>
+      </c01>
+      <c01 id="file38929" level="file">
+        <did>
+          <unittitle encodinganalog="title">A History of the Wreck of the U.S.S. Huron by Joe Friday: Draft</unittitle>
+          <unitid type="level ID">38929</unitid>
+          <unitdate encodinganalog="date" type="inclusive" normal="1988/1988">1988</unitdate>
+          <container id="cid1237147" label="Box 1" type="Folder" parent="cid1237141">A History of the Wreck of the U.S.S. Huron by Joe Friday: Draft</container>
+          <origination label="creator">
+            <persname role="Originator">Friday, Joe D., Jr.</persname>
+          </origination>
+        </did>
+      </c01>
+      <c01 id="file38930" level="file">
+        <did>
+          <unittitle encodinganalog="title">Images (1877-1980s)</unittitle>
+          <unitid type="level ID">38930</unitid>
+          <unitdate encodinganalog="date" type="inclusive" normal="1986/1986">circa 1986</unitdate>
+          <container id="cid1237148" label="Box 1" type="Folder" parent="cid1237141">Images (1877-1980s)</container>
+          <origination label="creator">
+            <persname role="Originator">Friday, Joe D., Jr.</persname>
+          </origination>
+        </did>
+      </c01>
+      <c01 id="file38931" level="file">
+        <did>
+          <unittitle encodinganalog="title">Logbook Index Cards</unittitle>
+          <unitid type="level ID">38931</unitid>
+          <unitdate encodinganalog="date" type="inclusive" normal="1987/1987">circa 1987</unitdate>
+          <container id="cid1237149" label="Box 1" type="Folder" parent="cid1237141">Logbook Index Cards</container>
+          <origination label="creator">
+            <persname role="Originator">Friday, Joe D., Jr.</persname>
+          </origination>
+        </did>
+      </c01>
+      <c01 id="file38932" level="file">
+        <did>
+          <unittitle encodinganalog="title">Manuscripts (1876-1899)</unittitle>
+          <unitid type="level ID">38932</unitid>
+          <unitdate encodinganalog="date" type="inclusive" normal="1987/1987">1987</unitdate>
+          <container id="cid1237150" label="Box 1" type="Folder" parent="cid1237141">Manuscripts (1876-1899)</container>
+          <origination label="creator">
+            <persname role="Originator">Friday, Joe D., Jr.</persname>
+          </origination>
+        </did>
+      </c01>
+      <c01 id="file38933" level="file">
+        <did>
+          <unittitle encodinganalog="title">Maps (1983-1987)</unittitle>
+          <unitid type="level ID">38933</unitid>
+          <unitdate encodinganalog="date" type="inclusive" normal="1987/1987">circa 1987</unitdate>
+          <container id="cid1237151" label="Box 1" type="Folder" parent="cid1237141">Maps (1983-1987)</container>
+          <origination label="creator">
+            <persname role="Originator">Friday, Joe D., Jr.</persname>
+          </origination>
+        </did>
+      </c01>
+      <c01 id="file38934" level="file">
+        <did>
+          <unittitle encodinganalog="title">Notes</unittitle>
+          <unitid type="level ID">38934</unitid>
+          <unitdate encodinganalog="date" type="inclusive" normal="1986/1989">circa 1986-1989</unitdate>
+          <container id="cid1237152" label="Box 1" type="Folder" parent="cid1237141">Notes</container>
+          <origination label="creator">
+            <persname role="Originator">Friday, Joe D., Jr.</persname>
+          </origination>
+        </did>
+      </c01>
+      <c01 id="file38935" level="file">
+        <did>
+          <unittitle encodinganalog="title">Outline and Prospectus</unittitle>
+          <unitid type="level ID">38935</unitid>
+          <unitdate encodinganalog="date" type="inclusive" normal="1986/1986">1986</unitdate>
+          <container id="cid1237153" label="Box 1" type="Folder" parent="cid1237141">Outline and Prospectus</container>
+          <origination label="creator">
+            <persname role="Originator">Friday, Joe D., Jr.</persname>
+          </origination>
+        </did>
+      </c01>
+      <c01 id="file38936" level="file">
+        <did>
+          <unittitle encodinganalog="title">Research Correspondence and Call Slips</unittitle>
+          <unitid type="level ID">38936</unitid>
+          <unitdate encodinganalog="date" type="inclusive" normal="1984/1988">1984-1988</unitdate>
+          <container id="cid1237154" label="Box 1" type="Folder" parent="cid1237141">Research Correspondence and Call Slips</container>
+          <origination label="creator">
+            <persname role="Originator">Friday, Joe D., Jr.</persname>
+          </origination>
+        </did>
+      </c01>
+      <c01 id="file38937" level="file">
+        <did>
+          <unittitle encodinganalog="title">Ship Plans (1876-1980s)</unittitle>
+          <unitid type="level ID">38937</unitid>
+          <unitdate encodinganalog="date" type="inclusive" normal="1987/1987">circa 1987</unitdate>
+          <container id="cid1237155" label="Box 1" type="Folder" parent="cid1237141">Ship Plans (1876-1980s)</container>
+          <origination label="creator">
+            <persname role="Originator">Friday, Joe D., Jr.</persname>
+          </origination>
+        </did>
+      </c01>
+      <c01 id="file38938" level="file">
+        <did>
+          <unittitle encodinganalog="title">Oversize Materials</unittitle>
+          <unitid type="level ID">38938</unitid>
+          <unitdate encodinganalog="date" type="inclusive" normal="1987/1988">1987-1988</unitdate>
+          <container id="cid1237142" label="Oversize Folder 1" type="Folder">Oversize Materials</container>
+          <physdesc>
+            <extent label="Calculated Extent" encodinganalog="format" unit="cubic feet">0.010</extent>
+          </physdesc>
+          <origination label="creator">
+            <persname role="Originator">Friday, Joe D., Jr.</persname>
+          </origination>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>
