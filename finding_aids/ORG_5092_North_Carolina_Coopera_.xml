@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="ISO-8859-15" standalone="yes"?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+    <eadid countrycode="US" mainagencycode="NC-Ar" url="http://www.obhistorycenter.ncdcr.gov/EAD/eadxml/Master_Gardeners_Records.xml">Master_Gardeners_Records</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>North Carolina Cooperative Extension, Dare County Master Gardeners Records<num>ORG.5092</num></titleproper>
+        <author>Processed by: Kelly R. Grimm; machine-readable finding aid created by: Kelly R. Grimm</author>
+      </titlestmt>
+      <publicationstmt>
+        <address>
+          <addressline>109 E. Jones Street</addressline>
+          <addressline>4614 Mail Service Center</addressline>
+          <addressline>Raleigh, N.C., 27699-4614</addressline>
+          <addressline>(919) 807-7310</addressline>
+          <addressline>archives@ncdcr.gov</addressline>
+        </address>
+        <date type="publication" normal="20090101">2009-01-01T00:00:00</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using AXAEM<date normal="20210317">2021-03-17T14:42:23</date></creation>
+      <langusage>Description is in<language langcode="eng">English</language></langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date normal="20141010">2014-10-10T14:42:23</date>
+        <item>Converted from Version 2002 DTD to Version 2002 XSD by Jeremy Gibson</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>North Carolina Cooperative Extension, Dare County Master Gardeners Records<num>ORG.5092</num></titleproper>
+      <author>Processed by: Kelly R. Grimm; machine-readable finding aid created by: Kelly R. Grimm</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc id="collection203" level="collection" relatedencoding="dc">
+    <did>
+      <unittitle encodinganalog="title">North Carolina Cooperative Extension, Dare County Master Gardeners Records</unittitle>
+      <unitid type="local ID">ORG.5092</unitid>
+      <unitdate encodinganalog="date" type="inclusive" normal="1992/2004">1992-2004</unitdate>
+      <container id="cid1140527" label="Box 1" type="Box">Box 1</container>
+      <container id="cid1140528" label="Box 2" type="Box">Box 2</container>
+      <langmaterial>
+        <language encodinganalog="language" langcode="eng">English</language>
+      </langmaterial>
+      <physdesc>
+        <extent label="Calculated Extent" encodinganalog="format" unit="cubic feet">2.000</extent>
+      </physdesc>
+      <abstract encodinganalog="545" label="Abstract">The Master Gardeners program is part of the North Carolina State Cooperative Extension Service. The program provides educational opportunities for Master Gardeners, as well as a forum where Master Gardeners can exchange information and expertise with others. Members organize and participate in outreach projects and fundraisers.<lb/>The North Carolina Cooperative Extension-Master Gardeners Records consist of papers from the Dare Master Gardener Volunteer Association, and includes correspondence, photographs, meeting minutes, press releases, newspaper clippings, and a handbook.</abstract>
+      <physloc label="Location">4A1-4A2</physloc>
+      <origination label="creator">
+        <corpname role="Originator">North Carolina Cooperative Extension Service. Dare County Master Gardeners.</corpname>
+      </origination>
+      <repository encodinganalog="publisher">
+        <corpname>Outer Banks History Center</corpname>
+      </repository>
+    </did>
+    <arrangement>
+      <head>Collection Arrangement</head>
+      <p>This collection is divided into three main series: Meeting Minutes, Organizational Papers, and Photographs.</p>
+    </arrangement>
+    <accessrestrict encodinganalog="506">
+      <head>Access Restrictions</head>
+      <p>Available for research.</p>
+    </accessrestrict>
+    <userestrict encodinganalog="540">
+      <head>Copyright Notice</head>
+      <p>Copyright is retained by the authors of these materials, or their descendants, as stipulated by United States copyright law (Title 17 US Code). Individual researchers are responsible for using these materials in conformance with copyright law as well as any donor restrictions accompanying the materials.</p>
+    </userestrict>
+    <processinfo>
+      <head>Processing Information</head>
+      <p>Processed by Kelly R. Grimm, September, 2009</p>
+      <p>Encoded by Kelly R. Grimm, October, 2009</p>
+    </processinfo>
+    <bioghist>
+      <head>Historical Note</head>
+      <bioghist>
+        <p>The Master Gardeners program is part of the North Carolina State Cooperative Extension Service. The program provides educational opportunities for Master Gardeners, as well as a forum where Master Gardeners can exchange information and expertise with others. Members organize and participate in outreach projects and fundraisers. The first Master Gardener class in Dare County was held in 1992.</p>
+        <p>Some of the Master Gardeners beautification projects have included the Dare County libraries, Hayman Boulvard, sea oats planting, and the Wanchese intersection. The group's primary project is the Outer Banks Arboretum and Teaching Garden. The Arboretum and Teaching Garden is meant to be an outdoor classroom that will provide horticultural education, memorial acknowledgement and enhancement properties. The goal of the garden is to test and display labeled plantings and planting practices that are suitable for a coastal environment, and to provide a garden for the pleasure of all citizents and visitors of Dare County. It features a number of theme gardens, such as the Central Garden, a Butterfly Garden and the Dune Garden. The Outer Banks Arboretum and Teaching Garden is located adjacent to the Thomas A. Baum Senior Center in Kill Devil Hills, North Carolina.</p>
+      </bioghist>
+    </bioghist>
+    <custodhist>
+      <head>Custodial History</head>
+      <p>Formerly classified as 33MSS-92</p>
+    </custodhist>
+    <prefercite>
+      <head>Preferred Citation</head>
+      <p>[Identification of item], ORG.5092, North Carolina Cooperative Extension-Master Gardeners Records, Outer Banks History Center, Manteo, N.C., U.S.A.</p>
+    </prefercite>
+    <acqinfo encodinganalog="541">
+      <head>Acquisitions Information</head>
+      <p>Donated by Susan Ruiz-Evans in 2008.</p>
+    </acqinfo>
+    <scopecontent>
+      <head>Collection Overview</head>
+      <p>The North Carolina Cooperative Extension-Master Gardeners Records consist of papers from the Dare Master Gardener Volunteer Association, and includes correspondence, photographs, meeting minutes, press releases, newspaper clippings, and a handbook.</p>
+    </scopecontent>
+    <controlaccess>
+      <controlaccess>
+        <corpname encodinganalog="610" source="local">Master gardeners--North Carolina--Dare County</corpname>
+      </controlaccess>
+      <controlaccess>
+        <subject encodinganalog="650" source="local">Gardening--North Carolina--Dare County</subject>
+        <subject encodinganalog="650" source="local">Urban beautification--North Carolina--Dare County</subject>
+      </controlaccess>
+    </controlaccess>
+    <dsc>
+      <c01 id="file41603" level="file">
+        <did>
+          <unittitle encodinganalog="title">Collection Inventories</unittitle>
+          <unitid type="level ID">41603</unitid>
+          <container id="cid28880" label="1:2.1" type="Folder" parent="cid1140527">1:2.1</container>
+          <origination label="creator">
+            <corpname role="Originator">North Carolina Cooperative Extension Service. Dare County Master Gardeners.</corpname>
+          </origination>
+          <origination label="Creator">
+            <corpname role="Originator">North Carolina Cooperative Extension-Master Gardeners</corpname>
+          </origination>
+        </did>
+      </c01>
+      <c01 id="series46835" level="series">
+        <did>
+          <unittitle encodinganalog="title">Meeting Minutes</unittitle>
+          <unitid type="level ID">46835</unitid>
+          <origination label="creator">
+            <corpname role="Originator">North Carolina Cooperative Extension Service. Dare County Master Gardeners.</corpname>
+          </origination>
+          <origination label="Creator">
+            <corpname role="Originator">North Carolina Cooperative Extension-Master Gardeners</corpname>
+          </origination>
+        </did>
+        <c02 id="file41604" level="file">
+          <did>
+            <unittitle encodinganalog="title">General Meetings</unittitle>
+            <unitid type="level ID">41604</unitid>
+            <container id="cid28881" label="1:3.1" type="Folder" parent="cid1140527">1:3.1</container>
+            <origination label="creator">
+              <corpname role="Originator">North Carolina Cooperative Extension Service. Dare County Master Gardeners.</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Originator">North Carolina Cooperative Extension-Master Gardeners</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file41605" level="file">
+          <did>
+            <unittitle encodinganalog="title">Start Up Committee</unittitle>
+            <unitid type="level ID">41605</unitid>
+            <container id="cid28882" label="1:3.2" type="Folder" parent="cid1140527">1:3.2</container>
+            <origination label="creator">
+              <corpname role="Originator">North Carolina Cooperative Extension Service. Dare County Master Gardeners.</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Originator">North Carolina Cooperative Extension-Master Gardeners</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file41606" level="file">
+          <did>
+            <unittitle encodinganalog="title">Executive Board</unittitle>
+            <unitid type="level ID">41606</unitid>
+            <container id="cid28883" label="1:3.3" type="Folder" parent="cid1140527">1:3.3</container>
+            <origination label="creator">
+              <corpname role="Originator">North Carolina Cooperative Extension Service. Dare County Master Gardeners.</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Originator">North Carolina Cooperative Extension-Master Gardeners</corpname>
+            </origination>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="series46836" level="series">
+        <did>
+          <unittitle encodinganalog="title">Organizational Papers</unittitle>
+          <unitid type="level ID">46836</unitid>
+          <origination label="creator">
+            <corpname role="Originator">North Carolina Cooperative Extension Service. Dare County Master Gardeners.</corpname>
+          </origination>
+          <origination label="Creator">
+            <corpname role="Originator">North Carolina Cooperative Extension-Master Gardeners</corpname>
+          </origination>
+        </did>
+        <c02 id="file41607" level="file">
+          <did>
+            <unittitle encodinganalog="title">Master Gardener's Handbook</unittitle>
+            <unitid type="level ID">41607</unitid>
+            <unitdate encodinganalog="date" type="inclusive">2004</unitdate>
+            <container id="cid28884" label="1:4.1" type="Folder" parent="cid1140527">1:4.1</container>
+            <origination label="creator">
+              <corpname role="Originator">North Carolina Cooperative Extension Service. Dare County Master Gardeners.</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Originator">North Carolina Cooperative Extension-Master Gardeners</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file41608" level="file">
+          <did>
+            <unittitle encodinganalog="title">Correspondence</unittitle>
+            <unitid type="level ID">41608</unitid>
+            <container id="cid28885" label="1:4.2" type="Folder" parent="cid1140527">1:4.2</container>
+            <origination label="creator">
+              <corpname role="Originator">North Carolina Cooperative Extension Service. Dare County Master Gardeners.</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Originator">North Carolina Cooperative Extension-Master Gardeners</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file41609" level="file">
+          <did>
+            <unittitle encodinganalog="title">Master Gardener Course Outline</unittitle>
+            <unitid type="level ID">41609</unitid>
+            <unitdate encodinganalog="date" type="inclusive">2004</unitdate>
+            <container id="cid28886" label="1:4.3" type="Folder" parent="cid1140527">1:4.3</container>
+            <origination label="creator">
+              <corpname role="Originator">North Carolina Cooperative Extension Service. Dare County Master Gardeners.</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Originator">North Carolina Cooperative Extension-Master Gardeners</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file41610" level="file">
+          <did>
+            <unittitle encodinganalog="title">A Lesson Plan on Seeds</unittitle>
+            <unitid type="level ID">41610</unitid>
+            <container id="cid28887" label="1:4.4" type="Folder" parent="cid1140527">1:4.4</container>
+            <origination label="creator">
+              <corpname role="Originator">North Carolina Cooperative Extension Service. Dare County Master Gardeners.</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Originator">North Carolina Cooperative Extension-Master Gardeners</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file41611" level="file">
+          <did>
+            <unittitle encodinganalog="title">Program Progress Report</unittitle>
+            <unitid type="level ID">41611</unitid>
+            <unitdate encodinganalog="date" type="inclusive">1995</unitdate>
+            <container id="cid28888" label="1:4.6" type="Folder" parent="cid1140527">1:4.6</container>
+            <origination label="creator">
+              <corpname role="Originator">North Carolina Cooperative Extension Service. Dare County Master Gardeners.</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Originator">North Carolina Cooperative Extension-Master Gardeners</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file41612" level="file">
+          <did>
+            <unittitle encodinganalog="title">Volunteer Requirements and Opportunities</unittitle>
+            <unitid type="level ID">41612</unitid>
+            <unitdate encodinganalog="date" type="inclusive">1996</unitdate>
+            <container id="cid28889" label="1:4.7" type="Folder" parent="cid1140527">1:4.7</container>
+            <origination label="creator">
+              <corpname role="Originator">North Carolina Cooperative Extension Service. Dare County Master Gardeners.</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Originator">North Carolina Cooperative Extension-Master Gardeners</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file41613" level="file">
+          <did>
+            <unittitle encodinganalog="title">Dare Day Booths</unittitle>
+            <unitid type="level ID">41613</unitid>
+            <unitdate encodinganalog="date" type="inclusive">1993-1996</unitdate>
+            <container id="cid28890" label="1:4.8" type="Folder" parent="cid1140527">1:4.8</container>
+            <origination label="creator">
+              <corpname role="Originator">North Carolina Cooperative Extension Service. Dare County Master Gardeners.</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Originator">North Carolina Cooperative Extension-Master Gardeners</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file41614" level="file">
+          <did>
+            <unittitle encodinganalog="title">Terra Ceia Farms Fall Fundraiser</unittitle>
+            <unitid type="level ID">41614</unitid>
+            <unitdate encodinganalog="date" type="inclusive">1993-1994</unitdate>
+            <container id="cid28891" label="1:4.9" type="Folder" parent="cid1140527">1:4.9</container>
+            <origination label="creator">
+              <corpname role="Originator">North Carolina Cooperative Extension Service. Dare County Master Gardeners.</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Originator">North Carolina Cooperative Extension-Master Gardeners</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file41615" level="file">
+          <did>
+            <unittitle encodinganalog="title">Garden Project Proposal</unittitle>
+            <unitid type="level ID">41615</unitid>
+            <unitdate encodinganalog="date" type="inclusive">2000</unitdate>
+            <container id="cid28892" label="1:4.10" type="Folder" parent="cid1140527">1:4.10</container>
+            <origination label="creator">
+              <corpname role="Originator">North Carolina Cooperative Extension Service. Dare County Master Gardeners.</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Originator">North Carolina Cooperative Extension-Master Gardeners</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file41616" level="file">
+          <did>
+            <unittitle encodinganalog="title">Facility Request Forms</unittitle>
+            <unitid type="level ID">41616</unitid>
+            <container id="cid28893" label="1:4.11" type="Folder" parent="cid1140527">1:4.11</container>
+            <origination label="creator">
+              <corpname role="Originator">North Carolina Cooperative Extension Service. Dare County Master Gardeners.</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Originator">North Carolina Cooperative Extension-Master Gardeners</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file41617" level="file">
+          <did>
+            <unittitle encodinganalog="title">Sodbuster Newsletter</unittitle>
+            <unitid type="level ID">41617</unitid>
+            <container id="cid28894" label="1:4.12" type="Folder" parent="cid1140527">1:4.12</container>
+            <origination label="creator">
+              <corpname role="Originator">North Carolina Cooperative Extension Service. Dare County Master Gardeners.</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Originator">North Carolina Cooperative Extension-Master Gardeners</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file41618" level="file">
+          <did>
+            <unittitle encodinganalog="title">Dare County Master Gardener Association Newsletter</unittitle>
+            <unitid type="level ID">41618</unitid>
+            <container id="cid28895" label="1:4.13" type="Folder" parent="cid1140527">1:4.13</container>
+            <origination label="creator">
+              <corpname role="Originator">North Carolina Cooperative Extension Service. Dare County Master Gardeners.</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Originator">North Carolina Cooperative Extension-Master Gardeners</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file41619" level="file">
+          <did>
+            <unittitle encodinganalog="title">Press Releases</unittitle>
+            <unitid type="level ID">41619</unitid>
+            <container id="cid28896" label="1:4.14" type="Folder" parent="cid1140527">1:4.14</container>
+            <origination label="creator">
+              <corpname role="Originator">North Carolina Cooperative Extension Service. Dare County Master Gardeners.</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Originator">North Carolina Cooperative Extension-Master Gardeners</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file41620" level="file">
+          <did>
+            <unittitle encodinganalog="title">Newspaper Clippings</unittitle>
+            <unitid type="level ID">41620</unitid>
+            <container id="cid28897" label="1:4.15" type="Folder" parent="cid1140527">1:4.15</container>
+            <origination label="creator">
+              <corpname role="Originator">North Carolina Cooperative Extension Service. Dare County Master Gardeners.</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Originator">North Carolina Cooperative Extension-Master Gardeners</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file41621" level="file">
+          <did>
+            <unittitle encodinganalog="title">Ephemera</unittitle>
+            <unitid type="level ID">41621</unitid>
+            <container id="cid28898" label="1:4.16" type="Folder" parent="cid1140527">1:4.16</container>
+            <origination label="creator">
+              <corpname role="Originator">North Carolina Cooperative Extension Service. Dare County Master Gardeners.</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Originator">North Carolina Cooperative Extension-Master Gardeners</corpname>
+            </origination>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="series46837" level="series">
+        <did>
+          <unittitle encodinganalog="title">Photographs</unittitle>
+          <unitid type="level ID">46837</unitid>
+          <origination label="creator">
+            <corpname role="Originator">North Carolina Cooperative Extension Service. Dare County Master Gardeners.</corpname>
+          </origination>
+          <origination label="Creator">
+            <corpname role="Originator">North Carolina Cooperative Extension-Master Gardeners</corpname>
+          </origination>
+        </did>
+        <c02 id="file41622" level="file">
+          <did>
+            <unittitle encodinganalog="title">Master Gardener Planning and Training Sessions</unittitle>
+            <unitid type="level ID">41622</unitid>
+            <container id="cid28899" label="1:5.1" type="Folder" parent="cid1140527">1:5.1</container>
+            <origination label="creator">
+              <corpname role="Originator">North Carolina Cooperative Extension Service. Dare County Master Gardeners.</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Originator">North Carolina Cooperative Extension-Master Gardeners</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file41623" level="file">
+          <did>
+            <unittitle encodinganalog="title">Master Gardener Meetings</unittitle>
+            <unitid type="level ID">41623</unitid>
+            <container id="cid28900" label="1:5.2" type="Folder" parent="cid1140527">1:5.2</container>
+            <origination label="creator">
+              <corpname role="Originator">North Carolina Cooperative Extension Service. Dare County Master Gardeners.</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Originator">North Carolina Cooperative Extension-Master Gardeners</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file41624" level="file">
+          <did>
+            <unittitle encodinganalog="title">State Conferences</unittitle>
+            <unitid type="level ID">41624</unitid>
+            <container id="cid28901" label="1:5.3" type="Folder" parent="cid1140527">1:5.3</container>
+            <origination label="creator">
+              <corpname role="Originator">North Carolina Cooperative Extension Service. Dare County Master Gardeners.</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Originator">North Carolina Cooperative Extension-Master Gardeners</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file41625" level="file">
+          <did>
+            <unittitle encodinganalog="title">Garden Tours</unittitle>
+            <unitid type="level ID">41625</unitid>
+            <container id="cid28902" label="1:5.4" type="Folder" parent="cid1140527">1:5.4</container>
+            <origination label="creator">
+              <corpname role="Originator">North Carolina Cooperative Extension Service. Dare County Master Gardeners.</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Originator">North Carolina Cooperative Extension-Master Gardeners</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file41626" level="file">
+          <did>
+            <unittitle encodinganalog="title">Master Gardener Classes</unittitle>
+            <unitid type="level ID">41626</unitid>
+            <container id="cid28903" label="1:5.5" type="Folder" parent="cid1140527">1:5.5</container>
+            <origination label="creator">
+              <corpname role="Originator">North Carolina Cooperative Extension Service. Dare County Master Gardeners.</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Originator">North Carolina Cooperative Extension-Master Gardeners</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file41627" level="file">
+          <did>
+            <unittitle encodinganalog="title">Master Gardener Graduations</unittitle>
+            <unitid type="level ID">41627</unitid>
+            <unitdate encodinganalog="date" type="inclusive">1993-1994, 1998</unitdate>
+            <container id="cid28904" label="1:5.6" type="Folder" parent="cid1140527">1:5.6</container>
+            <origination label="creator">
+              <corpname role="Originator">North Carolina Cooperative Extension Service. Dare County Master Gardeners.</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Originator">North Carolina Cooperative Extension-Master Gardeners</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file41628" level="file">
+          <did>
+            <unittitle encodinganalog="title">Coastal Gardening Festival</unittitle>
+            <unitid type="level ID">41628</unitid>
+            <container id="cid28905" label="1:5.7" type="Folder" parent="cid1140527">1:5.7</container>
+            <origination label="creator">
+              <corpname role="Originator">North Carolina Cooperative Extension Service. Dare County Master Gardeners.</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Originator">North Carolina Cooperative Extension-Master Gardeners</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file41629" level="file">
+          <did>
+            <unittitle encodinganalog="title">Appreciation Dinners</unittitle>
+            <unitid type="level ID">41629</unitid>
+            <unitdate encodinganalog="date" type="inclusive">1996, 2002</unitdate>
+            <container id="cid28906" label="1:5.8" type="Folder" parent="cid1140527">1:5.8</container>
+            <origination label="creator">
+              <corpname role="Originator">North Carolina Cooperative Extension Service. Dare County Master Gardeners.</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Originator">North Carolina Cooperative Extension-Master Gardeners</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file41630" level="file">
+          <did>
+            <unittitle encodinganalog="title">Arboretum and Teaching Garden</unittitle>
+            <unitid type="level ID">41630</unitid>
+            <container id="cid28907" label="2:5.9" type="Folder" parent="cid1140528">2:5.9</container>
+            <origination label="creator">
+              <corpname role="Originator">North Carolina Cooperative Extension Service. Dare County Master Gardeners.</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Originator">North Carolina Cooperative Extension-Master Gardeners</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file41631" level="file">
+          <did>
+            <unittitle encodinganalog="title">Christmas Centerpieces</unittitle>
+            <unitid type="level ID">41631</unitid>
+            <container id="cid28908" label="2:5.10" type="Folder" parent="cid1140528">2:5.10</container>
+            <origination label="creator">
+              <corpname role="Originator">North Carolina Cooperative Extension Service. Dare County Master Gardeners.</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Originator">North Carolina Cooperative Extension-Master Gardeners</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file41632" level="file">
+          <did>
+            <unittitle encodinganalog="title">Butterfly Garden</unittitle>
+            <unitid type="level ID">41632</unitid>
+            <container id="cid28909" label="2:5.11" type="Folder" parent="cid1140528">2:5.11</container>
+            <origination label="creator">
+              <corpname role="Originator">North Carolina Cooperative Extension Service. Dare County Master Gardeners.</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Originator">North Carolina Cooperative Extension-Master Gardeners</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file41633" level="file">
+          <did>
+            <unittitle encodinganalog="title">ADAP Programs</unittitle>
+            <unitid type="level ID">41633</unitid>
+            <container id="cid28910" label="2:5.12" type="Folder" parent="cid1140528">2:5.12</container>
+            <origination label="creator">
+              <corpname role="Originator">North Carolina Cooperative Extension Service. Dare County Master Gardeners.</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Originator">North Carolina Cooperative Extension-Master Gardeners</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file41634" level="file">
+          <did>
+            <unittitle encodinganalog="title">Wanchese Intersection Project</unittitle>
+            <unitid type="level ID">41634</unitid>
+            <unitdate encodinganalog="date" type="inclusive">1992</unitdate>
+            <container id="cid28911" label="2:5.13" type="Folder" parent="cid1140528">2:5.13</container>
+            <origination label="creator">
+              <corpname role="Originator">North Carolina Cooperative Extension Service. Dare County Master Gardeners.</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Originator">North Carolina Cooperative Extension-Master Gardeners</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file41635" level="file">
+          <did>
+            <unittitle encodinganalog="title">Britthaven Planting Project</unittitle>
+            <unitid type="level ID">41635</unitid>
+            <unitdate encodinganalog="date" type="inclusive">1993</unitdate>
+            <container id="cid28912" label="2:5.14" type="Folder" parent="cid1140528">2:5.14</container>
+            <origination label="creator">
+              <corpname role="Originator">North Carolina Cooperative Extension Service. Dare County Master Gardeners.</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Originator">North Carolina Cooperative Extension-Master Gardeners</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file41636" level="file">
+          <did>
+            <unittitle encodinganalog="title">Manteo and Kill Devil Hills Libraries Project</unittitle>
+            <unitid type="level ID">41636</unitid>
+            <unitdate encodinganalog="date" type="inclusive">1993</unitdate>
+            <container id="cid28913" label="2:5.15" type="Folder" parent="cid1140528">2:5.15</container>
+            <origination label="creator">
+              <corpname role="Originator">North Carolina Cooperative Extension Service. Dare County Master Gardeners.</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Originator">North Carolina Cooperative Extension-Master Gardeners</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file41637" level="file">
+          <did>
+            <unittitle encodinganalog="title">Hayman Blvd. Project</unittitle>
+            <unitid type="level ID">41637</unitid>
+            <unitdate encodinganalog="date" type="inclusive">1997</unitdate>
+            <container id="cid28914" label="2:5.16" type="Folder" parent="cid1140528">2:5.16</container>
+            <origination label="creator">
+              <corpname role="Originator">North Carolina Cooperative Extension Service. Dare County Master Gardeners.</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Originator">North Carolina Cooperative Extension-Master Gardeners</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file41638" level="file">
+          <did>
+            <unittitle encodinganalog="title">Sea Oats Planting Project</unittitle>
+            <unitid type="level ID">41638</unitid>
+            <unitdate encodinganalog="date" type="inclusive">1998</unitdate>
+            <container id="cid28915" label="2:5.17" type="Folder" parent="cid1140528">2:5.17</container>
+            <origination label="creator">
+              <corpname role="Originator">North Carolina Cooperative Extension Service. Dare County Master Gardeners.</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Originator">North Carolina Cooperative Extension-Master Gardeners</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file41639" level="file">
+          <did>
+            <unittitle encodinganalog="title">4-H Summer Camp Project</unittitle>
+            <unitid type="level ID">41639</unitid>
+            <unitdate encodinganalog="date" type="inclusive">2002</unitdate>
+            <container id="cid28916" label="2:5.18" type="Folder" parent="cid1140528">2:5.18</container>
+            <origination label="creator">
+              <corpname role="Originator">North Carolina Cooperative Extension Service. Dare County Master Gardeners.</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Originator">North Carolina Cooperative Extension-Master Gardeners</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file41640" level="file">
+          <did>
+            <unittitle encodinganalog="title">Plant Clinics</unittitle>
+            <unitid type="level ID">41640</unitid>
+            <unitdate encodinganalog="date" type="inclusive">1992, 1997</unitdate>
+            <container id="cid28917" label="2:5.19" type="Folder" parent="cid1140528">2:5.19</container>
+            <origination label="creator">
+              <corpname role="Originator">North Carolina Cooperative Extension Service. Dare County Master Gardeners.</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Originator">North Carolina Cooperative Extension-Master Gardeners</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file41641" level="file">
+          <did>
+            <unittitle encodinganalog="title">Native Plants Workshop</unittitle>
+            <unitid type="level ID">41641</unitid>
+            <unitdate encodinganalog="date" type="inclusive">1997</unitdate>
+            <container id="cid28918" label="2:5.20" type="Folder" parent="cid1140528">2:5.20</container>
+            <origination label="creator">
+              <corpname role="Originator">North Carolina Cooperative Extension Service. Dare County Master Gardeners.</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Originator">North Carolina Cooperative Extension-Master Gardeners</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file41642" level="file">
+          <did>
+            <unittitle encodinganalog="title">Miscellaneous Projects and Workshops</unittitle>
+            <unitid type="level ID">41642</unitid>
+            <container id="cid28919" label="2:5.21" type="Folder" parent="cid1140528">2:5.21</container>
+            <origination label="creator">
+              <corpname role="Originator">North Carolina Cooperative Extension Service. Dare County Master Gardeners.</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Originator">North Carolina Cooperative Extension-Master Gardeners</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file41643" level="file">
+          <did>
+            <unittitle encodinganalog="title">Miscellaneous Images</unittitle>
+            <unitid type="level ID">41643</unitid>
+            <container id="cid28920" label="2:5.22" type="Folder" parent="cid1140528">2:5.22</container>
+            <origination label="creator">
+              <corpname role="Originator">North Carolina Cooperative Extension Service. Dare County Master Gardeners.</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Originator">North Carolina Cooperative Extension-Master Gardeners</corpname>
+            </origination>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

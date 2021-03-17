@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="ISO-8859-15" standalone="yes"?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+    <eadid countrycode="US" mainagencycode="NC-Ar">PC.5318</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Sarah Owens Collection of Postal Ephemera<num>PC.5318</num></titleproper>
+        <author>State Archives of North Carolina</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>State Archives of North Carolina</publisher>
+        <date type="publication" normal="20210317">2021-03-17T14:40:23</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using AXAEM<date normal="20210317">2021-03-17T14:40:23</date></creation>
+      <langusage>Description is in<language>English</language></langusage>
+    </profiledesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Sarah Owens Collection of Postal Ephemera<num>PC.5318</num></titleproper>
+      <author>State Archives of North Carolina</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc id="collection4619" level="collection" relatedencoding="dc">
+    <did>
+      <unittitle encodinganalog="title">Sarah Owens Collection of Postal Ephemera</unittitle>
+      <unitid type="local ID">PC.5318</unitid>
+      <unitdate encodinganalog="date" type="inclusive" normal="1971/1976">1971-1976</unitdate>
+      <container id="cid1285697" label="Box 1" type="Box">Box 1</container>
+      <langmaterial>
+        <language encodinganalog="language" langcode="eng">English</language>
+      </langmaterial>
+      <physdesc>
+        <genreform>FOLDER</genreform>
+      </physdesc>
+      <physdesc>
+        <extent label="Calculated Extent" encodinganalog="format" unit="cubic feet">0.200</extent>
+      </physdesc>
+      <abstract label="Abstract">This collection consists of first day covers and other commemorative stamps issued by the United States Postal Service in honor of significant events in the nation's history. These items primarily relate to topics of historical significance to the Outer Banks of North Carolina and were collected by Manteo resident Sarah Alford Owens from 1971 to 1976.</abstract>
+      <physloc label="Location">7E3</physloc>
+      <origination label="creator">
+        <persname role="Originator">Owens, Sarah Frances Alford, 1937-2015</persname>
+      </origination>
+      <origination label="Creator">
+        <corpname role="Author">United States Postal Service</corpname>
+      </origination>
+      <repository encodinganalog="publisher">
+        <corpname>Outer Banks History Center</corpname>
+      </repository>
+    </did>
+    <acqinfo>
+      <p>Gift</p>
+    </acqinfo>
+    <arrangement>
+      <head>Arrangement</head>
+      <p>Chronological.</p>
+    </arrangement>
+    <accessrestrict>
+      <head>Access Restrictions</head>
+      <p>Available for research.</p>
+    </accessrestrict>
+    <userestrict>
+      <head>Copyright Notice</head>
+      <p>Copyright is retained by the authors of these materials, or their descendants, as stipulated by the United States copyright law (Title 17 US Code). Individual researchers are responsible for using these materials in conformance with copyright law as well as any donor restrictions accompanying these materials.</p>
+    </userestrict>
+    <processinfo>
+      <head>Processing Information</head>
+      <p>Processed by Samantha Crisp, September 2020.</p>
+    </processinfo>
+    <bioghist>
+      <head>Biographical/Historical</head>
+      <p>Sarah Frances (Alford) Owens was born 19 February 1937 in Manteo, North Carolina, to Edwin Joseph Alford (1899-1937) and Cora Mae Daniels (1910-1998). She had one older brother, Edwin Joseph Alford, Jr. (1930-2005), and several younger siblings: Dotty Basnight Fry, Sally Basnight Scarborough, Della Basnight, Saint Basnight, Jr., and Marc Basnight. She married Robert Valentine "Bobby" Owens 8 September 1956 and had two children: Robert Valentine Owens, III (born 1957), and Lisa Sterling (Owens) Hooper (1960-2007). During her lifetime, Sarah performed in The Lost Colony, served with the Manteo Woman's Club, and volunteered with the Dare County Arts Council. She collaborated with photographer Aycock Brown to promote tourism to the Outer Banks in the mid-20th century.</p>
+    </bioghist>
+    <custodhist>
+      <p>Sarah Owens</p>
+    </custodhist>
+    <custodhist>
+      <head>Custodial History</head>
+      <p>Formerly classified as 33EPH-117</p>
+    </custodhist>
+    <prefercite>
+      <head>Preferred Citation</head>
+      <p>[Identification of item], PC.5318, Sarah Owens Collection of Postal Ephemera, Outer Banks History Center, Manteo, NC, U.S.A.</p>
+    </prefercite>
+    <acqinfo>
+      <head>Provenance</head>
+      <p>Donated by Sarah Owens.</p>
+    </acqinfo>
+    <scopecontent>
+      <head>Scope and Content</head>
+      <p>The Sarah Owens Collection of Postal Ephemera, 1971-1976, primarily consists of first day covers and other commemorative stamps issued by the United States Postal Service in honor of significant events in the nation's history. These items primarily relate to topics of historical significance to the Outer Banks of North Carolina, such as the Cape Hatteras National Seashore and the Wright Brothers' first flight. In addition to stamps, several programs from celebratory events are included. These materials were collected by Sarah Owens.</p>
+    </scopecontent>
+    <controlaccess>
+      <controlaccess>
+        <corpname encodinganalog="610" source="local">United States Postal Service</corpname>
+      </controlaccess>
+      <controlaccess>
+        <subject encodinganalog="650" source="local">Commemorative postage stamps--United States</subject>
+        <subject encodinganalog="650" source="local">Covers (philately)--North Carolina</subject>
+      </controlaccess>
+    </controlaccess>
+    <dsc>
+      <c01 id="item113428" level="item">
+        <did>
+          <unittitle encodinganalog="title">First Day of Issue US Airmail Nine Cent Stamp</unittitle>
+          <unitid type="level ID">113428</unitid>
+          <unitid identifier="33EPH-117-6" type="Call Number" label="Location: OBHC 22G1">33EPH-117-6</unitid>
+          <unitid identifier="33EPH-117-6" type="OBHC Record Id" label="OBHC Record Id">33EPH-117-6</unitid>
+          <unitid identifier="5000.3.557.6" type="Mars ID" label="Mars ID">5000.3.557.6</unitid>
+          <unitdate encodinganalog="date" type="inclusive" normal="1971/1971">15 May 1971</unitdate>
+          <container id="cid1285853" label="Box 1" type="Folder" parent="cid1285697">First Day of Issue US Airmail Nine Cent Stamp</container>
+          <physdesc>
+            <genreform>Envelope(s)</genreform>
+          </physdesc>
+          <origination label="creator">
+            <persname role="Originator">Owens, Sarah Frances Alford, 1937-2015</persname>
+          </origination>
+          <origination label="Creator">
+            <corpname role="Author">NA</corpname>
+          </origination>
+        </did>
+        <acqinfo>
+          <p>Gift</p>
+        </acqinfo>
+        <processinfo>
+          <head>Processing Information</head>
+          <p>US POSTAL SERVICE</p>
+        </processinfo>
+        <custodhist>
+          <p>Sarah Owens</p>
+        </custodhist>
+        <scopecontent>
+          <head>Scope and Content</head>
+          <p>envelope publicizes The First Flight Society</p>
+        </scopecontent>
+      </c01>
+      <c01 id="item113432" level="item">
+        <did>
+          <unittitle encodinganalog="title">First Day of Issue Ceremony Nine Cent Air Mail Post Card and Nine Cent Air Mail Postage Stamp</unittitle>
+          <unitid type="level ID">113432</unitid>
+          <unitid identifier="33EPH-117-11" type="Call Number" label="Location: OBHC 22G1">33EPH-117-11</unitid>
+          <unitid identifier="33EPH-117-11" type="OBHC Record Id" label="OBHC Record Id">33EPH-117-11</unitid>
+          <unitid identifier="5000.3.557.10" type="Mars ID" label="Mars ID">5000.3.557.10</unitid>
+          <unitdate encodinganalog="date" type="inclusive" normal="1971/1971">15 May 1971</unitdate>
+          <container id="cid1285854" label="Box 1" type="Folder" parent="cid1285697">First Day of Issue Ceremony Nine Cent Air Mail Post Card and Nine Cent Air Mail Postage Stamp</container>
+          <physdesc>
+            <genreform>Programs</genreform>
+          </physdesc>
+          <origination label="creator">
+            <persname role="Originator">Owens, Sarah Frances Alford, 1937-2015</persname>
+          </origination>
+          <origination label="Creator">
+            <corpname role="Author">NA</corpname>
+          </origination>
+        </did>
+        <acqinfo>
+          <p>Gift</p>
+        </acqinfo>
+        <processinfo>
+          <head>Processing Information</head>
+          <p>US POSTAL SERVICE</p>
+        </processinfo>
+        <custodhist>
+          <p>Sarah Owens</p>
+        </custodhist>
+      </c01>
+      <c01 id="item209278" level="item">
+        <did>
+          <unittitle encodinganalog="title">First Day of Issue Nine Cent Air Mail Postal Card and Nine Cent Air Mail Stamp Ceremony Program, Kitty Hawk, North Carolina</unittitle>
+          <unitid type="level ID">209278</unitid>
+          <unitdate encodinganalog="date" type="inclusive" normal="1971/1971">15 May 1971</unitdate>
+          <container id="cid1285855" label="Box 1" type="Folder" parent="cid1285697">First Day of Issue Nine Cent Air Mail Postal Card and Nine Cent Air Mail Stamp Ceremony Program, Kitty Hawk, North Carolina</container>
+          <origination label="creator">
+            <persname role="Originator">Owens, Sarah Frances Alford, 1937-2015</persname>
+          </origination>
+        </did>
+      </c01>
+      <c01 id="item113423" level="item">
+        <did>
+          <unittitle encodinganalog="title">Official First Day Card Nine Cent Airmail Stamp</unittitle>
+          <unitid type="level ID">113423</unitid>
+          <unitid identifier="33EPH-117-1" type="Call Number" label="Location: OBHC 22G1">33EPH-117-1</unitid>
+          <unitid identifier="33EPH-117-1" type="OBHC Record Id" label="OBHC Record Id">33EPH-117-1</unitid>
+          <unitid identifier="5000.3.557.1" type="Mars ID" label="Mars ID">5000.3.557.1</unitid>
+          <unitdate encodinganalog="date" type="inclusive" normal="1971/1971">15 May 1971</unitdate>
+          <container id="cid1285856" label="Box 1" type="Folder" parent="cid1285697">Official First Day Card Nine Cent Airmail Stamp</container>
+          <physdesc>
+            <genreform>Envelope(s)</genreform>
+          </physdesc>
+          <origination label="creator">
+            <persname role="Originator">Owens, Sarah Frances Alford, 1937-2015</persname>
+          </origination>
+          <origination label="Creator">
+            <corpname role="Author">NA</corpname>
+          </origination>
+        </did>
+        <acqinfo>
+          <p>Gift</p>
+        </acqinfo>
+        <processinfo>
+          <head>Processing Information</head>
+          <p>US POSTAL SERVICE</p>
+        </processinfo>
+        <custodhist>
+          <p>Sarah Owens</p>
+        </custodhist>
+        <scopecontent>
+          <head>Scope and Content</head>
+          <p>Post Card shows "monument of First Flight 12/17/1903, at the time of First Sep on the Moon 07/20/1969"</p>
+        </scopecontent>
+      </c01>
+      <c01 id="item113430" level="item">
+        <did>
+          <unittitle encodinganalog="title">First Day of Issue Inaugurating the US Postal Service</unittitle>
+          <unitid type="level ID">113430</unitid>
+          <unitid identifier="33EPH-117-8" type="Call Number" label="Location: OBHC 22G1">33EPH-117-8</unitid>
+          <unitid identifier="33EPH-117-8" type="OBHC Record Id" label="OBHC Record Id">33EPH-117-8</unitid>
+          <unitid identifier="5000.3.557.8" type="Mars ID" label="Mars ID">5000.3.557.8</unitid>
+          <unitdate encodinganalog="date" type="inclusive" normal="1971/1971">1 July 1971</unitdate>
+          <container id="cid1285857" label="Box 1" type="Folder" parent="cid1285697">First Day of Issue Inaugurating the US Postal Service</container>
+          <physdesc>
+            <genreform>Envelope(s)</genreform>
+          </physdesc>
+          <origination label="creator">
+            <persname role="Originator">Owens, Sarah Frances Alford, 1937-2015</persname>
+          </origination>
+          <origination label="Creator">
+            <corpname role="Author">NA</corpname>
+          </origination>
+        </did>
+        <acqinfo>
+          <p>Gift</p>
+        </acqinfo>
+        <processinfo>
+          <head>Processing Information</head>
+          <p>US POSTAL SERVICE</p>
+        </processinfo>
+        <custodhist>
+          <p>Sarah Owens</p>
+        </custodhist>
+      </c01>
+      <c01 id="item113434" level="item">
+        <did>
+          <unittitle encodinganalog="title">The National Parks Centennial Stamps</unittitle>
+          <unitid type="level ID">113434</unitid>
+          <unitid identifier="33EPH-117-13" type="Call Number" label="Location: OBHC 22G1">33EPH-117-13</unitid>
+          <unitid identifier="33EPH-117-13" type="OBHC Record Id" label="OBHC Record Id">33EPH-117-13</unitid>
+          <unitid identifier="5000.3.557.12" type="Mars ID" label="Mars ID">5000.3.557.12</unitid>
+          <unitdate encodinganalog="date" type="inclusive" normal="1972/1972">5 January 1972</unitdate>
+          <container id="cid1285858" label="Box 1" type="Folder" parent="cid1285697">The National Parks Centennial Stamps</container>
+          <physdesc>
+            <genreform>Pamphlets</genreform>
+          </physdesc>
+          <origination label="creator">
+            <persname role="Originator">Owens, Sarah Frances Alford, 1937-2015</persname>
+          </origination>
+          <origination label="Creator">
+            <corpname role="Author">NA</corpname>
+          </origination>
+        </did>
+        <acqinfo>
+          <p>Gift</p>
+        </acqinfo>
+        <processinfo>
+          <head>Processing Information</head>
+          <p>US POSTAL SERVICE</p>
+        </processinfo>
+        <custodhist>
+          <p>Sarah Owens</p>
+        </custodhist>
+      </c01>
+      <c01 id="item113425" level="item">
+        <did>
+          <unittitle encodinganalog="title">First Day of Issue Cape Hatteras National Park Envelope and National Parks Centennial Stamps</unittitle>
+          <unitid type="level ID">113425</unitid>
+          <unitid identifier="33EPH-117-3" type="Call Number" label="Location: OBHC 22G1">33EPH-117-3</unitid>
+          <unitid identifier="33EPH-117-3" type="OBHC Record Id" label="OBHC Record Id">33EPH-117-3</unitid>
+          <unitid identifier="5000.3.557.3" type="Mars ID" label="Mars ID">5000.3.557.3</unitid>
+          <unitdate encodinganalog="date" type="inclusive" normal="1972/1972">5 April 1972</unitdate>
+          <container id="cid1285859" label="Box 1" type="Folder" parent="cid1285697">First Day of Issue Cape Hatteras National Park Envelope and National Parks Centennial Stamps</container>
+          <physdesc>
+            <genreform>Envelope(s)</genreform>
+          </physdesc>
+          <origination label="creator">
+            <persname role="Originator">Owens, Sarah Frances Alford, 1937-2015</persname>
+          </origination>
+          <origination label="Creator">
+            <corpname role="Author">NA</corpname>
+          </origination>
+        </did>
+        <acqinfo>
+          <p>Gift</p>
+        </acqinfo>
+        <processinfo>
+          <head>Processing Information</head>
+          <p>US POSTAL SERVICE</p>
+        </processinfo>
+        <custodhist>
+          <p>Sarah Owens</p>
+        </custodhist>
+        <scopecontent>
+          <head>Scope and Content</head>
+          <p>envelope show Bodie Island Lighthouse as "Oregon Juliet Lighthouse", an explanation inside the envelope states perhaps the error will make the envelope a collectors item one day</p>
+        </scopecontent>
+      </c01>
+      <c01 id="item113429" level="item">
+        <did>
+          <unittitle encodinganalog="title">First Day of Issue National Park Centennial Stamps</unittitle>
+          <unitid type="level ID">113429</unitid>
+          <unitid identifier="33EPH-117-7" type="Call Number" label="Location: OBHC 22G1">33EPH-117-7</unitid>
+          <unitid identifier="33EPH-117-7" type="OBHC Record Id" label="OBHC Record Id">33EPH-117-7</unitid>
+          <unitid identifier="5000.3.557.7" type="Mars ID" label="Mars ID">5000.3.557.7</unitid>
+          <unitdate encodinganalog="date" type="inclusive" normal="1972/1972">5 April 1972</unitdate>
+          <container id="cid1285860" label="Box 1" type="Folder" parent="cid1285697">First Day of Issue National Park Centennial Stamps</container>
+          <physdesc>
+            <genreform>Envelope(s)</genreform>
+          </physdesc>
+          <origination label="creator">
+            <persname role="Originator">Owens, Sarah Frances Alford, 1937-2015</persname>
+          </origination>
+          <origination label="Creator">
+            <corpname role="Author">NA</corpname>
+          </origination>
+        </did>
+        <acqinfo>
+          <p>Gift</p>
+        </acqinfo>
+        <processinfo>
+          <head>Processing Information</head>
+          <p>US POSTAL SERVICE</p>
+        </processinfo>
+        <custodhist>
+          <p>Sarah Owens</p>
+        </custodhist>
+        <scopecontent>
+          <head>Scope and Content</head>
+          <p>envelope shows a representation of the Cape Hatteras Lighthouse and a surfboat with USLS members in it</p>
+        </scopecontent>
+      </c01>
+      <c01 id="item113424" level="item">
+        <did>
+          <unittitle encodinganalog="title">First Day of Issue of National Parks Centennial Envelope and Postage Stamps</unittitle>
+          <unitid type="level ID">113424</unitid>
+          <unitid identifier="33EPH-117-2" type="Call Number" label="Location: OBHC 22G1">33EPH-117-2</unitid>
+          <unitid identifier="33EPH-117-2" type="OBHC Record Id" label="OBHC Record Id">33EPH-117-2</unitid>
+          <unitid identifier="5000.3.557.2" type="Mars ID" label="Mars ID">5000.3.557.2</unitid>
+          <unitdate encodinganalog="date" type="inclusive" normal="1972/1972">5 April 1972</unitdate>
+          <container id="cid1285861" label="Box 1" type="Folder" parent="cid1285697">First Day of Issue of National Parks Centennial Envelope and Postage Stamps</container>
+          <physdesc>
+            <genreform>Envelope(s)</genreform>
+          </physdesc>
+          <origination label="creator">
+            <persname role="Originator">Owens, Sarah Frances Alford, 1937-2015</persname>
+          </origination>
+          <origination label="Creator">
+            <corpname role="Author">NA</corpname>
+          </origination>
+        </did>
+        <acqinfo>
+          <p>Gift</p>
+        </acqinfo>
+        <processinfo>
+          <head>Processing Information</head>
+          <p>US POSTAL SERVICE</p>
+        </processinfo>
+        <custodhist>
+          <p>Sarah Owens</p>
+        </custodhist>
+      </c01>
+      <c01 id="item113431" level="item">
+        <did>
+          <unittitle encodinganalog="title">Invitation to Ceremony for the First Day of Issuance of the Cape Hatteras National Seashore Commemorative Stamps Honoring the National Parks Centennial Year</unittitle>
+          <unitid type="level ID">113431</unitid>
+          <unitid identifier="33EPH-117-9" type="Call Number" label="Location: OBHC 22G1">33EPH-117-9</unitid>
+          <unitid identifier="33EPH-117-9" type="OBHC Record Id" label="OBHC Record Id">33EPH-117-9</unitid>
+          <unitid identifier="5000.3.557.9" type="Mars ID" label="Mars ID">5000.3.557.9</unitid>
+          <unitdate encodinganalog="date" type="inclusive" normal="1972/1972">4 May 1972</unitdate>
+          <container id="cid1285862" label="Box 1" type="Folder" parent="cid1285697">Invitation to Ceremony for the First Day of Issuance of the Cape Hatteras National Seashore Commemorative Stamps Honoring the National Parks Centennial Year</container>
+          <physdesc>
+            <genreform>Ephemera, printed</genreform>
+          </physdesc>
+          <origination label="creator">
+            <persname role="Originator">Owens, Sarah Frances Alford, 1937-2015</persname>
+          </origination>
+          <origination label="Creator">
+            <corpname role="Author">NA</corpname>
+          </origination>
+        </did>
+        <acqinfo>
+          <p>Gift</p>
+        </acqinfo>
+        <processinfo>
+          <head>Processing Information</head>
+          <p>NATIONAL PARK SERVICE</p>
+        </processinfo>
+        <custodhist>
+          <p>Sarah Owens</p>
+        </custodhist>
+      </c01>
+      <c01 id="item113427" level="item">
+        <did>
+          <unittitle encodinganalog="title">First Day of Issue, US Postal Service, People Serving You</unittitle>
+          <unitid type="level ID">113427</unitid>
+          <unitid identifier="33EPH-117-5" type="Call Number" label="Location: OBHC 22G1">33EPH-117-5</unitid>
+          <unitid identifier="33EPH-117-5" type="OBHC Record Id" label="OBHC Record Id">33EPH-117-5</unitid>
+          <unitid identifier="5000.3.557.5" type="Mars ID" label="Mars ID">5000.3.557.5</unitid>
+          <unitdate encodinganalog="date" type="inclusive" normal="1973/1973">30 April 1973</unitdate>
+          <container id="cid1285863" label="Box 1" type="Folder" parent="cid1285697">First Day of Issue, US Postal Service, People Serving You</container>
+          <physdesc>
+            <genreform>Envelope(s)</genreform>
+          </physdesc>
+          <origination label="creator">
+            <persname role="Originator">Owens, Sarah Frances Alford, 1937-2015</persname>
+          </origination>
+          <origination label="Creator">
+            <corpname role="Author">NA</corpname>
+          </origination>
+        </did>
+        <acqinfo>
+          <p>Gift</p>
+        </acqinfo>
+        <processinfo>
+          <head>Processing Information</head>
+          <p>US POSTAL SERVICE</p>
+        </processinfo>
+        <custodhist>
+          <p>Sarah Owens</p>
+        </custodhist>
+        <scopecontent>
+          <head>Scope and Content</head>
+          <p>one 4 1/2 x 10 1/2 envelope with 10 stamps</p>
+        </scopecontent>
+      </c01>
+      <c01 id="item113433" level="item">
+        <did>
+          <unittitle encodinganalog="title">First Day of Issue Ceremony 21 Cent International Airmail Postal Card</unittitle>
+          <unitid type="level ID">113433</unitid>
+          <unitid identifier="33EPH-117-12" type="Call Number" label="Location: OBHC 22G1">33EPH-117-12</unitid>
+          <unitid identifier="33EPH-117-12" type="OBHC Record Id" label="OBHC Record Id">33EPH-117-12</unitid>
+          <unitid identifier="5000.3.557.11" type="Mars ID" label="Mars ID">5000.3.557.11</unitid>
+          <unitdate encodinganalog="date" type="inclusive" normal="1975/1975">17 December 1975</unitdate>
+          <container id="cid1285864" label="Box 1" type="Folder" parent="cid1285697">First Day of Issue Ceremony 21 Cent International Airmail Postal Card</container>
+          <physdesc>
+            <genreform>Programs</genreform>
+          </physdesc>
+          <origination label="creator">
+            <persname role="Originator">Owens, Sarah Frances Alford, 1937-2015</persname>
+          </origination>
+          <origination label="Creator">
+            <corpname role="Author">NA</corpname>
+          </origination>
+        </did>
+        <acqinfo>
+          <p>Gift</p>
+        </acqinfo>
+        <processinfo>
+          <head>Processing Information</head>
+          <p>US POSTAL SERVICE</p>
+        </processinfo>
+        <custodhist>
+          <p>Sarah Owens</p>
+        </custodhist>
+      </c01>
+      <c01 id="item113426" level="item">
+        <did>
+          <unittitle encodinganalog="title">Envelope Commemorating Wright Brothers Flight with Stamps Commemorating the 50th Anniversary of Commercial Aviation</unittitle>
+          <unitid type="level ID">113426</unitid>
+          <unitid identifier="33EPH-117-4" type="Call Number" label="Location: OBHC 22G1">33EPH-117-4</unitid>
+          <unitid identifier="33EPH-117-4" type="OBHC Record Id" label="OBHC Record Id">33EPH-117-4</unitid>
+          <unitid identifier="5000.3.557.4" type="Mars ID" label="Mars ID">5000.3.557.4</unitid>
+          <unitdate encodinganalog="date" type="inclusive" normal="1976/1976">17 December 1976</unitdate>
+          <container id="cid1285865" label="Box 1" type="Folder" parent="cid1285697">Envelope Commemorating Wright Brothers Flight with Stamps Commemorating the 50th Anniversary of Commercial Aviation</container>
+          <physdesc>
+            <genreform>Envelope(s)</genreform>
+          </physdesc>
+          <origination label="creator">
+            <persname role="Originator">Owens, Sarah Frances Alford, 1937-2015</persname>
+          </origination>
+          <origination label="Creator">
+            <corpname role="Author">NA</corpname>
+          </origination>
+        </did>
+        <acqinfo>
+          <p>Gift</p>
+        </acqinfo>
+        <processinfo>
+          <head>Processing Information</head>
+          <p>US POSTAL SERVICE</p>
+        </processinfo>
+        <custodhist>
+          <p>Sarah Owens</p>
+        </custodhist>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>
