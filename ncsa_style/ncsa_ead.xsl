@@ -773,6 +773,12 @@
         <xsl:if test="@render='italics'">
             <i><xsl:apply-templates/></i>
         </xsl:if>
+        <xsl:if test="@render='italic'">
+            <i><xsl:apply-templates/></i>
+        </xsl:if>
+        <xsl:if test="@render='underline'">
+            <u><xsl:apply-templates/></u>
+        </xsl:if>
     </xsl:template>
     
     <xsl:template match="lb">
