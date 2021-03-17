@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Lookup for County Codes -->
+
+<ccodes>
+    <cod code="eng" value="English">English</cod>
+    <cod code="fre" value="French">French</cod>
+    <cod code="ger" value="German">German</cod>
+</ccodes>

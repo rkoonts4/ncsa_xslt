@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<elements>
+    <element tag="abbr" human="Abbreviation" />
+    <element tag="abstract" human="Abstract" />
+    <element tag="accessrestrict" human="Conditions Governing Access" />
+    <element tag="accruals" human="Accruals" />
+    <element tag="acqinfo" human="Acquisition Information" />
+    <element tag="address" human="Address" />
+    <element tag="addressline" human="Address Line" />
+    <element tag="altformavail" human="Alternative Form Available" />
+    <element tag="appraisal" human="Appraisal" />
+    <element tag="arc" human="Arc" />
+    <element tag="archdesc" human="Archival Description" />
+    <element tag="archdescgrp" human="Archival Description Group" />
+    <element tag="archref" human="Archival Reference" />
+    <element tag="arrangement" human="Arrangement" />
+    <element tag="author" human="Author" />
+    <element tag="bibliography" human="Bibliography" />
+    <element tag="bibref" human="Bibliographic Reference" />
+    <element tag="bibseries" human="Bibliographic Series" />
+    <element tag="bioghist" human="Biography or History" />
+    <element tag="blockquote" human="Block Quote" />
+    <element tag="change" human="Change" />
+    <element tag="chronitem" human="Chronology List Item" />
+    <element tag="chronlist" human="Chronology List" />
+    <element tag="colspec" human="Table Column Specification" />
+    <element tag="container" human="Container" />
+    <element tag="controlaccess" human="Controlled Access Headings" />
+    <element tag="corpname" human="Corporate Name" />
+    <element tag="creation" human="Creation" />
+    <element tag="custodhist" human="Custodial History" />
+    <element tag="dao" human="Digital Archival Object" />
+    <element tag="daodesc" human="Digital Archival Object Description" />
+    <element tag="daogrp" human="Digital Archival Object Group" />
+    <element tag="daoloc" human="Digital Archival Object Location" />
+    <element tag="date" human="Date" />
+    <element tag="defitem" human="Definition List Item" />
+    <element tag="descgrp" human="Description Group" />
+    <element tag="descrules" human="Descriptive Rules" />
+    <element tag="did" human="Descriptive Information" />
+    <element tag="dimensions" human="Dimensions" />
+    <element tag="div" human="Text Division" />
+    <!-- The actual text for dsc is 'Description of Subordinate Components. Usually  this will be a container list-->
+    <element tag="dsc" human="Container List" />
+    <element tag="dscgrp" human="Sub Container List" />
+    <!-- End of Changes -->
+    <element tag="ead" human="Encoded Archival Description" />
+    <element tag="eadgrp" human="EAD Group" />
+    <element tag="eadheader" human="EAD Header" />
+    <element tag="eadid" human="EAD Identifier" />
+    <element tag="edition" human="Edition" />
+    <element tag="editionstmt" human="Edition Statement" />
+    <element tag="emph" human="Emphasis" />
+    <element tag="entry" human="Table Entry" />
+    <element tag="eventgrp" human="Event Group" />
+    <element tag="expan" human="Expansion" />
+    <element tag="extent" human="Extent" />
+    <element tag="extptr" human="Extended Pointer" />
+    <element tag="extptrloc" human="Extended Pointer Location" />
+    <element tag="extref" human="Extended Reference" />
+    <element tag="extrefloc" human="Extended Reference Location" />
+    <element tag="famname" human="Family Name" />
+    <element tag="filedesc" human="File Description" />
+    <element tag="fileplan" human="File Plan" />
+    <element tag="frontmatter" human="Front Matter" />
+    <element tag="function" human="Function" />
+    <element tag="genreform" human="Genre/Physical Characteristic" />
+    <element tag="geogname" human="Geographic Name" />
+    <element tag="head" human="Heading" />
+    <element tag="imprint" human="Imprint" />
+    <element tag="index" human="Index" />
+    <element tag="label" human="Label" />
+    <element tag="langmaterial" human="Language of Material" />
+    <element tag="language" human="Language" />
+    <element tag="langusage" human="Language of Usage" />
+    <element tag="listhead" human="List Headings" />
+    <element tag="materialspec" human="Material Specific Details" />
+    <element tag="name" human="Name" />
+    <element tag="namegrp" human="Name Group" />
+    <element tag="note" human="Note" />
+    <element tag="notestmt" human="Note Statement" />
+    <element tag="num" human="Number" />
+    <element tag="occupation" human="Occupation" />
+    <element tag="odd" human="Other Descriptive Data" />
+    <element tag="originalsloc" human="Location of Originals" />
+    <element tag="origination" human="Originating" />
+    <element tag="otherfindaid" human="Other Finding Aid" />
+    <element tag="persname" human="Personal Name" />
+    <element tag="physdesc" human="Physical Description" />
+    <element tag="physfacet" human="Physical Facet" />
+    <element tag="physloc" human="Physical Location" />
+    <element tag="phystech" human="Physical Characteristics and Technical Requirements" />
+    <element tag="prefercite" human="Preferred Citation" />
+    <element tag="processinfo" human="Processing Information" />
+    <element tag="profiledesc" human="Profile Description" />
+    <element tag="publicationstmt" human="Publication Statement" />
+    <element tag="publisher" human="Publisher" />
+    <element tag="ref"  human="Reference" />
+    <element tag="refloc" human="Reference Location" />
+    <element tag="relatedmaterial" human="Related Material" />
+    <element tag="repository" human="Repository" />
+    <element tag="resource" human="Resource" />
+    <element tag="revisiondesc" human="Revision Description" />
+    <element tag="row" human="Table Row" />
+    <element tag="runner" human="Runner" />
+    <element tag="scopecontent" human="Scope and Content" />
+    <element tag="separatedmaterial" human="Separated Material" />
+    <element tag="seriesstmt" human="Series Statement" />
+    <element tag="sponsor" human="Sponsor" />
+    <element tag="subarea" human="Subordinate Area" />
+    <element tag="subject" human="Subject" />
+    <element tag="subtitle" human="Subtitle" />
+    <element tag="table" human="Table" />
+    <element tag="tbody" human="Table Body" />
+    <element tag="tgroup" human="Table Group" />
+    <element tag="thead" human="Table Head" />
+    <element tag="title" human="Title" />
+    <element tag="titlepage" human="Title Page" />
+    <element tag="titleproper" human="Title Proper of the Finding Aid" />
+    <element tag="titlestmt" human="Title Statement" />
+    <element tag="unitdate" human="Date(s)" />
+    <element tag="unitid" human="Collection Number" />
+    <element tag="unittitle"  human="Title" />
+    <element tag="userestrict" human="Conditions Governing Use" />
+</elements>

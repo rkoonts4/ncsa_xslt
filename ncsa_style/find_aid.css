@@ -1,0 +1,134 @@
+/* ------------------ */
+/* FINDING AID STYLES */
+/* ------------------ */
+
+* { font-family: Arial, Helvetica, sans-serif; box-sizing: border-box;}
+
+body { color: #222; line-height: 1.45em; font-size:12px;}
+
+h1 {
+    font-family: 'EB Garamond',Garamond,serif;
+    font-size: 36px;
+    font-weight: normal;
+    line-height: 1.04em;
+	margin-top: 0.3em;
+}
+
+
+h2 { padding-bottom: 4px; font-size: 20px; font-weight: normal; margin-top: 1em; line-height: 1.2em; }
+h2.mainheading { clear: both; border-bottom: 2px solid #C5C1AF; }
+h1, h2 { color: #003366; }
+
+div.abstract h2 { border: none; }
+
+h3 { font-size: 15px; margin-top: 1em;}
+h4 { font-size: 13px; margin-top: 2em; }
+h5 { font-size: 12.5px; margin-top: 2em; }
+h6 { font-size: 12px; margin-top: 2em; }
+
+a:hover, a:active { color: #728302;}
+a { text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+.menuLink { display: none; }
+
+
+div.clear { height: 0; min-height: 0; }
+
+div.section {}
+  div.sectionSubSeries {}
+
+
+div.title { float: left; width: 100%; clear: both; border-bottom: 1px solid #ddd;}
+
+div.c01_title_row {}
+  div.c01_title_row h2 { margin-top: 20px; font-size: 18px; }
+
+
+ h2.mainheading a, div.title a:not(.sharing-link) { background: url("../images/icons/arrow_down_small.png") no-repeat right 50%; padding-right: 18px;}
+ h2.mainheading a.collapsed, div.title a.collapsed { background: url("../images/icons/arrow_right_small.png") no-repeat right 50%; padding-right: 18px; }
+
+
+div.title div.physdesc, div.title div.scopecontent, div.title div.arrangement, div.title div.accessrestrict { margin-left: 0;}
+
+
+dl { float: left;  width: 100%; }
+  dt { float: left; width: 25%; font-weight: bold; clear: both; margin: 0 0 1em 0;}
+  dd { float: left; margin: 0 0 1em 10px;  width: 70%; }
+
+
+/* -------------------- */
+/* Container Displays   */
+/* -------------------- */
+
+.containerList { margin-bottom: 20px; }
+
+div.c_row {  display: block; float: left; font-size: 11.7px; border-bottom: 1px solid #ddd; padding-top: 6px; padding-bottom: 6px; padding-left: 10px; clear: both; }
+
+
+
+
+div.c01, div.c01_title_row {}
+div.c02_row, div.c02_title_row {  background: url(https://archives.mc.duke.edu/sites/default/files/line-c02b.png) repeat-y top left; padding-left: 20px; }
+div.c03_row, div.c03_title_row {  background: url(https://archives.mc.duke.edu/sites/default/files/line-c03b.png) repeat-y top left; padding-left: 40px;  }
+div.c04_row, div.c04_title_row { background: url(https://archives.mc.duke.edu/sites/default/files/line-c04b.png) repeat-y top left; padding-left: 60px; }
+div.c05_row, div.c05_title_row { background: url(https://archives.mc.duke.edu/sites/default/files/line-c05b.png) repeat-y top left; padding-left: 80px; }
+div.c06_row, div.c06_title_row { background: url(https://archives.mc.duke.edu/sites/default/files/line-c06b.png) repeat-y top left; padding-left: 100px; }
+
+div.fa_odd {  background-color: #f6f6f6; }
+span.fa_odd {  background-color: #f6f6f6; border-bottom: 1px solid #ddd; width: 600px; padding-top: 6px; padding-bottom: 6px; border-top: 1px solid #ddd;}
+
+
+  div.component_info { clear: both; width: calc(100% - 160px); display: block; float: left; padding-right: 15px;}
+  	div.component_title { float: left; padding-right: 1em; clear:both; }
+
+	div.dao_linkrole { float: left; clear: both; }
+  div.faid_containers { float: left; font-size: 11px;  display: block; width: 160px;}
+
+	span.container_item { margin-right: 0.5em; float: left; }
+	div.title span.container_item { margin-bottom: 10px; }
+	div.title .extent { float: left; margin-bottom: 10px; }
+
+/* ==================== */
+/* Object Displays      */
+/* ==================== */
+
+
+/* Row Options */
+/* ----------- */
+
+a.row-option {
+	float: left;
+	position: absolute;
+	left: -2px;
+	width:14px;
+	display:none;
+}
+	a.row-option:hover { text-decoration: none;}
+
+a.sharing-link {
+	background-image:url('../images/icons/arrow-right-circle-33pct-14px.png');
+	height:14px;
+	margin-top: 2px;
+}
+	a.sharing-link:hover { background-image:url('../images/icons/arrow-right-circle-blue-14px.png'); }
+
+
+/* .rowCurrentHighlight { background-color: #fdf7d9 !important;} */
+.component_info_full { width: 100% !important;}
+.faid_containers_compressed { display: none !important;}
+
+div.abstract {
+	background: #eaeaea;
+    border-bottom: 1px dotted #988675;
+    border-top: 1px dotted #988675;
+	color: #000;
+	font-size: 13.5px;
+	padding: 10px;
+	margin-bottom: 10px;
+
+}
+
+div.section p { display: block !important;}
+
+li { margin-left: 15px; margin-bottom: 0.4em; }

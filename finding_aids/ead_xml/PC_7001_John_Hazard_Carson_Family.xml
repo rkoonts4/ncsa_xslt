@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="ISO-8859-15" standalone="yes"?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+    <eadid countrycode="US" mainagencycode="NC-Ar">collection-437</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Carson Family Papers<num>PC.7001</num></titleproper>
+        <author>Carson family</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>State Archives of North Carolina</publisher>
+        <date type="publication" normal="20190426">2019-04-26T14:41:51</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using AXAEM<date normal="20190426">2019-04-26T14:41:51</date></creation>
+      <langusage>Description is in<language>English</language></langusage>
+    </profiledesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Carson Family Papers<num>PC.7001</num></titleproper>
+      <author>Carson family</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc id="collection437" level="collection" relatedencoding="dc">
+    <did>
+      <unittitle encodinganalog="title">John Hazard Carson Family Papers</unittitle>
+      <unitid type="local ID">PC.7001</unitid>
+      <unitdate encodinganalog="date" type="inclusive" normal="1794/1894">1794 - 1894</unitdate>
+      <container id="cid34384" label="Miscellaneous documents" type="Box">Bills of sale, receipts and deeds</container>
+      <abstract label="Abstract">John Hazard Carson (1752 - 1841) arrived in America in 1773 from his native Scotland. After a two-year stay in Pennsylvania he made his way to North Carolina. Carson settled in Burke County - then on the American Frontier - at the time of the Revolutionary War. In 1778 Carson married Rachel Matilda McDowell of Burke County. They had seven children. After receiving a land grant in 1793 for 640 acres "on the waters of Buck Creek and Clear Creek" near present-day Marion, he built his family a home.<lb/><lb/>Following the death of his first wife, he married Mary Moffett McDowell, widow of Major Joseph McDowell of Pleaseant Gardens, a nearby plantation. She transferred this name to the Carson home, previously known as Garden Hill. From this second union, five children were born. Carson was active in agriculture and acquiring land and operating Pleasant Gardens.<lb/><lb/>The John Hazard Carson Family Papers consist of surveys, deeds, promissory notes, receipts for land, marriage certificates, bills of sale for slaves, judgements, indentures, a co-partnership for gold mining in California, conveyace of dower, deeds of conveyance and miscellaneous papers</abstract>
+      <origination label="creator">
+        <famname role="Originator">Carson family</famname>
+      </origination>
+      <origination label="Creator">
+        <persname role="Originator">Unknown</persname>
+      </origination>
+      <repository encodinganalog="publisher">
+        <corpname>Western Regional Archives, State Archives of North Carolina</corpname>
+      </repository>
+    </did>
+    <arrangement>
+      <head>Arrangement</head>
+      <p>Chronological</p>
+    </arrangement>
+    <bioghist>
+      <head>Biographical/Historical</head>
+      <p><emph render="bold">John Hazard Carson (1752 - 1841)</emph> arrived in America in 1773 from his native Scotland. After a two-year stay in Pennsylvania he made his way to North Carolina. Carson settled in Burke County - then on the colonial frontier - at the time of the Revolutionary War.<lb/><lb/>In 1778 Carson married Rachel Matilda McDowell (1756 - 1795) of Burke County, the daughter of "Hunting John" McDowell (who acquired this nickname due to his superior knowledge of the area's hunting grounds) and sister of Joseph McDowell who gained notoriety at the Battle of King's Mountain. That same year he began toamass property through a series of land grants. He built a two-story eight-room log cabin where he lived with his growing family for 15 years.<lb/><lb/>John and Rachel had seven children; Joseph McDowell Carson (1779 - 1860); Jason Hazard Carson (1782 - 1831), James Carson, Rebecca Carson, John W. Carson, Charles Carson (died 1850), and Sarah Carson (1788 - 1840). Around 1793, John Carson received a land grant on Buck and Clear creeks and began to construct a new home, however his wife Rachel died before it was finished.<lb/><lb/>Following the death of his first wife, he married Mary Moffett McDowell (1768 - 1825), widow of the aforementioned Joseph McDowell of Pleasant Gardens, a nearby plantation. She transferred this name to the Carson home, previously known as Garden Hill. From this second union, five children were born. Samuel Price Carson (1798 - 1838); Matilda M. Carson ( b. 1799); William Moffett Carson (1801 - 1863), George Moffett Carson (circa 1805 - 1863), and Jonathan Logan Carson (circa 1807 - 1866).<lb/>Pleasant Gardens was one of the largest and most productive plantations in the region. Through the years John Hazard Carson added to his land holdings and enlarged his house. While Carson traded in livestock and other market goods from his plantation, he may have operated the house as a roadside inn and tavern as early as 1808. The Carsons and McDowells were also formidable horsemen and adept with fire arms making them successful hunters. In addition, they raced thoroughbred horses and created race-paths through their extensive land holdings.<lb/><lb/>Carson grew corn, made and sold whiskey, beer and brandy. He also ran a grist mill and saw mill on Bucks Creek and rented his unused fields for income. Carson was involved in local community affairs, having served in the 1780s as a justice of the peace, magistrate, administrator of several estates, bondsman and juror. He was also active at the state level, serving as one of five elected Burke County representatives to the Constitutional Convention in 1789 and was a member of the House of Commons in 1805-1806.<lb/><lb/>In addition to housing the Carson family, Pleasant Gardens was home to slaves whose labor was needed operate the plantation. Carson's slave holdings grew with his land and investments, increasing from 12 slaves in 1790 to 68 in 1841. Census data indicates that Carson's sons also owned slaves. The 1860 census enumerates the slaveholders as follows: George M. Carson, age 55, farmer, 40 slaves, 7 slave houses; J.L. Carson age 53 farmer, 28 slaves; and William M. Carson, agent, 19 slaves.<lb/>Another venture in which the Carsons were involved was the mining of gold, which was discovered in the piedmont and western North Carolina in the early 1800s. They purchased several acres in the vicinity of Brindletown in Burke County. The Carsons, along with other slaveholders, had thousands of slaves working the mines. Joseph McDowell Carson accumulated most of his wealth via gold and was said to have mined over $1 million during his lifetime.<lb/><lb/>In 1841 Colonel Carson died, leaving his house and land to Jonathan Logan Carson, his youngest child. Sometimes cited as J.L. or Logan, Carson donated 50 acres east of Pleasant Gardens for the creation of the town of Marion in the new county of McDowell. The Carson house served as the county's first courthouse. Jonathan Logan also added Greek revival features to the double-pen log house and removed the old gable roof. The log walls were covered with siding on the exterior and tongue-in-groove sheeting on the interior. The house has been preserved and is now administered by the Carson House Society.<lb/><lb/>===============================================================================<lb/><lb/><emph render="bold">Joseph McDowell Carson (1779 - 1860)</emph> served in both the North Carolina House and Senate. Much of his wealth was accumulated by mining gold. He married Rebecca Wilson daughter of James Wilson and Ruth Davidson, sister of Catherine Wilson, and granddaughter of Samuel Davidson. He built Green River Plantation and raised his family of six there as well as harbored family members and guests.<lb/><lb/><emph render="bold">Jason Hazard Carson (1782 - 1830)</emph> was a landowner and slave owner who farmed with his father and his brothers. He married Mary Hawkins Cowden Carson (1786 - 1853). They are buried at Clinton Cemetery in central Mississippi.<lb/><emph render="bold">James Carson,</emph> little is known.<lb/><emph render="bold">Rebecca Carson </emph>married Thomas "Big Tom" McEntyre, who was reportedly a rough man and an unsuitable husband. She left him and moved into her brother's home Green River. Rebecca petitioned for a portion of her father's estate and was awarded 4 slaves and $1,000.<lb/><lb/><emph render="bold">John W. Carson (d. 1836)</emph> farmed with his brothers and made several trips to Charleston to sell livestock. He studied medicine and began a medical practice and was also listed in documents as an innkeeper and merchant. <lb/><emph render="bold">Charles Carson (d. 1850)</emph> was a small farmer and was also involve to a lesser degree in mining.<lb/><lb/><emph render="bold">Sarah "Sally" Carson (pr. 1788 - 1840)</emph> married General William Davidson Smith of Burke County who descended from pioneer families. They migrated to the Republic of Texas and had 6 children.<lb/><lb/><emph render="bold">Samuel Price Carson (1798 - 1838)</emph> was born at Pleasant Gardens but moved to the Green River Plantation where he was educated under the direction of his brother Joseph. Samuel was elected to the North Carolina Senate in 1922, and served 4 terms in the U.S. House of Representatives 1825 - 1833. After an unsuccessful bid at re-election in 1833, he returned to the state Senate. <lb/><lb/>Carson faced Dr. Robert B. Vance in his first run for re-election to Congress and during some rancorous politicking, Vance insinuated that Carson's father, John Hazard Carson had loyalist sympathies during the revolution. This caused Carson to challenge Vance to a duel. The men met at Saluda Gap, South Carolina. Vance took a bullet between the ribs and died the following day. It was said that killing Dr. Vance had a profound effect on Carson and ushered in his period of his physical decline.<lb/><lb/>He married Catherine Wilson in 1831. They had one daughter, Rebecca, and adopted his daughter Emily, born out of wedlock to Emma Trout. On the advice of family friend Davy Crockett of Tennessee, Carson moved to Texas with Catherine and their daughters and a slave named Eliza Carson. <lb/><lb/>He was elected Secretary of the State of the Republic of Texas, but was released from that position because of his ill health. Following Samuel's death, the family returned to McDowell County. Carson County, Texas was named for Samuel Price Carson.<lb/><lb/><emph render="bold">Matilda Carson (pr. b. 1799)</emph> married Jason Wilson.<lb/><lb/><emph render="bold">William Moffett Carson (1801 - 1863)</emph> married his cousin Almyra Wilson. To this union seven children were born. After her death, he married Catherine Wilson Carson, his brother's widow. They had two children. Although he served in the State Legislature and held a number of public offices, farming was his primary interest. Carson amassed large land holdings and many slaves. <lb/><lb/><emph render="bold">George Moffett Wilson (d. 1863)</emph> was provided for in his father's will and with his inheritance he purchased land which grew in value. His wealth also grew as the number of his slaves increased. He served as postmaster at Pleasant Gardens from 1830 - 1844. Never married, he bequeathed his land and slaves to his nieces and nephews.<lb/><lb/><emph render="bold">Jonathan Logan Carson (1807 - 1866)</emph> was the main recipient of his father's inheritance and received the family home. He owned much land, although not as much as his father. J.L. Carson raised cattle and operated mills for grinding grain and sawing lumber. He also continued to use part of the house as an inn and boarding house with considerable draw due to its location between Morganton and Asheville.<lb/><lb/>Carson married Mary Sturdivant Presnell (1812 - 1907). They had two children, Harriett and Margaret. They were present when Union soldiers raided the Carson home in the final days of the Civil War. A written account of the event was made by teacher Emma Rankin.<lb/><lb/>J.L. Carson died intestate in 1866, and the settlement of his estate was long and drawn out with a large number of people making claims.</p>
+      <p/>
+      <p><emph render="bold">Sources:</emph> Texas State Historical Association, <emph render="italic">Handbook of Texas</emph>; Michael R. Hill, <emph render="italic">The Carson House of Marion, North Carolina</emph>; <emph render="italic">Daughters of the Republic of Texas Patriot Ancestor Album, Volume 2</emph>; John Hugh McDowell, <emph render="italic">The McDowells, Irwins, Erwins and Connections</emph>, US Census records.</p>
+    </bioghist>
+    <controlaccess>
+      <controlaccess>
+        <famname encodinganalog="600" source="local">Carson family</famname>
+        <famname encodinganalog="600" source="local">McDowell family</famname>
+        <persname encodinganalog="600" source="local">Carson, John Hazard, 1752 - 1841.</persname>
+        <persname encodinganalog="600" source="local">Carson, William Moffett, 1801 - 1863.</persname>
+        <persname encodinganalog="600" source="local">Carson, Charles, d. 1850.</persname>
+        <persname encodinganalog="600" source="local">Carson, George Moffett, d. 1863</persname>
+        <persname encodinganalog="600" source="local">Carson, Jonathan Logan, 1807 - 1866.</persname>
+        <persname encodinganalog="600" source="local">McDowell, James, 1791 - 1854.</persname>
+        <persname encodinganalog="600" source="local">Green, Thomas</persname>
+      </controlaccess>
+      <controlaccess>
+        <subject encodinganalog="650" source="local">Slaves</subject>
+        <subject encodinganalog="650" source="local">Land sale and transfer</subject>
+      </controlaccess>
+      <controlaccess>
+        <geogname encodinganalog="651" source="local">Burke County (N.C.)</geogname>
+        <geogname encodinganalog="651" source="local">Yancey County (N.C.)</geogname>
+        <geogname encodinganalog="651" source="local">McDowell County (N.C.)</geogname>
+      </controlaccess>
+      <controlaccess>
+        <genreform encodinganalog="655" source="local">Deeds.</genreform>
+        <genreform encodinganalog="655" source="local">Receipts (Acknowledgments)</genreform>
+        <genreform encodinganalog="655" source="local">Surveys</genreform>
+        <genreform encodinganalog="655" source="local">Indentures</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc>
+      <c01 id="otherlevel33983" level="otherlevel" otherlevel="Folder">
+        <did>
+          <unittitle encodinganalog="title">1795 - 1832</unittitle>
+          <unitid type="local ID">FOLDER 1</unitid>
+          <origination label="creator">
+            <persname role="Originator">Unknown</persname>
+          </origination>
+        </did>
+        <scopecontent>
+          <head>Scope and Content</head>
+          <p>1. February 21, 1795 John Carson accounts<lb/>2. October 6, 1796 warrant to lay off and survey land for John Carson and James Wilson<lb/>3. Marriage Certificate December 15, 1807 Jason Carson (1782-1830) and Mark Hawkins Cowden (1786-1853)<lb/>4. 1811-1812 Survey of 100 acres for Joseph Watts<lb/>5. October 23, 1816 Bond, William D. Smith to Jason H. Wilson and John W. Carson<lb/>6. September 1817 writ of subpoena Jason H. Wilson vs. John Carson et. al<lb/>7. January 1825 John Carson vs. Joseph Mc Dowell<lb/>8. March 1, 1832 Deed of Conveyance Wilburn Wilson to Jesse Wilson</p>
+        </scopecontent>
+      </c01>
+      <c01 id="otherlevel33984" level="otherlevel" otherlevel="Folder">
+        <did>
+          <unittitle encodinganalog="title">1833 - 1842</unittitle>
+          <unitid type="local ID">FOLDER 2</unitid>
+          <origination label="creator">
+            <persname role="Originator">Unknown</persname>
+          </origination>
+        </did>
+        <scopecontent>
+          <head>Scope and Content</head>
+          <p>1. October 28, 1833 warrant to lay off and survey land for William M. Carson on South Tow River<lb/>2. October 2, 1834 order for 6 gallon linseed oil to William M. Carson<lb/>3. October 3, 1836 sale of land in consideration of a bay fore from Sam P. Carson to his father Col. John Carson<lb/>4. 1838 Promissory note to John Carson Sr. by Thomas Green<lb/>5. September 29, 1839 Promissory note to John Carson by Thomas Green<lb/>6. October 24, 1839 receipt, William M. Carson $7.41, Mary Dunkin<lb/>7. December 2, 1840 James McDowell land, Yancey County<lb/>8. December 2, 1840 William Bradshaw land, Yancey County<lb/>9. 1840 Order for survey of Bradshaw land 50 acres<lb/>10. March 21, 1841 Notes, Thomas Green to William M. Carson and J.L. Carson<lb/>11. December 6, 1841 James Bradshaw land Yancey County<lb/>12. April 27, 1841 Granted William Carson property<lb/>13. 1842 Probate of the last will and testament of John Carson in solemn form<lb/>14. October 20, 1842/August 25, 1843 Judgement of $232.12. Charles Carson and Joseph McDowell Carson, executors of John W. Carson vs. James McDowell and William M. Carson.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="otherlevel33985" level="otherlevel" otherlevel="Folder">
+        <did>
+          <unittitle encodinganalog="title">1842 - 1848</unittitle>
+          <unitid type="local ID">FOLDER 3</unitid>
+          <origination label="creator">
+            <persname role="Originator">Unknown</persname>
+          </origination>
+        </did>
+        <scopecontent>
+          <head>Scope and Content</head>
+          <p>1. November 30, 1842 receipt for sale of two Negro women from John Curtis to George M. Carson<lb/>2. January 21, 1843 Jonathan Logan Carson land<lb/>3. January 21, 1843 John Carson land<lb/>4. January 21, 1843 Survey of land adjacent to 320 acres belonging to James McDowell<lb/>5. April 22, 1843 George M Carson receipt for land "The Mullins Place" sold at courthouse door in Morganton<lb/>6. November 16, 1843 William W. McDowell bond to John N. Curtis<lb/>7. 1844 Agreement between William M. Carson, J.W. Woodfin, A.B. Chunn and William Shelton<lb/>8. April 26, 1845 Land of George W. Curtis (see also Oversized Folder #2)<lb/>9. September 12, 1845 Isak Bradshaw land<lb/>10. August 19, 1846 Isak Bradshaw land<lb/>11. March 14, 1848 Thomas Duffy vs. John Carson Re: Rebecca Carson McEntire's attempt to obtain money from father's estate<lb/>12. August 1848 John Bradshaw<lb/>13. November 3, 1848, William M. Carson Bond</p>
+        </scopecontent>
+      </c01>
+      <c01 id="otherlevel33986" level="otherlevel" otherlevel="Folder">
+        <did>
+          <unittitle encodinganalog="title">1849 - 1856</unittitle>
+          <unitid type="local ID">FOLDER 4</unitid>
+          <origination label="creator">
+            <persname role="Originator">Unknown</persname>
+          </origination>
+        </did>
+        <scopecontent>
+          <head>Scope and Content</head>
+          <p>1. August 31, 1849 Bill of sale from M.F. McHesson, Gold Hill, Burke County for William M. Carson<lb/>2. February 6, 1849 Receipt for William M. Carson<lb/>3. January 1850 George C. Carson trustee of Charles Carson<lb/>4. January 28, 1851 Received of William M. Carson payment for $52.52<lb/>5. March 12 1851 William Bradshaw land, on headwaters of Armstrong Creek<lb/>6. May 8, 1851 Receipt of money from William M. Carson<lb/>7. January 13, 1852 Partnership between J.L. Carson and M.H. Carpenter to mine gold in California. J.L. Carson is to provide two slave for the venture<lb/>8. May 25, 1852 Receipt of William M. Carson<lb/>9.1853-1862 Miscellaneous receipts<lb/>10. March 21, 1853 Received of William M. Carson from Jonathan Logan Carson, part of father's estate<lb/>11. April 14, 1853 Letter to William M. Carson from J.N. Curtis, Bentonville, Arkansas regarding non-sale of land/home<lb/>12. May 3, 1853 Account of Bryant Gibbs<lb/>13. May 9, 1853 Received of William M. Cason, receipt from G. M. Carson<lb/>14. November 30, 1854 Joseph McDowell Carson and William M. Carson regarding land sales<lb/>15. 1856 James Brown land receipt<lb/>16. 1856-1862 Book account J.L. Carson to W.M. Carson</p>
+        </scopecontent>
+      </c01>
+      <c01 id="otherlevel33987" level="otherlevel" otherlevel="Folder">
+        <did>
+          <unittitle encodinganalog="title">1857 - 1868</unittitle>
+          <unitid type="local ID">FOLDER 5</unitid>
+          <origination label="creator">
+            <persname role="Originator">Unknown</persname>
+          </origination>
+        </did>
+        <scopecontent>
+          <head>Scope and Content</head>
+          <p>1. October 8, 1857 Receipt of Settlement, J.G. Whitson<lb/>2. 1858 Indenture regarding property of the late Colonel John Carson<lb/>3. Tax receipts, John Carson 1859 - 1867<lb/>4. January 6, 1860 contract between William M. Carson and his son William Carson selling slaves Andrew and Ellen and any of their increases<lb/>5. 1860 W.A.B. Murphy vs. John Kelly, Jr. land purchased at the courthouse door by John Carson<lb/>6. 1861 Land receipt Charles W. Godfrey<lb/>7. 1862 John Carson bond for $900 for land of James McDuncan<lb/>8. 1862 Tax receipt for 1861<lb/>9. 1863 James S. Erwin, Caleb Motz, Merritt Burgin promissory note for $12,000<lb/>10. July 25, 1863 copy of sale of real and personal property (May 1842) from Jonathan L. Carson and George M. Carson to William M. Carson heirs and assigns, 1/3 of John Carson property inherited by J.L. Carson and G. M. Carson, proving Williams inheritance after his death<lb/>11. November 11, 1863 Promissory note of Caleb Motz and Merritt Burgin<lb/>12. November 7, 1863 /January 30, 1873 Notes regarding sale of slaves Mary, Carolina and Primus from William M. Carson estate. Notes signed by G.W. Michal<lb/>13. Typewritten copy of Notice of Sale (August 9, 1864) of valuable land by John Carson, executor of William M. Carson <emph render="italic">(Original contained in oversized folder 2)</emph><lb/>14. September 21, 1864 Slave transfer/sale to Kate and Mary Burgin, J.S. Erwin and wife, John Carson, Caleb Motz and wife<lb/>15. September 22, 1864 J.S. Erwin and wife Matilda Carson - receipt of legacy from estate of William M. Carson<lb/>16. April 5, 1866, Deed of Conveyance from Caleb Motz, J.L. Erwin, M. Burgin to John Carson<lb/>17. 1867/1868 receipts and notes John Carson and Co.<lb/>18. 1867 Account John Carson and Co. with F.B. Laney and Co. Baltimore, Maryland<lb/>19. 1868 Account John Carson and Co. with Hull Atkinson and Co. Baltimore, Maryland<lb/>20. 1869 Bills of Lading<lb/>21. 1868 Powell and Shuford payment receipt<lb/>22. 1868 Raleigh National Bank account</p>
+        </scopecontent>
+      </c01>
+      <c01 id="otherlevel33988" level="otherlevel" otherlevel="Folder">
+        <did>
+          <unittitle encodinganalog="title">1869 - 1885</unittitle>
+          <unitid type="local ID">FOLDER 6</unitid>
+          <origination label="creator">
+            <persname role="Originator">Unknown</persname>
+          </origination>
+        </did>
+        <scopecontent>
+          <head>Scope and Content</head>
+          <p>1. December 22, 1869 Land receipt John Carson<lb/>2. December 22, 1869 Land receipt, John Carson<lb/>3. March 24, 1869 Letter from John Carson ordering merchandise<lb/>4. Tax receipts 1870 - 1887<lb/>5. November 7, 1871 Bill of Lading/Reverse January 17, 1870 Survey<lb/>6. November 28, 1871 Receipt from Thomas Martin/Reverse Survey<lb/>7. November 28, 1871 Letter to John Carson from his half-brother George Carson<lb/>8. March 29, 1873 Registration of deeds of 1/3 of John Carson's estate from George and Jonathan L. Carson to William M. Carson<lb/>9. 1874 John Carson Receipt of $111.91<lb/>10. 1875 Statement given by William Dillinger to John Carson<lb/>11. August 2, 1875 Tax bill paid<lb/>12. 1877 Mortgage deed John Carson and wife Harriet to Mary S. Carson in town of Marion<lb/>13. February 3, 1879 Promissory note for $112 Wilford Huskins to John Carson<lb/>14. 1880 Land warrant for survey John Carson<lb/>15. March 7, 1882 Note releasing John Carson from payment of tax for $150.00 for real estate in North Cove for 1881<lb/>16. August 3, 1885 Promissory note from John Carson to Mary S. Carson</p>
+        </scopecontent>
+      </c01>
+      <c01 id="otherlevel33989" level="otherlevel" otherlevel="Folder">
+        <did>
+          <unittitle encodinganalog="title">1886 - 1894</unittitle>
+          <unitid type="local ID">FOLDER 7</unitid>
+          <origination label="creator">
+            <persname role="Originator">Unknown</persname>
+          </origination>
+        </did>
+        <scopecontent>
+          <head>Scope and Content</head>
+          <p>1. March 9, 1886 Settlement Between A. Burgin, administrator of estate of J.L. Carson and John Carson<lb/>2. 1887 payment of $40.00 to John Carson from John Maloney for land between Madison Street and Pleasant Garden Road<lb/>3. March 12, 1887 Land sold to James B. Finley<lb/>4. April 27, 1887 Mining lease between John Carson and Fred Tiffany<lb/>5. May 29, 1888 Mortgage deed between G.G. Eaves and Kate Eaves and John S. Brown<lb/>6. 1889 - 1891 Accounting memorandum<lb/>7. 1889 copy of 1857 document regarding 100 acres of land at the head of Pole Bridge Branch granted to William S. Carson<lb/>8. August 22, 1889 Receipt of $356.60 of John Carson<lb/>9. May 26, 1890 Land sale Charles W. Godfrey to John Carson<lb/>10. December 9, 1891 Verification of Johnathan Logan Caron's signature<lb/>11. 1894 Promissory note between C.A. Dale and John Carson</p>
+        </scopecontent>
+      </c01>
+      <c01 id="otherlevel33991" level="otherlevel" otherlevel="Folder">
+        <did>
+          <unittitle encodinganalog="title">Oversized Folder 1</unittitle>
+          <unitid type="local ID">FOLDER 8</unitid>
+          <origination label="creator">
+            <persname role="Originator">Unknown</persname>
+          </origination>
+        </did>
+        <scopecontent>
+          <head>Scope and Content</head>
+          <p>1. March 31, 1794 Indenture between Thomas Welsh and John Carson, Esq.<lb/>2. December 28, 1803 Deed, Measiack Burchfield, 50 acres<lb/>3. August 14, 1809 Indenture between Joseph Wilson to Andrew Strain<lb/>4. December 6, 1809 Deed, Colonel John Carson, 50 acres<lb/>5. October 26, 1810 Indenture between Jerry Smith and Henry Glass<lb/>6. September 8, 1817 sale of 100 acres to Samuel Carson<lb/>7. November 16, 1821 George M. Carson, Obligations for S.P. Carson $400 and $698 left in hands of J.V. Avery regarding the Wilkerson Gold Mine 1/4 part<lb/>8. December 21, 1821 Sale of 60 acres to Charles Hawkins<lb/>9. October 16, 1825 Indenture between John Kidd and James Cushin, 100 acres Mary Wilson land<lb/>10. December 28, 1827 David Ballew, 50 acres<lb/>11. June 25, 1829 Indenture between John Logan and Colonel John Carson, 112 acres<lb/>12. November 17, 1830 Indenture between James Cashing and Jesse Wilson, 74 acres</p>
+        </scopecontent>
+      </c01>
+      <c01 id="otherlevel33992" level="otherlevel" otherlevel="Folder">
+        <did>
+          <unittitle encodinganalog="title">Oversized Folder 2</unittitle>
+          <unitid type="local ID">FOLDER 9</unitid>
+          <origination label="creator">
+            <persname role="Originator">Unknown</persname>
+          </origination>
+        </did>
+        <scopecontent>
+          <head>Scope and Content</head>
+          <p>1. 1833 Conveyance of Mary Wilson, her right of dower to John Carson, Sr.<lb/>2. 1833 Conveyance from Jesse Wilson to John Carson, Sr.<lb/>3. November 4, 1833 Deed giving land for the sum of $800 to John Carson<lb/>4. 1834 Indenture between Charles Hawkins and Charles Carson, 100 acres<lb/>5. Joseph Wilson to William M. Carson, 50 acres<lb/>6. 1843 Thomas Green to William M. Carson and Logan Carson, administorators for Colonel John Carson, estate of Samuel P. Carson<lb/>7. 1842 Indenture between Charles McDowell and George M. Carson, 100 acres<lb/>8. April 15, 1845 Indeture George M. Carson<lb/>9. April 26, 1845 Land of John N. Curtis, 45 acres<lb/>10. May 14, 1845 Indenture between John N. Curtis and George M. Carson, properly of John J. Carson (son of Charles Carson and Peggy Wilson)<lb/>11. June 2, 1845 Sale of land to J.N. Curtis for tract of land 50 acres<lb/>12. October 2, 1847 tract of land, 97 acres to William M. Carson<lb/>13. February 23, 1852 Payment of purchase price for property, 320 acres, William M. Carson<lb/>14. April 24, 1852 Indenture between William W. Avery (trustee of James McDowell) and William<lb/>15. Mary 3, 1852 William M. Carson, Deed for tract of land, 100 acres on both sides of Long Branch adjoining the land of James McDowell<lb/>16. June 1, 1853 Deed William Avery (trustee for James McDowell) to William M. Carson, 2 tacts of land<lb/>17. Notice of sale (August 9, 1864) of Valuable Land by John Carson, executor of William M. Carson<lb/><lb/></p>
+        </scopecontent>
+      </c01>
+      <c01 id="otherlevel33993" level="otherlevel" otherlevel="Folder">
+        <did>
+          <unittitle encodinganalog="title">Oversized Folder 3</unittitle>
+          <unitid type="local ID">FOLDER 10</unitid>
+          <origination label="creator">
+            <persname role="Originator">Unknown</persname>
+          </origination>
+        </did>
+        <scopecontent>
+          <head>Scope and Content</head>
+          <p>1. Deed/Indenture between Caleb Motz and E.A. Motz, Jas. S. Ervin and wife M. Ervin and John Carson and wife Harriet Carson<lb/>2. July 17, 1873 Letter from Caleb Motz asking John Carlson for deeds to tracts of land for he and wife Emaline<lb/>3. 1891 Deed S.T. Pearson to Kate Eaves, 600 acres<lb/>4. January 22, 1892 G.G. Eaves to Spencer Elliot 600 acres<lb/>5. Deed, J. Connolly and J.S. Brown to William M. Carson (undated fragment)</p>
+        </scopecontent>
+      </c01>
+      <c01 id="otherlevel33994" level="otherlevel" otherlevel="Folder">
+        <did>
+          <unittitle encodinganalog="title">Undated Documents</unittitle>
+          <unitid type="local ID">FOLDER 11</unitid>
+          <origination label="creator">
+            <persname role="Originator">Unknown</persname>
+          </origination>
+        </did>
+        <scopecontent>
+          <head>Scope and Content</head>
+          <p>1. Autobiography of John Carson's life<lb/>2. Demarcation of land, McDowell County, North Carolina opposite west prong of Pole Bridge Branch<lb/>3. Chadburn Gunter Power of Attorney to Jason Carson for 50 acres of land<lb/>4. U.S. Internal Revenue Survey of Stills owned by Charles W. Godfrey, John Carson to George Lacky. Survey on reverse side<lb/>5. Boundaries J.M. Hall tract of land sold by John Carson<lb/>6. John Pullom land between Druscilla Church and the Spring<lb/>7. Land boundaries<lb/>8. From J.T. Reid to R.C. Burgin regarding payment of various debts<lb/>9. Survey fro Elkana Elliot, 6 acres in town of Marion<lb/>10. Memoranda, persons namesd in Thomas Green's deed of trust<lb/>11. Plat of Spake (?) and James Brown Place</p>
+        </scopecontent>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>
