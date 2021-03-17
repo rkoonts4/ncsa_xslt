@@ -779,6 +779,9 @@
         <xsl:if test="@render='underline'">
             <u><xsl:apply-templates/></u>
         </xsl:if>
+        <xsl:if test="@render='super'">
+            <sup><xsl:apply-templates/></sup>
+        </xsl:if>
     </xsl:template>
     
     <xsl:template match="lb">
