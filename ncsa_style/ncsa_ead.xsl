@@ -6,7 +6,7 @@
     xpath-default-namespace="urn:isbn:1-931666-22-9"
     exclude-result-prefixes="xsi xlink"
     version="2">
-    
+
     <!-- conversions for none standard characters created during Axaem import/export -->
     <xsl:include href="characters.xsl"/>
     
@@ -138,6 +138,8 @@
                     <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
                         <span class="sr-only">Toggle navigation</span>
                     </button>
+                    <xsl:choose>
+                    <xsl:when test="ead/archdesc/did/repository">
                     <xsl:for-each select="ead/archdesc/did/repository">
                         <xsl:variable name="location" select="corpname"/>
                         <xsl:choose>
@@ -152,17 +154,22 @@
                             </xsl:when>
                         </xsl:choose>
                     </xsl:for-each>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <xsl:call-template name="ncsa"/>
+                    </xsl:otherwise>
+                    </xsl:choose>
                 </div>
                 
                 <div id="navbar" class="navbar-collapse collapse">
-                    <ul class="nav navbar-nav">
+                   <ul class="nav navbar-nav">
                         <li><a href="#">Top of Page</a></li>
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Finding Aid Sections<span class="caret"></span></a>
                             <ul class="dropdown-menu" role="menu"><xsl:call-template name="menu"/></ul>
                         </li>
                     </ul>
-                    <xsl:if test="//c02">
+                    <xsl:if test="//c01">
                         <ul class="nav navbar-nav navbar-right">
                             <li class="dropdown">
                                 <!-- If Search URL changes, update here -->
@@ -563,7 +570,12 @@
                     </xsl:choose>
                 </xsl:when>
                 <xsl:otherwise>
+                    <xsl:choose>
+                    <xsl:when test="@type= 'level ID'"/>
+                    <xsl:otherwise>
                        <span class="container_item box"><xsl:value-of select="."/></span> 
+                    </xsl:otherwise>
+                    </xsl:choose>
                 </xsl:otherwise>
             </xsl:choose>
         </xsl:for-each>
@@ -573,8 +585,8 @@
     <!-- Content creation for Collections with Series -->
     <xsl:template name="series">
         <xsl:for-each select="//c01">
-            <a name="c01_{position()}" class="anchor"></a>
         <h2 class="mainheading">
+        <a name="c01_{position()}" class="anchor"></a>
             <strong><xsl:value-of select="position()"/><xsl:text>. </xsl:text></strong> <xsl:value-of select="did/unittitle"/>
             <xsl:if test="did/unitdate"><xsl:if test="ends-with(did/unittitle,',')"> </xsl:if><xsl:if test="not(ends-with(did/unittitle,','))">, </xsl:if><xsl:value-of select="did/unitdate"/></xsl:if>
         </h2>
@@ -615,7 +627,11 @@
                             <xsl:when test="@level='subseries' or @level='subgrp' or @level='series'">
                                 <div class="section sectionSubSeries">
                                     <div class="title {name()} {name()}_title_row">
-                                        <h3><span><xsl:value-of select="did/unittitle"/><xsl:if test="did/unitdate"><xsl:if test="ends-with(did/unittitle,',')"> </xsl:if><xsl:if test="not(ends-with(did/unittitle,','))">, </xsl:if><xsl:value-of select="did/unitdate"/></xsl:if></span></h3>
+                                        <h3><span><xsl:value-of select="did/unittitle"/><xsl:if test="did/unitdate"><xsl:if test="ends-with(did/unittitle,',')"> </xsl:if><xsl:if test="not(ends-with(did/unittitle,','))">, </xsl:if><xsl:value-of select="did/unitdate"/></xsl:if>
+                                        <xsl:if test="not(child::c03|child::c04|child::c05|child::c06|child::c07|child::c08)">
+                                        <xsl:call-template name="odd_ns"/>
+                                        </xsl:if>
+                                        </span></h3>
                                         <xsl:if test="scopecontent">
                                             <p dir="auto"><b><xsl:value-of select="scopecontent/head"/><xsl:text>: </xsl:text></b><xsl:apply-templates select="scopecontent/p"/></p>
                                         </xsl:if>
