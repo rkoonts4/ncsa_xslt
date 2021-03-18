@@ -3779,8 +3779,6 @@
             <container id="cid235219" label="2425292" type="Reel">Estates, Record of</container>
             <container id="cid235229" label="2425800" type="Reel">Estates, Record of</container>
             <container id="cid235252" label="2428473" type="Reel">Estates, Record of</container>
-            <container id="cid230640" label="2428477" type="Reel">Estates, Record of</container>            
-            <container id="cid230733" label="2428479" type="Reel">Estates, Record of</container>
             <container id="cid241864" label="2188783" type="REELDTL" parent="cid230640">Estates, Record of</container>
             <container id="cid241867" label="2188937" type="REELDTL" parent="cid230642">Estates, Record of</container>
             <container id="cid241868" label="2188938" type="REELDTL" parent="cid230645">Estates, Record of</container>
@@ -4250,7 +4248,6 @@
             <unitid identifier="103" type="CMicro Series ID" label="CMicro Series ID">103</unitid>
             <unitid identifier="103" type="GMicro Series ID" label="GMicro Series ID">103</unitid>
             <container id="cid220792" label="087.90002" type="Reel">Alien Registration Record</container>
-            <container id="cid230610" label="2200913" type="Reel">Alien Registration Record</container>
             <container id="cid241828" label="2180018" type="REELDTL" parent="cid230610">Alien Registration Record</container>
             <origination label="creator">
               <corpname role="Originator">Sampson County (N.C.)</corpname>

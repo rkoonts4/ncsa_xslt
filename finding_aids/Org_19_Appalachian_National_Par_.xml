@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="ISO-8859-15" standalone="yes"?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+    <eadid countrycode="US" mainagencycode="NC-Ar" url="http://www.ah.dcr.state.nc.us/sections/archives/arch/FindingAids/EAD/eadxml/org_anpa_general_records.xml">org_anpa_general_records</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Finding Aid of the Appalachian National Park Association: General Records, 1899-1936<num>Org.19</num></titleproper>
+        <author>Processed by: Maurice S. Toler; machine-readable finding aid created by: Fran Tracy-Walls</author>
+      </titlestmt>
+      <publicationstmt>
+        <address>
+          <addressline>109 E. Jones Street</addressline>
+          <addressline>4614 Mail Service Center</addressline>
+          <addressline>Raleigh, N.C., 27699-4614</addressline>
+          <addressline>(919) 807-7310</addressline>
+          <addressline>archives@ncdcr.gov</addressline>
+        </address>
+        <date type="publication" normal="20040101">2004-01-01T00:00:00</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using AXAEM<date normal="20190607">2019-06-07T10:42:40</date></creation>
+      <langusage>Description is in<language langcode="eng">English</language></langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date normal="20041001">2004-10-01T10:42:40</date>
+        <item>Converted from Version 1.0 to Version 2002, and re-encoded by Ashley Yandle.</item>
+      </change>
+      <change>
+        <date normal="20070501">2007-05-01T10:42:40</date>
+        <item>Additional encoding added by Ashley Yandle.</item>
+      </change>
+      <change>
+        <date normal="20141010">2014-10-10T10:42:40</date>
+        <item>Converted from Version 2002 DTD to Version 2002 XSD by Jeremy Gibson</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Finding Aid of the Appalachian National Park Association: General Records, 1899-1936<num>Org.19</num></titleproper>
+      <author>Processed by: Maurice S. Toler; machine-readable finding aid created by: Fran Tracy-Walls</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc id="collection358" level="collection" relatedencoding="dc">
+    <did>
+      <unittitle encodinganalog="title">Appalachian National Park Association Records</unittitle>
+      <unitid type="local ID">Org.19</unitid>
+      <unitid identifier="3409" type="Mars ID" label="Mars ID">3409</unitid>
+      <unitid identifier="ORG.19" type="Call Number" label="Location: WRA">ORG.19</unitid>
+      <unitid identifier="Org.19" type="Call Number" label="Call Number">Org.19</unitid>
+      <unitdate encodinganalog="date" type="inclusive" normal="1899/1936">1899 - 1936</unitdate>
+      <langmaterial>
+        <language encodinganalog="language" langcode="eng">English</language>
+      </langmaterial>
+      <physdesc>
+        <genreform>Clippings</genreform>
+        <genreform>Speeches</genreform>
+        <genreform>Maps</genreform>
+        <genreform>Correspondence</genreform>
+        <genreform>Photographs</genreform>
+        <genreform>Scrapbooks</genreform>
+        <genreform>Bills (legislative records)</genreform>
+      </physdesc>
+      <physdesc label="Extent">
+        <extent encodinganalog="300" unit="volumes">6</extent>
+        <extent encodinganalog="300" unit="boxes">17</extent>
+      </physdesc>
+      <physdesc>
+        <extent label="Estimated Extent" encodinganalog="format" unit="boxes">17.00</extent>
+        <extent label="Estimated Extent" encodinganalog="format" unit="volumes">6.00</extent>
+      </physdesc>
+      <abstract encodinganalog="545" label="Abstract">The collection documents the activities of the Appalachian National Park Association, an important contributor to future developments in forestry conservation. Thanks to the association's efforts, along with those of committed professionals, citizens, and other conservation organizations, Congress established the Pisgah National Forest, near Asheville, and the Great Smoky Mountains National Park i western North Carolina and eastern Tennessee. <lb/><lb/>The collection includes minutes, correspondence, map plates, photographs, newspaper clippings, scrapbook, speeches, list of interested persons, and a 1902 message to Congress concerning the South Appalachian region. The material dates from 1899 [1885?] to 1936, with the bulk, 1899-1906.</abstract>
+      <physloc label="Location">For current information on the location ofthese materials, please consult the Western Regional Archives.</physloc>
+      <origination label="creator">
+        <corpname role="Originator">Appalachian National Park Association.</corpname>
+      </origination>
+      <repository encodinganalog="publisher">
+        <corpname>Western Regional Archives, State Archives of North Carolina</corpname>
+      </repository>
+    </did>
+    <arrangement>
+      <head>Collection Arrangement</head>
+      <p>This collection is organized into 5 series:<list type="ordered" numeration="arabic"><item>Volumes of Association Records, Clippings and Speeches (Volumes 1-6)</item><item>7 Map plates and Miscellaneous [Lists] (Box 7)</item><item>Correspondence and Letter/Scrapbook (Boxes 8-15)</item><item>[Loose] Association Records, Speeches, and Legislative Records (Boxes 16-20)</item><item>Photographs (Boxes 21, 21.2, 22)</item></list></p>
+    </arrangement>
+    <accessrestrict encodinganalog="506">
+      <head>Access Restrictions</head>
+      <p>Available for research.</p>
+    </accessrestrict>
+    <userestrict encodinganalog="540">
+      <head>Copyright Notice</head>
+      <p>Copyright is retained by the authors of these materials, or their descendants, as stipulated by United States copyright law (Title 17 US Code). Individual researchers are responsible for using these materials in conformance with copyright law as well as any donor restrictions accompanying the materials.</p>
+    </userestrict>
+    <processinfo>
+      <head>Processing Information</head>
+      <p>Processed by Maurice S. Toler, April, 1963</p>
+      <p>Encoded by Fran Tracy-Walls, October, 2002</p>
+      <p>Additional encoding by Ashley Yandle, May, 2007</p>
+    </processinfo>
+    <bioghist>
+      <head>Historical Note</head>
+      <bioghist>
+        <p>Proposals for a park and forest reserves in the Southern Appalachian Mountains date to the 1880s and early 1890s. The movement was backed by both the tourism industry and conservationists with the latter especially concerned about flooding in deforested areas and decreasing lumber supplies. </p>
+        <p>Increasingly, lumbering around tourist and recreational areas drew concerned comment. In 1892, Charles S. Sargent published a plan for a Southern Appalachian forest reserve in the influential journal, <emph render="italic">Garden and Forest.</emph> During that time, Joseph A. Holmes, State Geologist of North Carolina, recommended the establishment of a reserve in the North Carolina mountains. Additionally, the North Carolina General Assembly and the North Carolina Press Association emerged as supporters of a national park in the Tar Heel State. In 1894, the press association petitioned Congress for the establishment of such a park.</p>
+        <p>Crucial impetus to this movement came in 1899, when former Secretary of State William R. Day of Ohio was on a fishing trip in western North Carolina with his friend, Asheville physician, Dr. Chase P. Ambler. Apparently, at both Day's and Ambler's urging, a parks and foestry committee was organized by the Asheville Board of Trade. Day envisioned the formation of an organization that might bring the effort to the attention of Congress. Then in November of 1899, a meeting was held at the old Battery Park Hotel in Asheville, that drew a large attendance from seven southeastern states. Sentiment in favor of a national project was unanimous, and an organization, the Appalachian Naitonal Park Association, was formed formed. George S. Powell was the association's first president. Dr. Chase P. Ambler, to whom credit is given for subsequent accomplishments of the group, was named secretary. In 1900 a joint survey by the [U.S.] Bureau of Forestry and the Geological Survey evaluated 9.6000.000 acres of forest land to determine its suitability as a national forest reserve. The survey report received favorable response in southern newspapers. During the same period, the impetus grew to establish a national park in the region, particularly in North Carolina, Tennessee, and Virginia.</p>
+        <p>In 1903, the Appalachian National Park Association was renamed the Appalachian National Forest Reserve Association. Within two years the association disbanded, but in 1905 the notion of a national park and the effort to establish forest reserves in the East and in the Appalachian region was taken up by the American Forestry Association (AFA).</p>
+        <p>During the early years of the twentieth century, there was continued resistance in congressional circles to the shared goals of the Appalachian National Park Association and the AFA. However, continued pressure on Congress led to the passage of the Weeks Act of 1911. Under terms of this law, the U.S. government was empowered to acquire private lands as needed for the protection of "the headwaters of navigable streams." The Weeks Act also made it possible to establish national forests in the East, including the Pisgah Forest Reserve in the Asheville area. During this period, however, Congress proved unwilling to purchase lands from private owners in order to establish a national park in the Appalachians.</p>
+        <p>By the 1920s there was a renewed movement for the establishment of a national park in the Southern Appalachians. In 1924, the secretary of the Department of the Interior formed the Southern Appalachian National Park Committee to study the issues. In 1926, Congress enacted a bill authorizing the creation of two parks in the Appalachians: the Great Smoky Mountains National Park and Shenandoah National Park in Virginia. There followed a long period of land acquisition and political conflict. Dedication of the Sheanandoan National Park occurred in 1936, followed by the dedication of the Great Smoky Mountains National Park in 1939, an event considered by many the result of the Asheville Board of Trade founding the Appalachian National Park Association forty years prior. </p>
+      </bioghist>
+      <p><emph render="bold">Chronology</emph><lb/><lb/>November 22, 1899: Appalachian National Park Association organized in Asheville, N.C.</p>
+      <p>January 2, 1900: Memorial of the Appalachian National Park Association presented to Congress and referred to the Committee of Agriculture.<lb/><lb/>Summer of 1900: U.S. Forestry Bureau with the co-operation of the Geological Survey investigate the Southern Appalachians from Virginia to Alabama.<lb/><lb/>January 18, 1901: North Carolina General Assembly passed a bill ceding to the federal government the right to acquire title to such lands as might be desired for forest reserve purposes and exempting the same from taxation. North Carolina followed by South Carolina, Alabama, Georgia, Tennessee, and Virginia.<lb/><lb/>November 6, 1901: Joseph A. Holmes, Senator Simmons, Judge McCrea, Congressman Johnson of S.C. and Rutherford P. Hayes made a trip of investigation in the Blue Ridge and Great Smokies.<lb/><lb/>September 5, 1902: By order of Congress, the Public Printer issued Senate Document No. 84. This report included all important action taken in Washington from the introduction of the original memorial of the Association. It includes messages by President McKinley and Roosevelt; legislation of the different states involved; the endorsement of the associations; news extracts by well-known scientists regarding the conservation movement.<lb/><lb/>1903: Appalachian National Park Association was renamed the Appalachian National Forest Reserve Association.<lb/><lb/>1905: Within two years the Appalachian National Forest Reserve Association had disbanded. However, in 1905 the notion of a national park and the effort to establish forest reserves in the East and in the Appalachian region was taken up by the American Forestry Association (AFA).<lb/><lb/>1911: Congress passed the Weeks Act. This important legislation permitted the U.S. Forest Service to purchase or acquire private lands as needed for the protection of "the headwaters of navigable streams."<lb/><lb/>1914: The Forest Service purchased nearly 80,000 acres, including Mount Pisgah, from Edith Vanderbilt as part of what is now the Pisgah National Forest, comprised of 479,000 acres.<lb/><lb/>1924: The secretary of the Department of the Interior formed the Southern Appalachian National Park Committee to study the issues of a national park.<lb/><lb/>1926: Congress enacted a bill authorizing the creation of two parks in the Appalachians: the Great Smoky Mountains National Park and Shenandoah National Park in Virginia.<lb/><lb/>1936: Dedication of the Shenandoah National Park in Virginia.<lb/><lb/>1939: Dedication of the Great Smoky Mountains National Park.</p>
+    </bioghist>
+    <custodhist>
+      <p>The collection of papers was deposited in 1929 by Dr. C. P. Ambler of Asheville, who had been secretary of the association.</p>
+    </custodhist>
+    <prefercite>
+      <head>Preferred Citation</head>
+      <p>[Identification of item], Org.19, Appalachian National Park Association: General Records, State Archives of North Carolina, Western Regional Archives, Asheville, NC, USA.</p>
+    </prefercite>
+    <acqinfo encodinganalog="541">
+      <head>Acquisitions Information</head>
+      <p>The collection of papers was deposited in 1929 by Dr. C. P. Ambler of Asheville, who had been secretary of the association. During March-April, 2012, these records were moved from the State Archives building in Raleigh to the Western Regional Archives, Asheville, N.C.</p>
+    </acqinfo>
+    <relatedmaterial encodinganalog="544">
+      <head>Related Collections</head>
+      <p>Additional information on topics found in this collection may be found in the Manuscript and Archives Reference System (MARS) <extref xlink:href="http://mars.archives.ncdcr.gov" xlink:type="simple">http://mars.archives.ncdcr.gov</extref>.</p>
+      <list type="marked">
+        <head>See also:</head>
+        <item>The following publication issued by the association can be viewed online through the Library of Congress site at <extref xlink:href="http://catalog.loc.gov" xlink:type="simple">http://catalog.loc.gov</extref> under LC Control Number: 2001522665: <title xlink:type="simple" render="italic">Appalachian forest reserve: proceedings of the convention held Oct. 25, 1902, at Asheville, N.C.</title>/ issued by the Appalachian National Park Association.Asheville : Asheville Printing Co., [1902?] 48 p. ; 14 cm.</item>
+      </list>
+    </relatedmaterial>
+    <scopecontent>
+      <head>Collection Overview</head>
+      <p>The papers and related materials of the Appalachian National Park Association. This collection includes minutes, correspondence, map plates, photographs, newspaper clippings, a scrapbook, speeches, lists of interested persons, message to Congress concerning the Southern Appalachian region.</p>
+    </scopecontent>
+    <controlaccess>
+      <controlaccess>
+        <persname encodinganalog="600" source="local">Ambler, Chase P., d. 1932.</persname>
+        <persname encodinganalog="600" source="local">Schenck, Carl Alwin, 1868-1955.</persname>
+        <persname encodinganalog="600" source="local">J. A. (Joseph Austin) Holmes, 1859-1915</persname>
+        <persname encodinganalog="600" source="local">Gifford Pinchot, 1865-1946</persname>
+      </controlaccess>
+      <controlaccess>
+        <corpname encodinganalog="610" source="local">Appalachian National Park Association.</corpname>
+        <corpname encodinganalog="610" source="local">Great Smoky Mountains National Park (N.C. and Tenn.)</corpname>
+        <corpname encodinganalog="610" source="local">Society of American Foresters</corpname>
+      </controlaccess>
+      <controlaccess>
+        <subject encodinganalog="650" source="local">Forest reserves--Appalachian Region.</subject>
+        <subject encodinganalog="650" source="local">Forests and forestry--North Carolina--History.</subject>
+        <subject encodinganalog="650" source="local">Forest reserves</subject>
+        <subject encodinganalog="650" source="local">Forests and forestry</subject>
+      </controlaccess>
+      <controlaccess>
+        <geogname encodinganalog="651" source="local">Appalachian region</geogname>
+        <geogname encodinganalog="651" source="local">Asheville (N.C.)</geogname>
+      </controlaccess>
+      <controlaccess>
+        <genreform encodinganalog="655" source="local">Administrative reports.</genreform>
+        <genreform encodinganalog="655" source="local">Bills (legislative records)</genreform>
+        <genreform encodinganalog="655" source="local">Clippings.</genreform>
+        <genreform encodinganalog="655" source="local">Correspondence.</genreform>
+        <genreform encodinganalog="655" source="local">Handbills.</genreform>
+        <genreform encodinganalog="655" source="local">Maps.</genreform>
+        <genreform encodinganalog="655" source="local">Minutes.</genreform>
+        <genreform encodinganalog="655" source="local">Photographs.</genreform>
+        <genreform encodinganalog="655" source="local">Scrapbooks.</genreform>
+        <genreform encodinganalog="655" source="local">Speeches.</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc>
+      <c01 id="series810" level="series">
+        <did>
+          <unittitle encodinganalog="title">Volumes of Association Records, Clippings and Speeches,</unittitle>
+          <unitid type="level ID">810</unitid>
+          <unitdate encodinganalog="date" type="inclusive" normal="1899/1928">1899-1928</unitdate>
+          <origination label="creator">
+            <corpname role="Originator">Appalachian National Park Association.</corpname>
+          </origination>
+        </did>
+        <c02 id="subseries1881" level="subseries">
+          <did>
+            <unittitle encodinganalog="title">Minutes,</unittitle>
+            <unitid type="level ID">1881</unitid>
+            <unitdate encodinganalog="date" type="inclusive">1899-1905</unitdate>
+            <container id="cid33567" label="1" type="Item">1</container>
+            <origination label="creator">
+              <corpname role="Originator">Appalachian National Park Association.</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="subseries1882" level="subseries">
+          <did>
+            <unittitle encodinganalog="title">Newspaper clippings,</unittitle>
+            <unitid type="level ID">1882</unitid>
+            <unitdate encodinganalog="date" type="inclusive">1899 -1902</unitdate>
+            <container id="cid33568" label="2" type="Item">2</container>
+            <origination label="creator">
+              <corpname role="Originator">Appalachian National Park Association.</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="subseries1883" level="subseries">
+          <did>
+            <unittitle encodinganalog="title">Cash Book,</unittitle>
+            <unitid type="level ID">1883</unitid>
+            <unitdate encodinganalog="date" type="inclusive">1899-1906</unitdate>
+            <container id="cid33569" label="3" type="Item">3</container>
+            <origination label="creator">
+              <corpname role="Originator">Appalachian National Park Association.</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="subseries1884" level="subseries">
+          <did>
+            <unittitle encodinganalog="title">Copies of speeches, etc., (exhibit &lt;emph render="doublequote"&gt;A&lt;/emph&gt;),</unittitle>
+            <unitid type="level ID">1884</unitid>
+            <unitdate encodinganalog="date" type="inclusive">1885-1925</unitdate>
+            <container id="cid33570" label="4" type="Item">4</container>
+            <origination label="creator">
+              <corpname role="Originator">Appalachian National Park Association.</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="subseries1885" level="subseries">
+          <did>
+            <unittitle encodinganalog="title">Message to Congress concerning Southern Appalachian Mountains,</unittitle>
+            <unitid type="level ID">1885</unitid>
+            <unitdate encodinganalog="date" type="inclusive">1902</unitdate>
+            <container id="cid33571" label="5" type="Item">5</container>
+            <origination label="creator">
+              <corpname role="Originator">Appalachian National Park Association.</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="subseries1886" level="subseries">
+          <did>
+            <unittitle encodinganalog="title">Newspapers - clippings, , &lt;unitdate type="inclusive" calendar="gregorian" era="ce"&gt;1925&lt;/unitdate&gt;, &lt;unitdate type="inclusive" calendar="gregorian" era="ce"&gt;1928&lt;/unitdate&gt;</unittitle>
+            <unitid type="level ID">1886</unitid>
+            <unitdate encodinganalog="date" type="inclusive">1902-1907 1925 1928</unitdate>
+            <container id="cid33572" label="6" type="Item">6</container>
+            <origination label="creator">
+              <corpname role="Originator">Appalachian National Park Association.</corpname>
+            </origination>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="series811" level="series">
+        <did>
+          <unittitle encodinganalog="title">Map plates and Lists,, n.d.</unittitle>
+          <unitid type="level ID">811</unitid>
+          <unitdate encodinganalog="date" type="inclusive" normal="1902">1902</unitdate>
+          <origination label="creator">
+            <corpname role="Originator">Appalachian National Park Association.</corpname>
+          </origination>
+        </did>
+        <c02 id="subseries1887" level="subseries">
+          <did>
+            <unittitle encodinganalog="title">Map plates</unittitle>
+            <unitid type="level ID">1887</unitid>
+            <container id="cid33573" label="7" type="Box">7</container>
+            <origination label="creator">
+              <corpname role="Originator">Appalachian National Park Association.</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="subseries1888" level="subseries">
+          <did>
+            <unittitle encodinganalog="title">Lists of interested persons,</unittitle>
+            <unitid type="level ID">1888</unitid>
+            <unitdate encodinganalog="date" type="inclusive">1902</unitdate>
+            <origination label="creator">
+              <corpname role="Originator">Appalachian National Park Association.</corpname>
+            </origination>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="series812" level="series">
+        <did>
+          <unittitle encodinganalog="title">Correspondence and Letter/Scrapbook,</unittitle>
+          <unitid type="level ID">812</unitid>
+          <unitdate encodinganalog="date" type="inclusive" normal="1899/1902">1899-1902</unitdate>
+          <origination label="creator">
+            <corpname role="Originator">Appalachian National Park Association.</corpname>
+          </origination>
+        </did>
+        <c02 id="file21461" level="file">
+          <did>
+            <unittitle encodinganalog="title">Correspondence,</unittitle>
+            <unitid type="level ID">21461</unitid>
+            <unitdate encodinganalog="date" type="inclusive">1899-1900</unitdate>
+            <container id="cid33574" label="8" type="Box">8</container>
+            <origination label="creator">
+              <corpname role="Originator">Appalachian National Park Association.</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file21462" level="file">
+          <did>
+            <unittitle encodinganalog="title">Letter file and Scrapbook,</unittitle>
+            <unitid type="level ID">21462</unitid>
+            <unitdate encodinganalog="date" type="inclusive">1899</unitdate>
+            <container id="cid33575" label="9" type="Box">9</container>
+            <origination label="creator">
+              <corpname role="Originator">Appalachian National Park Association.</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file21463" level="file">
+          <did>
+            <unittitle encodinganalog="title">Correspondence,</unittitle>
+            <unitid type="level ID">21463</unitid>
+            <unitdate encodinganalog="date" type="inclusive">January - July, 1901</unitdate>
+            <container id="cid33576" label="10" type="Box">10</container>
+            <origination label="creator">
+              <corpname role="Originator">Appalachian National Park Association.</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file21464" level="file">
+          <did>
+            <unittitle encodinganalog="title">Correspondence,</unittitle>
+            <unitid type="level ID">21464</unitid>
+            <unitdate encodinganalog="date" type="inclusive">July - December, 1901</unitdate>
+            <container id="cid33577" label="11" type="Box">11</container>
+            <origination label="creator">
+              <corpname role="Originator">Appalachian National Park Association.</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file21465" level="file">
+          <did>
+            <unittitle encodinganalog="title">Correspondence,</unittitle>
+            <unitid type="level ID">21465</unitid>
+            <unitdate encodinganalog="date" type="inclusive">January - September, 1902</unitdate>
+            <container id="cid33578" label="12" type="Box">12</container>
+            <origination label="creator">
+              <corpname role="Originator">Appalachian National Park Association.</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file21466" level="file">
+          <did>
+            <unittitle encodinganalog="title">Correspondence,</unittitle>
+            <unitid type="level ID">21466</unitid>
+            <unitdate encodinganalog="date" type="inclusive">October - December, 1902</unitdate>
+            <container id="cid33579" label="13" type="Box">13</container>
+            <origination label="creator">
+              <corpname role="Originator">Appalachian National Park Association.</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file21467" level="file">
+          <did>
+            <unittitle encodinganalog="title">Correspondence,</unittitle>
+            <unitid type="level ID">21467</unitid>
+            <unitdate encodinganalog="date" type="inclusive">1903</unitdate>
+            <container id="cid33580" label="14" type="Box">14</container>
+            <origination label="creator">
+              <corpname role="Originator">Appalachian National Park Association.</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file21468" level="file">
+          <did>
+            <unittitle encodinganalog="title">Correspondence, n.d.</unittitle>
+            <unitid type="level ID">21468</unitid>
+            <container id="cid33581" label="15" type="Box">15</container>
+            <origination label="creator">
+              <corpname role="Originator">Appalachian National Park Association.</corpname>
+            </origination>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="series813" level="series">
+        <did>
+          <unittitle encodinganalog="title">Appalachian National Park Association Records &amp; Speeches/Legislative Records,</unittitle>
+          <unitid type="level ID">813</unitid>
+          <unitdate encodinganalog="date" type="inclusive" normal="1899/1936">1899-1936</unitdate>
+          <origination label="creator">
+            <corpname role="Originator">Appalachian National Park Association.</corpname>
+          </origination>
+        </did>
+        <c02 id="file21469" level="file">
+          <did>
+            <unittitle encodinganalog="title">Speeches, handbills, etc., n.d.</unittitle>
+            <unitid type="level ID">21469</unitid>
+            <container id="cid33582" label="16-17" type="Box">16-17</container>
+            <origination label="creator">
+              <corpname role="Originator">Appalachian National Park Association.</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file21470" level="file">
+          <did>
+            <unittitle encodinganalog="title">Bills,</unittitle>
+            <unitid type="level ID">21470</unitid>
+            <unitdate encodinganalog="date" type="inclusive">1899-1903</unitdate>
+            <container id="cid33583" label="18" type="Box">18</container>
+            <origination label="creator">
+              <corpname role="Originator">Appalachian National Park Association.</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file21471" level="file">
+          <did>
+            <unittitle encodinganalog="title">Committee Reports and Literature,</unittitle>
+            <unitid type="level ID">21471</unitid>
+            <unitdate encodinganalog="date" type="inclusive">1899-1902</unitdate>
+            <container id="cid33584" label="19" type="Box">19</container>
+            <origination label="creator">
+              <corpname role="Originator">Appalachian National Park Association.</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file21472" level="file">
+          <did>
+            <unittitle encodinganalog="title">Association Records, Activities, and Miscellaneous Papers concerning &lt;title xlink:type="simple" render="doublequote"&gt;Weeks Law,&lt;/title&gt;; &lt;unitdate type="inclusive" calendar="gregorian" era="ce"&gt;1936&lt;/unitdate&gt;</unittitle>
+            <unitid type="level ID">21472</unitid>
+            <unitdate encodinganalog="date" type="inclusive">1899-1906 1936</unitdate>
+            <container id="cid33585" label="20" type="Box">20</container>
+            <origination label="creator">
+              <corpname role="Originator">Appalachian National Park Association.</corpname>
+            </origination>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="series814" level="series">
+        <did>
+          <unittitle encodinganalog="title">Photographs, n.d.</unittitle>
+          <unitid type="level ID">814</unitid>
+          <origination label="creator">
+            <corpname role="Originator">Appalachian National Park Association.</corpname>
+          </origination>
+        </did>
+        <c02 id="otherlevel23037" level="otherlevel" otherlevel="otherlevel">
+          <did>
+            <unittitle encodinganalog="title">Photographs</unittitle>
+            <unitid type="level ID">23037</unitid>
+            <container id="cid33586" label="20" type="Box">20</container>
+            <origination label="creator">
+              <corpname role="Originator">Appalachian National Park Association.</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="otherlevel23038" level="otherlevel" otherlevel="otherlevel">
+          <did>
+            <unittitle encodinganalog="title">Photographs</unittitle>
+            <unitid type="level ID">23038</unitid>
+            <container id="cid33587" label="20.1" type="Box">20.1</container>
+            <origination label="creator">
+              <corpname role="Originator">Appalachian National Park Association.</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="otherlevel23039" level="otherlevel" otherlevel="otherlevel">
+          <did>
+            <unittitle encodinganalog="title">Photographs</unittitle>
+            <unitid type="level ID">23039</unitid>
+            <container id="cid33588" label="22" type="Box">22</container>
+            <origination label="creator">
+              <corpname role="Originator">Appalachian National Park Association.</corpname>
+            </origination>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>
