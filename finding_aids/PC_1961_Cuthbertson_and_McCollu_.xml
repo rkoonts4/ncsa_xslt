@@ -1,0 +1,876 @@
+<?xml version="1.0" encoding="ISO-8859-15" standalone="yes"?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+    <eadid countrycode="US" mainagencycode="NC-Ar">PC.1961</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Finding Aid of Cuthbertson and McCollum Family Papers<num>PC.1961</num></titleproper>
+        <author>Finding aid prepared by Fran Tracy-Walls, 2012; Jennifer Davis, 2012, N.C. Genealogical Society Intern.</author>
+        <sponsor>Internship supported in part by funds bequeathed to the N.C. Genealogical Society by the late Frances Holloway Wynne.</sponsor>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>State Archives of North Carolina</publisher>
+        <address>
+          <addressline>109 E. Jones Street</addressline>
+          <addressline>4614 Mail Service Center</addressline>
+          <addressline>Raleigh, N.C., 27699-4614</addressline>
+          <addressline>(919) 807-7310</addressline>
+          <addressline>archives@ncdcr.gov</addressline>
+        </address>
+        <date type="publication" normal="20120101">2012-01-01T00:00:00</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using AXAEM<date normal="20190607">2019-06-07T10:47:19</date></creation>
+      <langusage>Description is in<language langcode="eng">English</language></langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Finding Aid of Cuthbertson and McCollum Family Papers<num>PC.1961</num></titleproper>
+      <author>Finding aid prepared by Fran Tracy-Walls, 2012; Jennifer Davis, 2012, N.C. Genealogical Society Intern.</author>
+      <sponsor>Internship supported in part by funds bequeathed to the N.C. Genealogical Society by the late Frances Holloway Wynne.</sponsor>
+      <publisher>State Archives of North Carolina</publisher>
+    </titlepage>
+  </frontmatter>
+  <archdesc id="collection53" level="collection" relatedencoding="dc">
+    <did>
+      <unittitle encodinganalog="title">Cuthbertson and McCollum Family Papers</unittitle>
+      <unitid type="local ID">PC.1961</unitid>
+      <unitid identifier="5215" type="Mars ID" label="Mars ID">5215</unitid>
+      <unitid identifier="PC.1961" type="Call Number" label="Location: ST 3B">PC.1961</unitid>
+      <unitid identifier="PC.1961" type="Imported from EAD file" label="Imported from EAD file">PC.1961</unitid>
+      <unitdate encodinganalog="date" type="inclusive" normal="1818/1889">1818-1889</unitdate>
+      <langmaterial>
+        <language encodinganalog="language" langcode="eng">English</language>
+      </langmaterial>
+      <physdesc>
+        <genreform>Journals</genreform>
+      </physdesc>
+      <physdesc label="physdesc">
+        <extent>2.0 boxes</extent>
+      </physdesc>
+      <physdesc>
+        <extent label="Estimated Extent" encodinganalog="format" unit="boxes">2.00</extent>
+        <extent label="Estimated Extent" encodinganalog="format" unit="volumes">1.00</extent>
+      </physdesc>
+      <abstract id="ref1" label="Abstract">Moses W. Cuthbertson (1795-1865) of southern Union County, his wife, Margaret McCollum (1798-1880) had no children, and operation of the plantation (2,400-acres, with half under cultivation) was with the assistance of 11 male slaves ranging in age from 12 to 58, and 7 female slaves ranging in age from 12 to 48. The farm journal begins on January 15, 1858, and continues to February 15, 1865. Entries report on the annual agricultural cycle, production of various goods, births and marriages, and the movements of local soldiers during the war years. Addition of 2012 consists of letters, deeds, land records, promissory notes, bonds summons, writs, estates papers, powers of attorney, receipts, miscellaneous papers.</abstract>
+      <origination label="creator">
+        <famname role="Originator">Cuthbertson family</famname>
+      </origination>
+      <origination label="Creator">
+        <corpname role="Originator">Unknown</corpname>
+      </origination>
+      <origination label="Creator">
+        <famname role="Other">Cuthbertson family</famname>
+      </origination>
+      <repository encodinganalog="publisher">
+        <corpname>State Archives of North Carolina</corpname>
+      </repository>
+    </did>
+    <arrangement id="ref66">
+      <head>Collection Arrangement</head>
+      <p>This collection is organized by record type and is generally in chronological order. As noted some records are maintained in orginal order as bundled by Cuthbertson.</p>
+      <p>Three series: Cuthbertson Farm Journal; Correspondence; and Land, Court Records and Receipts</p>
+      <p/>
+      <p/>
+    </arrangement>
+    <accessrestrict id="ref4">
+      <head>Access Restrictions</head>
+      <p>Available for research</p>
+    </accessrestrict>
+    <userestrict id="ref5">
+      <head>Copyright Notice</head>
+      <p>Copyright is retained by the authors of these materials, or their descendants, as stipulated by United States copyright law (Title 17 US Code). Individual researchers are responsible for using these materials in conformance with copyright law as well as any donor restrictions accompanying the materials.</p>
+      <p/>
+    </userestrict>
+    <processinfo id="ref67">
+      <head>Processing Information note</head>
+      <p>Processed by George Stevenson (Farm Journal), 2007; Fran Tracy-Walls, and Jennifer Davis, 2012.</p>
+      <p>Finding Aid by Jennifer Davis, N.C. Genealogical Society Intern, 2012. Additional description by Fran Tracy-Walls, 2013.</p>
+    </processinfo>
+    <bioghist id="ref51">
+      <head>Biographical/Historical note</head>
+      <p>Moses W. Cuthbertson (1795-1865) was born, bred, and died in southern Union County. He and his wife, Margaret McCollum (1798-1880) were childless. In their household, however, were two young relatives to whom Cuthbertson acted as guardian: one was a student at Trinity College, David Baxter Phifer (died September 16, 1860); and the other was a student at Carolina Female College in Anson County, Mary M. Phifer. (She later married John David Cuthbertson, and died in January 1865 along with a young son named Daniel).</p>
+      <p>Of Cuthbertson's 2,400-acre plantation, half was under cultivation. He operated the plantation with the assistance of eleven male slaves ranging in age from 12 to 58, and seven female slaves ranging in age from 12 to 48. (Three additional slaves in 1860 were small children.) Cuthbertson served in the North Carolina General Assembly during the 1832-1833 term. Additionally, he was an active public servant in Union county, serving as justice of the peace, and chairman and superintendent of common schools from 1851 to 1864, and was an active member of the Methodist church in his community.</p>
+      <p/>
+    </bioghist>
+    <custodhist>
+      <custodhist>
+        <p>Ken Neese, Monroe, N.C., 2007</p>
+      </custodhist>
+      <custodhist>
+        <p>Ken Neese, Monroe, N.C., 2012</p>
+      </custodhist>
+    </custodhist>
+    <prefercite id="ref7">
+      <head>Preferred Citation</head>
+      <p>[Identification of item], PC.1961, Cuthbertson and McCollum Family Papers, State Archives of North Carolina, Raleigh, NC, USA.</p>
+      <p/>
+    </prefercite>
+    <acqinfo id="ref6">
+      <head>Acquisitions Information</head>
+      <p>Gift of the Cuthbertson Farm Journal by Ken Neese, Monroe, North Carolina, 2007. Additonal material in the collection donated by Ken Neese, October 2012.</p>
+    </acqinfo>
+    <relatedmaterial id="ref10">
+      <head>Related Collections</head>
+      <p>Additional information on topics found in this collection may be found in the Manuscript and Archives Reference System (MARS) <extref xlink:type="simple">http://mars.archives.ncdcr.gov/BasicSearch.aspx</extref></p>
+    </relatedmaterial>
+    <scopecontent id="ref52">
+      <head>Collection Overview</head>
+      <p>The Cuthbertson farm journal begins on January 15, 1858, and continues to February 15, 1865, a month before the death of Moses Cuthbertson. Entries report on the annual agricultural cycle, production of various goods, births and marriages, and the movements of local soldiers during the war years. Sometime after the death of Mrs. Cuthbertson in 1880, the farm journal fell into other hands. The blank leaves at the end of the journal were used as a waste book by a Monroe firm (possibly J. Shute and Son) to make temporary records of transactions, dating from the years from 1885 to 1889. An addition of 2012 consists of letters, deeds, land records, promissory notes, bonds summons, writs, estates papers, powers of attorney, receipts, legal documents, settlements, agreements. There is one slave bill of sale from 1826. The correspondence to Moses Cuthbertson dates as early as 1820.<lb/><lb/> As noted, some entries in the farm journal report the annual agricultural cycle of manuring, harrowing, plowing, planting and sowing, cultivating, and harvesting the principal crops raised on the plantation: corn, oats, wheat, peas, and cotton. Other entries record sheep shearings, hog killings, the tanning of leather, and the making of wine, molasses, and syrup. Several notations of local marriages and deaths are recorded in the journal, and during the war years, the movement of local soldiers between home and the army are noted.</p>
+      <p>Moses Cuthbertson had been one of the commissioners appointed to lay off Union County when it was erected in 1842. He served as chairman of the Union County Superintendents of Common Schools from 1851 to 1864, and was particularly active in affairs of the Methodist church in his neighborhood. Consequently his journal sometimes records his activities as a surveyor. A great many more entries relate to his work with the common schools. But the greatest number of entries of this sort has to do with attendance at church, at camp meetings, and conferences, and with appointments of Methodist pastors. He records the progress of a Sunday school that commenced at Liberty Chapel Methodist Church on May 2, 1858, and a Bible class that was begun there subsequently.</p>
+      <p>A few entries in the journal record noteworthy events. An entry of October 1858 describes the appearance of Donati's comet as observed in southern Union County during the period from September 20 to October 20, 1858. In the following year on September 1, 1859, he describes the effect of the solar superflare of that date that produced a remarkable display of the Aurora Borealis. He describes it as a reddish colored light moving from east to west, of so great a brightness that one could read common print by it at midnight. Local outrages are sometimes recorded: the shooting death of Joseph F. Hough by Jim Richards and the public outcry when Richards was admitted to bail (June 24 and July 4, 1861); the murder of Mrs. John E. Austen by her slaves on August 25, 1864 (and the hanging of the slaves on Nov. 25, 1864); the murder of William Blakney by four of his slaves on September 14, 1864 (of whom three were hanged and one burnt to death).</p>
+      <p>The secession crisis and the opening days of the war are remarked on frequently in 1861, but subsequent war news seldom makes it into the journal. Cuthbertson was anti-secessionist, but once secession was a fact and the war was begun, he did his duty. He cooperated with the raising of a volunteer company, made a subscription of clothing and provisions for soldiers, and, as the local justice of the peace, oversaw the distribution of salt and meat to the families of volunteer soldiers and the getting of winter fuel for them. On the other hand, he resented the impressment of his slaves to work on the fortifications at Wilmington, and he records unflattering remarks about the probable effectiveness of the detachment of the Mecklenburg County Home Guard that was sent into Union County to round up deserters (see entry of September 1, 1864). Earlier he had recorded activities of the local Home Guard in which they had skirmished with a handful of deserters (killing one and capturing two) without making reflections similar to his remarks on the men from Mecklenburg County (see entries of Jan. 29 and March 26, 1864).</p>
+      <p>Occasionally Cuthbertson makes entries in the journal in which the names of his slaves are recorded. Some entries in the spring of 1861 refer to the final illness of Mary Ann, and the entry for April 4 of that year reports her death in the presence of her father and her husband-Daniel (Hagler). Entries of June 12 and 16 report the death of the boy named Green and his interment at Liberty Chapel Methodist Church, Alex the Shepherd is mentioned in a summary entry concerning the lambing made at the end of February 1862. The sickness of Hugh, for whom Bob was sent for a doctor, is recorded on March 8, 1862; the illness of Maria is recorded on June 21, 1863; Hampton's sickness on February 9, 29, and March 10, 1864, and Sam's pleurisy on March 2 and 10, 1864. The death of Amanda (who was buried at Liberty Chapel) is recorded on November 7, 1864, and the death of her baby, Tommy, aged 2 months, on November 16.</p>
+      <p>Apart from the natural resentment of having a slave commandeered by Confederate authorities and sent off to work on the fortifications at Wilmington, Cuthbertson's views on this subject might well have been influenced by the fate of Calvin who was sent to Wilmington on September 26, 1863, and died there on December 27. Another slave, Hampton, returned home from Wilmington on January 29, 1864. Cuthbertson was unable to prevent the impressment of his man Jacob for the work at Wilmington on November 1, 1864, though he tried to do so. Later that month, on the 28th, Cuthbertson received a letter from Jacob complaining of the lack of food for the impressed workers. Cuthbertson responded by sending to him ten pounds of bacon, three pecks of meal, forty biscuits; eight tarts, and similar provisions. After three months and seven days at that vile place, as Cuthbertson labels it, Jacob was sent home from Wilmington to Union County on foot, arriving home on February 2, 1865.</p>
+      <p>Cuthbertson, who appears to have suffered from congestive heart failure, made no entries in the farm journal after February 15, 1865. He died on March 12, 1865.</p>
+      <p>Sometime after the death of Mrs. Cuthbertson in 1880, the farm journal fell into other hands. The blank leaves at the end of the journal were used as a waste book by a Monroe firm to make temporary records of transactions, dating from the years from 1885 to 1889, with several African-American heads of family. Internal evidence suggests that it was the Monroe firm of J. Shute and Son for whose benefit the entries were made. This firm commenced business in the merchandising line in 1866, but eventually branched into ginning and milling. In 1885 the firm started up a brick-making enterprise as a small mud mill. It seems probable that these 1885-1889 accounts were those of employees of the firm, possibly workers at the brick manufactory. Some of the workers appear to have been Cuthbertson freedmen, including Alex the Shepherd: Dennis Haley, Burgwin Stegall, and Alex, Henry M., Edwin, and Samuel W. Cuthbertson. Entries record the purchase of clothing, shoes, salt, meat, flour, molasses, tobacco, corn, oats, and fodder by the workers.</p>
+      <p>Correspondence begins in 1827 and continues until 1854. Many of the letters are from unknown relations in Mississippi regarding the settlement of property back in North Carolina. Cuthbertson corresponds with several circuit-riding Methodist ministers, who were once assigned to the Mecklenburg district, which includes Anson and Union Counties. In one such letter written in May 1845 the Rev. Zacheus Dowling references a historical conference of the Methodist Episcopal Church held in Louisville, Kentucky, resulting in the separation of slaveholding states to form the Methodist Episcopal Church, South. In another letter the corresponding clergyman, C. L. King, is assigned to a mission in St. Matthews, S.C., where he is teaching both slave children and adults.</p>
+      <p>Later correspondence is primarily from Margaret Cuthbertson's family (McCollum) who had moved into southwestern Georgia, including several of her brothers and their children. Most of the letters describe the journey southward, establishing new farms, and other neighbors from Union County who migrated to the region. In 1852 Moses Cutherbertson traveled to Georgia to visit family members. There are several letters to him from his wife and the Phifer children back in Union County. Later, in 1852 Thomas McCollum details the events of surviving what was a hurricane just before reaching their destination.</p>
+      <p>Other papers of Moses Cuthbertson include deeds and indentures, all from the early to mid-1800. The earliest document in the collection is an 1811 land grant for two hundred acres in Anson County to Susannah Roberts. Court records consist of power of attorney, warrants, and judgments. Additionally, there are a sundry of other records such as guardianship and settlement records, as well as a large number of receipts. Of particular interest is a slave bill of sale for a young woman named Frenchy sold to Moses Cuthbertson. Another noteworthy item is a document appointing a vigilance committee by the Richardson Creek Guards with the purpose of arresting any man (white or black) who may be prowling about the county with business unknown or seen holding a conversation with a slave or free person of color. Finally there are agreements belonging to Margaret Cutherbertson after the death of her husband. Several agreements are between her and a former slave named, Sam Cuthbertson.</p>
+      <p/>
+    </scopecontent>
+    <controlaccess>
+      <controlaccess>
+        <persname encodinganalog="600" source="local">Austen, Lavinia</persname>
+        <persname encodinganalog="600" source="local">Blakeney, William</persname>
+        <persname encodinganalog="600" source="local">Cuthbertson, Margaret McCollum, 1798-1880</persname>
+        <persname encodinganalog="600" source="local">Cuthbertson, Mary M. Phifer</persname>
+        <persname encodinganalog="600" source="local">Cuthbertson, Moses W., 1795-1865</persname>
+        <persname encodinganalog="600" source="local">Dowling, Zacheous</persname>
+        <persname encodinganalog="600" source="local">Green, William</persname>
+        <persname encodinganalog="600" source="local">Hough, Joseph F.</persname>
+        <persname encodinganalog="600" source="local">McCollum, D.W.</persname>
+        <persname encodinganalog="600" source="local">McCollum, Thomas</persname>
+        <persname encodinganalog="600" source="local">Phifer, David Baxter</persname>
+        <persname encodinganalog="600" source="local">Richards, James</persname>
+        <persname encodinganalog="600" source="local">Roberts, Susannah</persname>
+        <famname encodinganalog="600" source="local">Cuthbertson Family</famname>
+        <famname encodinganalog="600" source="local">McCollum family</famname>
+        <persname encodinganalog="600" source="local">Blakeney, William</persname>
+        <famname encodinganalog="600" source="local">Cuthbertson Family</famname>
+        <persname encodinganalog="600" source="local">Austen, Lavinia</persname>
+        <persname encodinganalog="600" source="local">Moses W. Cuthbertson (1795-1865)</persname>
+        <persname encodinganalog="600" source="local">Hough, Joseph F.</persname>
+        <persname encodinganalog="600" source="local">David Baxter, d. 1862 Phifer</persname>
+        <persname encodinganalog="600" source="local">Richards, James</persname>
+        <persname encodinganalog="600" source="local">McCollum family</persname>
+        <famname encodinganalog="600" source="local">McCollum family</famname>
+      </controlaccess>
+      <controlaccess>
+        <corpname encodinganalog="610" source="local">J. Shute and Son (Monroe, N.C.).</corpname>
+        <corpname encodinganalog="610" source="local">J. Shute and Son (Monroe, N.C.)</corpname>
+        <corpname encodinganalog="610" source="local">North Carolina. Home Guard</corpname>
+        <corpname encodinganalog="610" source="local">Methodist Episcopal Church</corpname>
+      </controlaccess>
+      <controlaccess>
+        <title encodinganalog="630" source="local">North Carolina. Home Guard</title>
+      </controlaccess>
+      <controlaccess>
+        <subject encodinganalog="650" source="local">African Americans--History--19th century</subject>
+        <subject encodinganalog="650" source="local">Agriculture--North Carolina</subject>
+        <subject encodinganalog="650" source="local">Agriculture--North Carolina--Union County</subject>
+        <subject encodinganalog="650" source="local">Donati comet</subject>
+        <subject encodinganalog="650" source="local">Estates--North Carolina</subject>
+        <subject encodinganalog="650" source="local">Guardianship</subject>
+        <subject encodinganalog="650" source="local">Land grants</subject>
+        <subject encodinganalog="650" source="local">Methodist Church</subject>
+        <subject encodinganalog="650" source="local">Plantation life--North Carolina--Union County</subject>
+        <subject encodinganalog="650" source="local">Secession--Southern States</subject>
+        <subject encodinganalog="650" source="local">Slaves--North Carolina--Union County</subject>
+        <subject encodinganalog="650" source="local">Agriculture--North Carolina--History--19th century</subject>
+        <subject encodinganalog="650" source="local">Diaries</subject>
+        <subject encodinganalog="650" source="local">Donati comet</subject>
+        <subject encodinganalog="650" source="local">Plantation life--North Carolina--Union County</subject>
+        <subject encodinganalog="650" source="local">Secession--Southern States</subject>
+        <subject encodinganalog="650" source="local">Slaves--North Carolina--Union County</subject>
+      </controlaccess>
+      <controlaccess>
+        <geogname encodinganalog="651" source="local">Anson County (N.C.)</geogname>
+        <geogname encodinganalog="651" source="local">Baker County (Georgia)</geogname>
+        <geogname encodinganalog="651" source="local">Copiah County (Mississppi)</geogname>
+        <geogname encodinganalog="651" source="local">Monroe (N.C.)</geogname>
+        <geogname encodinganalog="651" source="local">Union County (N.C.)</geogname>
+        <geogname encodinganalog="651" source="local">Wilmington (N.C.)</geogname>
+        <geogname encodinganalog="651" source="local">Monroe (N.C.)</geogname>
+        <geogname encodinganalog="651" source="local">Union County (N.C.)</geogname>
+        <geogname encodinganalog="651" source="local">Wilmington (N.C.)</geogname>
+        <geogname encodinganalog="651" source="local">Georgia</geogname>
+        <geogname encodinganalog="651" source="local">Albany (Ga.)</geogname>
+      </controlaccess>
+      <controlaccess>
+        <genreform encodinganalog="655" source="local">Diaries</genreform>
+        <genreform encodinganalog="655" source="local">Indentures</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc>
+      <c01 id="series211" level="series">
+        <did>
+          <unittitle encodinganalog="title">Correspondence</unittitle>
+          <unitid type="level ID">211</unitid>
+          <unitdate encodinganalog="date" type="inclusive" normal="1820/1859">1820-1859</unitdate>
+          <container id="cid19102" label="PC. 1961.1" type="Box">PC. 1961.1</container>
+          <origination label="creator">
+            <corpname role="Originator">Unknown</corpname>
+          </origination>
+        </did>
+        <scopecontent id="ref68">
+          <head>Scope and Content</head>
+          <p>Correspondence begins in 1827 and continues until 1854. Many of the letters are from unknown relations in Mississippi regarding the settlement of property back in North Carolina. Cuthbertson corresponds with several circuit-riding Methodist ministers, who were once assigned to the Mecklenburg district, which includes Anson and Union counties. In one such letter written in 1845 the Reverend Zacheus Dowling references a historical conference of the Methodist Episcopal Church held in Louisville, Kentucky, resulting in the separation of slaveholding states to form the Methodist Episcopal Church, South. Dowling wrote that it is "unpleasant to divide the Church but as things now exist I am of the ... opinion it is for the best. Why not agree to disagree in these smaller matters. Still we may all be friendly if they will do the same thing." In another letter the corresponding clergyman, C. L. King, is assigned to a mission in St. Matthews, S.C., where he is teaching both slave children and adults.</p>
+          <p>Later correspondence is primarily from Margaret Cuthbertson's family (McCollum) who had moved into southwestern Georgia, including several of her brothers and their children. Most of the letters describe the journey southward, establishing new farms, and other neighbors from Union County who migrated to the region. In 1852 Moses Cutherbertson traveled to Georgia to visit family members. There are several letters to him from his wife and the Phifer children back in Union County. Later, in 1852 Thomas McCollum details the events of surviving what was a hurricane just before reaching their destination.</p>
+        </scopecontent>
+        <c02 id="file16994" level="file">
+          <did>
+            <unittitle encodinganalog="title">Correspondence,</unittitle>
+            <unitid type="level ID">16994</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1827/1828">1827-1828</unitdate>
+            <container id="cid19103" label="2" type="Folder">2</container>
+            <origination label="creator">
+              <corpname role="Originator">Unknown</corpname>
+            </origination>
+          </did>
+          <scopecontent id="ref13">
+            <head>Scope and Content</head>
+            <p>1827 April 28, To Moses Cuthbertson, Richardsons Knuk, Anson County, N.C. from W. Monteith</p>
+            <p>1828, June 6, To William Taylor, Anson County, N.C. from J. Taylor (son), Perry County, Mississippi</p>
+          </scopecontent>
+        </c02>
+        <c02 id="file16997" level="file">
+          <did>
+            <unittitle encodinganalog="title">Correspondence,</unittitle>
+            <unitid type="level ID">16997</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1840/1845">1840-1845</unitdate>
+            <container id="cid19106" label="5" type="Folder">5</container>
+            <origination label="creator">
+              <corpname role="Originator">Unknown</corpname>
+            </origination>
+          </did>
+          <scopecontent id="ref20">
+            <head>Scope and Content</head>
+            <p>1840 February 27, to Moses Cuthbertson Jenkins Store, Anson County from William Green, Copiah County, Mississippi</p>
+            <p>1840 November 9, to Moses Cuthbertson Jenkins Store, Anson County from William Green, Copiah County, Mississippi</p>
+            <p>1844 August 8, to Moses Cuthbertson, Union County, N.C. from William Smith, Cheraw, S.C.</p>
+            <p>1845 December 14, to Moses Cuthbertson, Union County, N.C. from McCauley, Monroe</p>
+          </scopecontent>
+        </c02>
+        <c02 id="file16999" level="file">
+          <did>
+            <unittitle encodinganalog="title">Correspondence,</unittitle>
+            <unitid type="level ID">16999</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1846/1849">1846-1849</unitdate>
+            <container id="cid19107" label="6" type="Folder">6</container>
+            <origination label="creator">
+              <corpname role="Originator">Unknown</corpname>
+            </origination>
+          </did>
+          <scopecontent id="ref22">
+            <head>Scope and Content</head>
+            <p>1846 March 20, to Uncle Moses and Aunt Margaret, Monroe, Union County from M.C. (Mary?) Webster</p>
+            <p>1846 July 10, to Moses Cuthbertson, Union County, N.C., Jenkins Store from G.B. Jenkins, Murray County, GA</p>
+            <p>1849 March 24, to Uncle and Aunt (Moses Cuthbertson), Monroe, Union County, N.C. from D.H. Cuthbertson, Castleton, Vermont</p>
+          </scopecontent>
+        </c02>
+        <c02 id="file16995" level="file">
+          <did>
+            <unittitle encodinganalog="title">Correspondence,</unittitle>
+            <unitid type="level ID">16995</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1830/1835">1830-1835</unitdate>
+            <container id="cid19104" label="3" type="Folder">3</container>
+            <origination label="creator">
+              <corpname role="Originator">Unknown</corpname>
+            </origination>
+          </did>
+          <scopecontent id="ref16">
+            <head>Scope and Content</head>
+            <p>1830 February 14, to Moses Cuthbertson, Anson County, N.C. from William Green, Perry County, Mississippi</p>
+            <p>1831 February 25, to Moses Cuthbertson, Anson County, N.C. from William Green, Perry County, Mississippi</p>
+            <p>1831 April 21, to Moses Cuthbertson, from Allen Hamby, Darlington [S.C.] Distirict</p>
+            <p>1831 April 25, to M. W. Cuthbertson, Taylor's Store, Anson County, N.C. from W. Hill, Raleigh </p>
+            <p>1832 October 10, to Moses W. Cuthbertson, Wadesboro, N.C. from J. White, Wadesboro, N.C.</p>
+            <p>1833 January 20, to Moses Cuthbertson, Richardsons Creek, Anson County, N.C. from William Green, Copiah County, Mississippi</p>
+            <p>1833 May 6, To Moses Cuthbertson, Jenkins's Store, Anson County, N.C. from W. Hill, Raleigh </p>
+            <p>1833 June 15, to Moses Cuthbertson, Richardson Creek, Anson County, N.C. from J. White, Meltonsville</p>
+            <p>1834 October 26, to Moses Cuthbertson, Jenkinss Store, Anson County, N.C. from Joshua Brooks, Lawrence County, Al </p>
+            <p>1835 May 2, to Moses Cuthbertson, Anson County, N.C. from William Carlisle, Lancaster (S.C.?)</p>
+            <p>1835 October 18, to Moses Cuthbertson, Anson County, N.C. from William Green, Copiah County, Mississippi</p>
+          </scopecontent>
+        </c02>
+        <c02 id="file16996" level="file">
+          <did>
+            <unittitle encodinganalog="title">Correspondence,</unittitle>
+            <unitid type="level ID">16996</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1836/1839">1836-1839</unitdate>
+            <container id="cid19105" label="4" type="Folder">4</container>
+            <origination label="creator">
+              <corpname role="Originator">Unknown</corpname>
+            </origination>
+          </did>
+          <scopecontent id="ref18">
+            <head>Scope and Content</head>
+            <p>1836 September 23, to Moses Cuthbertson from G?, Pleasant Hill, S.C.</p>
+            <p>1836 December 18, to Moses Cuthbertson, Jinkens's Store, Anson County, N.C. from William Green, Copiah County, Mississippi </p>
+            <p>1836 December 24, to Moses Cuthbertson, N.C. from Richard King, Mowisans(?) Tanyard</p>
+            <p>1837 June 27, to Moses Cuthbertson, Dillonsville, N.C. from Nathan Beverly, Anson County, N.C.</p>
+            <p>1837 July 1, Moses Cuthbertson, Lanes Creek, N.C. from W. Allen</p>
+            <p>1837 October 5, to Moses Cuthbertson, Jenkin's Store, Anson County, N.C. from William Green, Copiah County, Mississippi </p>
+            <p>1838 June 11, to Moses Cuthbertson, Anson County, N.C. from H.H. Mitchem, Lanesboro, N.C.</p>
+            <p>1838 March 16, to Moses Cuthbertson, Anson County, N.C. from William Green, Copiah County, Mississippi</p>
+            <p>1838 September 10, to Moses Cuthbertson, Jenkins Store, Anson County from William Green, Copiah County, Mississippi</p>
+            <p>1839 January 16, to Moses Cuthbertson, Jenkins Store, Anson County, N.C. from Ann Green, Copiah County, Mississippi</p>
+            <p>1839 April 11, to Moses Cuthbertson from Ann Green, Copiah County, Mississippi</p>
+          </scopecontent>
+        </c02>
+        <c02 id="file16998" level="file">
+          <did>
+            <unittitle encodinganalog="title">Correspondence, Methodist Clergy,</unittitle>
+            <unitid type="level ID">16998</unitid>
+            <unitdate encodinganalog="date" type="inclusive">1844, Nov 9, to 1847, Mar 8</unitdate>
+            <origination label="creator">
+              <corpname role="Originator">Unknown</corpname>
+            </origination>
+          </did>
+          <scopecontent id="ref77">
+            <head>Scope and Content</head>
+            <p>1844 November 9, to Moses Cuthbertson, Richardson Creek, Union County, N.C. from W.A.M. Swain, Rutherfordton, N.C.</p>
+            <p>1845 February 24, to Moses Cuthbertson, Richardson Creek, Union County, N.C. from W.A.M. Swain, Rutherfordton, N.C.</p>
+            <p>1845 May 2, to Moses Cuthbertson, Monroe, Union County, from W.J. Laughlen(?), Agent of the A and M(?) Bible Society, Raleigh</p>
+            <p>1845 May 5, to Moses Cuthbertson, Richardson Creek, Union County, N.C. from Zacheous Dowling, Honeytown Dale, Ala.</p>
+            <p>1845 November 7, to Moses Cuthbertson, Richardson Creek, Union County, N.C. from Zacheous Dowling, Honeytown Dale, Ala.</p>
+            <p>1847 March 8, to M.W. Cuthbertson, Richardson's Creek, Union County from Zacheus Dowling, Cedar Bluff, Cherokee County, Ala. </p>
+            <p>184[?] June 30, to M.W. Cuthbertson, Richardson's Creek, Union County from C. L. King, St. Matthews, S.C. </p>
+          </scopecontent>
+        </c02>
+        <c02 id="file17000" level="file">
+          <did>
+            <unittitle encodinganalog="title">Correspondence,</unittitle>
+            <unitid type="level ID">17000</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1852/1854">1852-1854</unitdate>
+            <container id="cid19108" label="7" type="Folder">7</container>
+            <origination label="creator">
+              <corpname role="Originator">Unknown</corpname>
+            </origination>
+          </did>
+          <scopecontent id="ref24">
+            <head>Scope and Content</head>
+            <p>1852 January 3, to Moses Cuthbertson, Richardson's Creek, N.C. from [nephew]Thomas McCollum, Baker County, GA </p>
+            <p>1852 March 29, to Moses Cuthbertson, Richardson's Creek, N.C. from [nephew]Thomas McCollum, Baker County, GA </p>
+            <p>1852 May 23, to Margaret Cuthbertson [Monroe, N.C.] from Moses Cuthbertson, Americus GA</p>
+            <p>1852 May 24, to Moses Cuthbertson [in GA] from Margaret Cuthbertson, D.B.Phifer, Mary Phifer, and Caroline [Nieces and Nephew]</p>
+            <p>1852 May 31, to M.W. Cuthbertson (Uncle) [In Georgia] from D.B. Phifer</p>
+            <p>1852 September 23, to Moses Cuthbertson Richardson's Creek, Union County, N.C. from William M?, Chesterfield CH, SC </p>
+            <p>1852, December 8, to Moses and Margaret Cuthbertson, Richardson's Creek, Union County, N.C. from D.W. McCollum, Baker County, GA </p>
+            <p>1852, December 24, to Moses and Margaret Cuthbertson, Richardson's Creek, Union County, N.C. from D.W. McCollum, Baker County, GA </p>
+            <p>1853 January 13, to Moses Cuthbertson Richardson's Creek, Union County, N.C. from William M?, Chesterfield CH, S.C. </p>
+            <p>1853 January 24, to Moses Cuthbertson, Richardson's Creek, N.C. from [nephew]Thomas McCollum, Baker County, GA </p>
+            <p>1854 May 24, to Moses and Margaret Cuthbertson, Monroe, N.C. from Violet Montieth?,</p>
+          </scopecontent>
+        </c02>
+        <c02 id="file17001" level="file">
+          <did>
+            <unittitle encodinganalog="title">Correspondence,</unittitle>
+            <unitid type="level ID">17001</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1842/1843">1842-1843</unitdate>
+            <container id="cid19109" label="8" type="Folder">8</container>
+            <origination label="creator">
+              <corpname role="Originator">Unknown</corpname>
+            </origination>
+          </did>
+          <scopecontent id="ref26">
+            <head>Scope and Content</head>
+            <p>These letters were tied in a bundle.</p>
+            <p>1842 December 18, To M.W. Cuthbertson, Richardson's PO, Anson County, N.C. from David and Elizabeth Watson and Caleb Etheridge, Dallas County, AL </p>
+            <p>1843 February 27, to Moses Cuthbertson, Richardson's Creek, Anson County, N.C. from Caleb Etheridge, Cahaba, AL </p>
+            <p>1843 July 11, to Moses Cuthbertson, Richardson's Creek, Anson County, N.C. from C.L. Kinkasy(?) Attorney for Watson, Linden, AL </p>
+            <p>1843 November 14, to Moses Cuthbertson, Richardson's Creek, Anson County, N.C. from Caleb Etheridge, Cahaba, AL </p>
+          </scopecontent>
+        </c02>
+      </c01>
+      <c01 id="series928" level="series">
+        <did>
+          <unittitle encodinganalog="title">Cuthbertson Farm Journal</unittitle>
+          <unitid type="level ID">928</unitid>
+          <unitid identifier="PC.1961" type="Call Number" label="Call Number">PC.1961</unitid>
+          <unitdate encodinganalog="date" type="inclusive" normal="1858/1889">1858 - 1865; 1885 - 1889</unitdate>
+          <container id="cid19100" label="PC.1961.1" type="Box">PC.1961.1</container>
+          <container id="cid19101" label="1" type="Folder">1</container>
+          <langmaterial>
+            <language encodinganalog="language" langcode="eng">English</language>
+          </langmaterial>
+          <physdesc label="Extent">
+            <extent encodinganalog="300" unit="volume">1</extent>
+            <physfacet type="material">detached marbled boards</physfacet>
+            <physfacet type="unit">measuring 12" x 3 1/2", having 53 leaves containing a farm journal, 1858-1865, and another 30 leaves containing store accounts, 1885-1889</physfacet>
+          </physdesc>
+          <physdesc>
+            <extent label="Estimated Extent" encodinganalog="format" unit="volumes">1.00</extent>
+          </physdesc>
+          <abstract encodinganalog="545" label="Abstract">Moses W. Cuthbertson (1795-1865) was born, bred, and died in southern Union County. He and his wife, Margaret McCollum (1798-1880) were childless and together they operated 2,400-acre plantation. Also in their household was a young kinsman, David Baxter Phifer, to whom Cuthbertson acted as guardian and who was a student at Trinity College.<lb/>The farm journal begins on January 15, 1858, and continues to February 15, 1865 (a month prior to Cuthbertson's death). Entries report on the annual agricultural cycle, production of various goods, births and marriages, and the movements of local soldiers during the war years. Sometime after the death of Mrs. Cuthbertson in 1880, the farm journal fell into other hands. The blank leaves at the end of the journal were used as a waste book by a Monroe firm (possibly J. Shute and Son) to make temporary records of transactions, dating from the years from 1885 to 1889.</abstract>
+          <physloc label="Location">For current information on the location ofthese materials, please consult the Public Services Branch, State Archives of North Carolina.</physloc>
+          <origination label="creator">
+            <persname role="Originator">Cuthbertson, Moses W.</persname>
+          </origination>
+        </did>
+        <accessrestrict encodinganalog="506">
+          <head>Access Restrictions</head>
+          <p>Available for research.</p>
+        </accessrestrict>
+        <userestrict encodinganalog="540">
+          <head>Copyright Notice</head>
+          <p>Copyright is retained by the authors of these materials, or their descendants, as stipulated by United States copyright law (Title 17 US Code). Individual researchers are responsible for using these materials in conformance with copyright law as well as any donor restrictions accompanying the materials.</p>
+        </userestrict>
+        <processinfo>
+          <head>Processing Information</head>
+          <p>Processed by George Stevenson, March, 2007</p>
+          <p>Encoded by Lee Todd, March, 2008</p>
+        </processinfo>
+        <bioghist>
+          <head>Biographical Note</head>
+          <bioghist>
+            <p>Moses W. Cuthbertson (1795-1865) was born, bred, and died in southern Union County. He and his wife, Margaret McCollum (1798-1880) were childless. In their household, however, was a young kinsman to whom Cuthbertson acted as guardian and who was a student at Trinity College - David Baxter Phifer (died September 16, 1860). Reference to young Phifer appears in several entries in the journal. Of Cuthbertson's 2,400-acre plantation, half was under cultivation. He operated the plantation with the assistance of 11 male slaves ranging in age from 12 to 58, and 7 female slaves ranging in age from 12 to 48. (Three additional slaves in 1860 were small children.)</p>
+          </bioghist>
+        </bioghist>
+        <bioghist>
+          <head>bioghist</head>
+          <p>Moses W. Cuthbertson (1795-1865) was born, bred, and died in southern Union County. He and his wife, Margaret McCollum (1798-1880) were childless. In their household, however, was a young kinsman to whom Cuthbertson acted as guardian and who was a student at Trinity College - David Baxter Phifer (died September 16, 1860). Reference to young Phifer appears in several entries in the journal. Of Cuthbertson's 2,400-acre plantation, half was under cultivation. He operated the plantation with the assistance of 11 male slaves ranging in age from 12 to 58, and 7 female slaves ranging in age from 12 to 48. (Three additional slaves in 1860 were small children.)</p>
+        </bioghist>
+        <prefercite>
+          <head>Preferred Citation</head>
+          <p>[Identification of item], PC.1961, Cuthbertson Farm Journal, State Archives of North Carolina, Raleigh, NC, USA.</p>
+        </prefercite>
+        <acqinfo encodinganalog="541">
+          <head>Acquisitions Information</head>
+          <p>Gift, Ken Neese, Monroe, N.C., 2007</p>
+        </acqinfo>
+        <relatedmaterial encodinganalog="544">
+          <head>Related Collections</head>
+          <p>Additional information on topics found in this collection may be found in the Manuscript and Archives Reference System (MARS) <extref xlink:href="http://www.ncarchives.dcr.state.nc.us/" xlink:type="simple">http://www.ncarchives.dcr.state.nc.us</extref>.</p>
+        </relatedmaterial>
+        <scopecontent>
+          <head>Collection Overview</head>
+          <scopecontent>
+            <p>The farm journal begins on January 15, 1858, and continues to February 15, 1865 (a month prior to Cuthbertson's death). Some entries report the annual agricultural cycle of manuring, harrowing, plowing, planting and sowing, cultivating, and harvesting the principal crops raised on the plantation: earn, oats, wheat, peas, and cotton. Other entries record sheep shearings, hog killings, the tanning of leather, and the making of wine, molasses, and syrup. Several notations of local marriages and deaths are recorded in the journal, and during the war years, the movement of local soldiers between home and the army are noted.</p>
+            <p>Cuthbertson had been one of the commissioners appointed to lay off Union County when it was erected in 1842. He served as chairman of the Union County Superintendents of Common Schools from 1851 to 1864, and was particularly active in affairs of the Methodist Church in his neighborhood. Consequently his journal sometimes records his activities as a surveyor. A great many more entries relate to his work with the Common Schools. But the greatest number of entries of this sort have to do with attendance at church, at camp meetings, and conferences, and with appointments of Methodist pastors. He records the progress of a Sunday school that commenced at Liberty Chapel Methodist Church on May 2, 1858, and a Bible class that was begun there subsequently.</p>
+            <p>A few entries in the journal record noteworthy events. An entry of October 1858 describes the appearance of Donati's comet as observed in southern Union County during the period from September 20 to October 20, 1858. In the following year on September 1, 1859, he describes the effect of the solar superflare of that date that produced a remarkable display of the Aurora Borealis. He describes it as a reddish colored light moving from east to west, of so great a brightness that one could read common print by it at midnight. Local outrages are sometimes recorded: the shooting death of Joseph F. Hough by Jim Richards and the public outcry when Richards was admitted to bail (June 24 and July 4, 1861); the murder of Mrs. John E. Austen by her slaves on August 25, 1864 (and the hanging of the slaves on Nov. 25, 1864); the murder of William Blakney by four of his slaves on September 14, 1864 (of whom three were hanged and one burnt to death).</p>
+            <p>The secession crisis and the opening days of the war are remarked on frequently in 1861, but subsequent war news seldom makes it into the journal. Cuthbertson was anti-secessionist, but once secession was a fact and the war was begun, he did his duty. He cooperated with the raising of a volunteer company, made a subscription of clothing and provisions for soldiers, and, as the local justice of the peace, oversaw the distribution of salt and meat to the families of volunteer soldiers and the getting of winter fuel for them. On the other hand, he resented the impressment of his slaves to work on the fortifications at Wilmington, and he records unflattering remarks about the probable effectiveness of the detachment of the Mecklenburg County Home Guard that was sent into Union County to round up deserters (see entry of September 1, 1864). Earlier he had recorded activities of the local Home Guard in which they had skirmished with a handful of deserters (killing one and capturing two) without making reflections similar to his remarks on the men from Mecklenburg County (see entries of Jan. 29 and March 26, 1864).</p>
+            <p>Occasionally Cuthbertson makes entries in the journal in which the names of his slaves are recorded. Some entries in the spring of 1861 refer to the final illness of Mary Ann, and the entry for April 4 of that year reports her death in the presence of her father and her husband-Daniel (Hagler). Entries of June 12 and 16 report the death of the boy named Green and his interment at Liberty Chapel Methodist Church, <emph render="doublequote">Alex the Shepherd</emph> is mentioned in a summary entry concerning the lambing made at the end of February 1862. The sickness of Hugh, for whom Bob was sent for a doctor, is recorded on March 8, 1862; the illness of Maria is recorded on June 21, 1863; Hampton's sickness on February 9, 29, and March 10, 1864, and Sam's pleurisy on March 2 and 10, 1864. The death of Amanda (who was buried at Liberty Chapel) is recorded on November 7, 1864, and the death of her baby, Tommy, aged 2 months, on November 16.</p>
+            <p>Apart from the natural resentment of having a slave commandeered by Confederate authorities and sent off to work on the fortifications at Wilmington, Cuthbertson's views on this subject might well have been influenced by the fate of Calvin who was sent to Wilmington on September 26, 1863, and died there on December 27. Another slave, Hampton, returned home from Wilmington on January 29, 1864. Cuthbertson was unable to prevent the impressment of his man Jacob for the work at Wilmington on November 1, 1864, though he tried to do so. Later that month, on the 28th, Cuthbertson received a letter from Jacob complaining of the lack of food for the impressed workers. Cuthbertson responded by sending to him ten pounds of bacon, three pecks of meal, forty biscuits; eight tarts, and similar provisions. After three months and seven days at <emph render="doublequote">that vile place,</emph> as Cuthbertson labels it, Jacob was sent home from Wilmington to Union County on foot, arriving home on February 2, 1865.</p>
+            <p>Cuthbertson, who appears to have suffered from congestive heart failure, made no entries in the farm journal after February 15, 1865. He died on March 12, 1865.</p>
+            <p>Sometime after the death of Mrs. Cuthbertson in 1880, the farm journal fell into other hands. The blank leaves at the end of the journal were used as a waste book by a Monroe firm to make temporary records of transactions, dating from the years from 1885 to 1889, with several African-American heads of family. Internal evidence suggests that it was the Monroe firm of J. Shute and Son for whose benefit the entries were made. This firm commenced business in the merchandising line in 1866, but eventually branched into ginning and milling. In 1885 the firm started up a brick-making enterprise as a small mud mill. It seems probable that these 1885-1889 accounts were those of employees of the firm, possibly workers at the brick manufactory. Some of the workers appear to have been Cuthbertson freedmen, including <emph render="doublequote">Alex the Shepherd</emph>: Dennis Haley, Burgwin Stegall, and Alex, Henry M., Edwin, and Samuel W. Cuthbertson. Entries record the purchase of clothing, shoes, salt, meat, flour, molasses, tobacco, corn, oats, and fodder by the workers.</p>
+          </scopecontent>
+        </scopecontent>
+        <scopecontent>
+          <head>Collection Overview</head>
+          <p>The farm journal begins on January 15, 1858, and continues to February 15, 1865 (a month prior to Cuthbertson's death). Some entries report the annual agricultural cycle of manuring, harrowing, plowing, planting and sowing, cultivating, and harvesting the principal crops raised on the plantation: earn, oats, wheat, peas, and cotton. Other entries record sheep shearings, hog killings, the tanning of leather, and the making of wine, molasses, and syrup. Several notations of local marriages and deaths are recorded in the journal, and during the war years, the movement of local soldiers between home and the army are noted.</p>
+          <p>Cuthbertson had been one of the commissioners appointed to lay off Union County when it was erected in 1842. He served as chairman of the Union County Superintendents of Common Schools from 1851 to 1864, and was particularly active in affairs of the Methodist Church in his neighborhood. Consequently his journal sometimes records his activities as a surveyor. A great many more entries relate to his work with the Common Schools. But the greatest number of entries of this sort have to do with attendance at church, at camp meetings, and conferences, and with appointments of Methodist pastors. He records the progress of a Sunday school that commenced at Liberty Chapel Methodist Church on May 2, 1858, and a Bible class that was begun there subsequently.</p>
+          <p>A few entries in the journal record noteworthy events. An entry of October 1858 describes the appearance of Donati's comet as observed in southern Union County during the period from September 20 to October 20, 1858. In the following year on September 1, 1859, he describes the effect of the solar superflare of that date that produced a remarkable display of the Aurora Borealis. He describes it as a reddish colored light moving from east to west, of so great a brightness that one could read common print by it at midnight. Local outrages are sometimes recorded: the shooting death of Joseph F. Hough by Jim Richards and the public outcry when Richards was admitted to bail (June 24 and July 4, 1861); the murder of Mrs. John E. Austen by her slaves on August 25, 1864 (and the hanging of the slaves on Nov. 25, 1864); the murder of William Blakney by four of his slaves on September 14, 1864 (of whom three were hanged and one burnt to death).</p>
+          <p>The secession crisis and the opening days of the war are remarked on frequently in 1861, but subsequent war news seldom makes it into the journal. Cuthbertson was anti-secessionist, but once secession was a fact and the war was begun, he did his duty. He cooperated with the raising of a volunteer company, made a subscription of clothing and provisions for soldiers, and, as the local justice of the peace, oversaw the distribution of salt and meat to the families of volunteer soldiers and the getting of winter fuel for them. On the other hand, he resented the impressment of his slaves to work on the fortifications at Wilmington, and he records unflattering remarks about the probable effectiveness of the detachment of the Mecklenburg County Home Guard that was sent into Union County to round up deserters (see entry of September 1, 1864). Earlier he had recorded activities of the local Home Guard in which they had skirmished with a handful of deserters (killing one and capturing two) without making reflections similar to his remarks on the men from Mecklenburg County (see entries of Jan. 29 and March 26, 1864).</p>
+          <p>Occasionally Cuthbertson makes entries in the journal in which the names of his slaves are recorded. Some entries in the spring of 1861 refer to the final illness of Mary Ann, and the entry for April 4 of that year reports her death in the presence of her father and her husband-Daniel (Hagler). Entries of June 12 and 16 report the death of the boy named Green and his interment at Liberty Chapel Methodist Church, <emph render="doublequote">Alex the Shepherd</emph> is mentioned in a summary entry concerning the lambing made at the end of February 1862. The sickness of Hugh, for whom Bob was sent for a doctor, is recorded on March 8, 1862; the illness of Maria is recorded on June 21, 1863; Hampton's sickness on February 9, 29, and March 10, 1864, and Sam's pleurisy on March 2 and 10, 1864. The death of Amanda (who was buried at Liberty Chapel) is recorded on November 7, 1864, and the death of her baby, Tommy, aged 2 months, on November 16.</p>
+          <p>Apart from the natural resentment of having a slave commandeered by Confederate authorities and sent off to work on the fortifications at Wilmington, Cuthbertson's views on this subject might well have been influenced by the fate of Calvin who was sent to Wilmington on September 26, 1863, and died there on December 27. Another slave, Hampton, returned home from Wilmington on January 29, 1864. Cuthbertson was unable to prevent the impressment of his man Jacob for the work at Wilmington on November 1, 1864, though he tried to do so. Later that month, on the 28th, Cuthbertson received a letter from Jacob complaining of the lack of food for the impressed workers. Cuthbertson responded by sending to him ten pounds of bacon, three pecks of meal, forty biscuits; eight tarts, and similar provisions. After three months and seven days at <emph render="doublequote">that vile place,</emph> as Cuthbertson labels it, Jacob was sent home from Wilmington to Union County on foot, arriving home on February 2, 1865.</p>
+          <p>Cuthbertson, who appears to have suffered from congestive heart failure, made no entries in the farm journal after February 15, 1865. He died on March 12, 1865.</p>
+          <p>Sometime after the death of Mrs. Cuthbertson in 1880, the farm journal fell into other hands. The blank leaves at the end of the journal were used as a waste book by a Monroe firm to make temporary records of transactions, dating from the years from 1885 to 1889, with several African-American heads of family. Internal evidence suggests that it was the Monroe firm of J. Shute and Son for whose benefit the entries were made. This firm commenced business in the merchandising line in 1866, but eventually branched into ginning and milling. In 1885 the firm started up a brick-making enterprise as a small mud mill. It seems probable that these 1885-1889 accounts were those of employees of the firm, possibly workers at the brick manufactory. Some of the workers appear to have been Cuthbertson freedmen, including <emph render="doublequote">Alex the Shepherd</emph>: Dennis Haley, Burgwin Stegall, and Alex, Henry M., Edwin, and Samuel W. Cuthbertson. Entries record the purchase of clothing, shoes, salt, meat, flour, molasses, tobacco, corn, oats, and fodder by the workers.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="series212" level="series">
+        <did>
+          <unittitle encodinganalog="title">Land, Court Records, and Receipts</unittitle>
+          <unitid type="level ID">212</unitid>
+          <unitdate encodinganalog="date" type="inclusive" normal="1818/1879">1818-1879</unitdate>
+          <container id="cid19110" label="PC. 1961.2" type="Box">PC. 1961.2</container>
+          <origination label="creator">
+            <corpname role="Originator">Unknown</corpname>
+          </origination>
+        </did>
+        <scopecontent id="ref69">
+          <head>Scope and Content</head>
+          <p>Includes deeds and indentures, all from the early to mid-1800, a land grant, court and estate records, slave bill of sale, agreements, articles of agreement, receipts, and miscellaneous. The earliest document in the collection is an 1811 land grant for two hundred acres in Anson County to Susannah Roberts. Court records consist of power of attorney, warrants, and judgments. Additionally, there are a sundry of other records such as guardianship and settlement records, as well as a large number of receipts. Of particular interest is a slave bill of sale for a young woman named Frenchy sold to Moses Cuthbertson. Another noteworthy item is a document appointing a vigilance committee by the Richardson Creek Guards with the purpose of arresting any man (white or black) who may be prowling about the county with business unknown or seen holding a conversation with a slave or free person of color. Finally there are agreements belonging to Margaret Cutherbertson after the death of her husband. Several agreements are between her and a former slave named, Sam Cuthbertson.</p>
+        </scopecontent>
+        <c02 id="file17002" level="file">
+          <did>
+            <unittitle encodinganalog="title">Land Grant, Anson County-Susannah Roberts,</unittitle>
+            <unitid type="level ID">17002</unitid>
+            <unitdate encodinganalog="date" type="inclusive">1811</unitdate>
+            <container id="cid19111" label="1" type="Folder">1</container>
+            <origination label="creator">
+              <corpname role="Originator">Unknown</corpname>
+            </origination>
+          </did>
+          <scopecontent id="ref65">
+            <head>Scope and Content</head>
+            <p>200 acres in Anson County joining the Heirs of Hugh Roberts Dec'd on Chinquepin Creek</p>
+            <p>Attached to the land grant is a land survey for the property signed by the surveyor, J. Hammnerie(?).</p>
+          </scopecontent>
+        </c02>
+        <c02 id="file17004" level="file">
+          <did>
+            <unittitle encodinganalog="title">Deeds and Indentures,</unittitle>
+            <unitid type="level ID">17004</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1818/1828">1818-1828</unitdate>
+            <container id="cid19113" label="3" type="Folder">3</container>
+            <origination label="creator">
+              <corpname role="Originator">Unknown</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file17005" level="file">
+          <did>
+            <unittitle encodinganalog="title">Deeds and Indentures,</unittitle>
+            <unitid type="level ID">17005</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1831/1837">1831-1837</unitdate>
+            <container id="cid19114" label="4" type="Folder">4</container>
+            <origination label="creator">
+              <corpname role="Originator">Unknown</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file17006" level="file">
+          <did>
+            <unittitle encodinganalog="title">Deeds and Indentures,</unittitle>
+            <unitid type="level ID">17006</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1841/1844">1841-1844</unitdate>
+            <container id="cid19115" label="5" type="Folder">5</container>
+            <origination label="creator">
+              <corpname role="Originator">Unknown</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file17007" level="file">
+          <did>
+            <unittitle encodinganalog="title">Power of Attorney,</unittitle>
+            <unitid type="level ID">17007</unitid>
+            <unitdate encodinganalog="date" type="inclusive">1834</unitdate>
+            <container id="cid19116" label="6" type="Folder">6</container>
+            <origination label="creator">
+              <corpname role="Originator">Unknown</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file17008" level="file">
+          <did>
+            <unittitle encodinganalog="title">Power of Attorney,</unittitle>
+            <unitid type="level ID">17008</unitid>
+            <unitdate encodinganalog="date" type="inclusive">1839</unitdate>
+            <container id="cid19117" label="7" type="Folder">7</container>
+            <origination label="creator">
+              <corpname role="Originator">Unknown</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file17009" level="file">
+          <did>
+            <unittitle encodinganalog="title">Estate Settlements,</unittitle>
+            <unitid type="level ID">17009</unitid>
+            <unitdate encodinganalog="date" type="inclusive">1833- ca.1848</unitdate>
+            <container id="cid19118" label="8" type="Folder">8</container>
+            <origination label="creator">
+              <corpname role="Originator">Unknown</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file17010" level="file">
+          <did>
+            <unittitle encodinganalog="title">Bonds and Agreements,</unittitle>
+            <unitid type="level ID">17010</unitid>
+            <unitdate encodinganalog="date" type="inclusive">1834, 1836, 1847</unitdate>
+            <container id="cid19119" label="9" type="Folder">9</container>
+            <origination label="creator">
+              <corpname role="Originator">Unknown</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file17011" level="file">
+          <did>
+            <unittitle encodinganalog="title">Notes and Judgments,</unittitle>
+            <unitid type="level ID">17011</unitid>
+            <unitdate encodinganalog="date" type="inclusive">1842-1843, ca. 1860</unitdate>
+            <container id="cid19120" label="10" type="Folder">10</container>
+            <origination label="creator">
+              <corpname role="Originator">Unknown</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file17012" level="file">
+          <did>
+            <unittitle encodinganalog="title">Summons and Warrants,</unittitle>
+            <unitid type="level ID">17012</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1840/1845">1840-1845</unitdate>
+            <container id="cid19121" label="11" type="Folder">11</container>
+            <origination label="creator">
+              <corpname role="Originator">Unknown</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file17013" level="file">
+          <did>
+            <unittitle encodinganalog="title">Taylor/Green Settlement,</unittitle>
+            <unitid type="level ID">17013</unitid>
+            <unitdate encodinganalog="date" type="inclusive">ca. 1840</unitdate>
+            <container id="cid19122" label="12" type="Folder">12</container>
+            <origination label="creator">
+              <corpname role="Originator">Unknown</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file17014" level="file">
+          <did>
+            <unittitle encodinganalog="title">Judgment- Cuthbertson vs. James Pinion,</unittitle>
+            <unitid type="level ID">17014</unitid>
+            <unitdate encodinganalog="date" type="inclusive">1840</unitdate>
+            <container id="cid19123" label="13" type="Folder">13</container>
+            <origination label="creator">
+              <corpname role="Originator">Unknown</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file17015" level="file">
+          <did>
+            <unittitle encodinganalog="title">Note-Sale-Guardian Simpson Settlement,</unittitle>
+            <unitid type="level ID">17015</unitid>
+            <unitdate encodinganalog="date" type="inclusive">ca. 1848-1850</unitdate>
+            <container id="cid19124" label="14" type="Folder">14</container>
+            <origination label="creator">
+              <corpname role="Originator">Unknown</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file17017" level="file">
+          <did>
+            <unittitle encodinganalog="title">Receipt-Moses Cuthbertson to George Davis, $60 for Cotton Gin,</unittitle>
+            <unitid type="level ID">17017</unitid>
+            <unitdate encodinganalog="date" type="inclusive">1842</unitdate>
+            <container id="cid19126" label="16" type="Folder">16</container>
+            <origination label="creator">
+              <corpname role="Originator">Unknown</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file17018" level="file">
+          <did>
+            <unittitle encodinganalog="title">Marriage Certificate- Ransom Bauchem and Martha Helmes,</unittitle>
+            <unitid type="level ID">17018</unitid>
+            <unitdate encodinganalog="date" type="inclusive">1847</unitdate>
+            <container id="cid19127" label="17" type="Folder">17</container>
+            <origination label="creator">
+              <corpname role="Originator">Unknown</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file17019" level="file">
+          <did>
+            <unittitle encodinganalog="title">School Tax Levy, Union County,</unittitle>
+            <unitid type="level ID">17019</unitid>
+            <unitdate encodinganalog="date" type="inclusive">1861</unitdate>
+            <container id="cid19128" label="18" type="Folder">18</container>
+            <origination label="creator">
+              <corpname role="Originator">Unknown</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file17020" level="file">
+          <did>
+            <unittitle encodinganalog="title">Margaret Cuthbertson Agreements,</unittitle>
+            <unitid type="level ID">17020</unitid>
+            <unitdate encodinganalog="date" type="inclusive">1869, 1879</unitdate>
+            <container id="cid19129" label="19" type="Folder">19</container>
+            <origination label="creator">
+              <corpname role="Originator">Unknown</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file17021" level="file">
+          <did>
+            <unittitle encodinganalog="title">Articles of Agreement between Margaret Cuthbertson and Cuthbertson,</unittitle>
+            <unitid type="level ID">17021</unitid>
+            <unitdate encodinganalog="date" type="inclusive">1879</unitdate>
+            <container id="cid19130" label="20" type="Folder">20</container>
+            <origination label="creator">
+              <corpname role="Originator">Unknown</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file17022" level="file">
+          <did>
+            <unittitle encodinganalog="title">Guardianship Receipts,</unittitle>
+            <unitid type="level ID">17022</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1848/1855">1848-1855</unitdate>
+            <container id="cid19131" label="21" type="Folder">21</container>
+            <origination label="creator">
+              <corpname role="Originator">Unknown</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file17023" level="file">
+          <did>
+            <unittitle encodinganalog="title">Receipts,</unittitle>
+            <unitid type="level ID">17023</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1820/1859">1820-1859</unitdate>
+            <container id="cid19132" label="22" type="Folder">22</container>
+            <origination label="creator">
+              <corpname role="Originator">Unknown</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file17024" level="file">
+          <did>
+            <unittitle encodinganalog="title">Receipts,</unittitle>
+            <unitid type="level ID">17024</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1860/1880">1860-1880</unitdate>
+            <container id="cid19133" label="23" type="Folder">23</container>
+            <origination label="creator">
+              <corpname role="Originator">Unknown</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file17025" level="file">
+          <did>
+            <unittitle encodinganalog="title">Tax Receipts (tied in a bundle),</unittitle>
+            <unitid type="level ID">17025</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1817/1852">1817-1852</unitdate>
+            <container id="cid19134" label="24" type="Folder">24</container>
+            <origination label="creator">
+              <corpname role="Originator">Unknown</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file17026" level="file">
+          <did>
+            <unittitle encodinganalog="title">Receipts (tied in a bundle),</unittitle>
+            <unitid type="level ID">17026</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1840/1852">1840-1852</unitdate>
+            <container id="cid19135" label="25" type="Folder">25</container>
+            <origination label="creator">
+              <corpname role="Originator">Unknown</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file17027" level="file">
+          <did>
+            <unittitle encodinganalog="title">Receipts (tied in a bundle),</unittitle>
+            <unitid type="level ID">17027</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1837/1854">1837-1854</unitdate>
+            <container id="cid19136" label="26" type="Folder">26</container>
+            <origination label="creator">
+              <corpname role="Originator">Unknown</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file17028" level="file">
+          <did>
+            <unittitle encodinganalog="title">Receipts (tied in a bundle),</unittitle>
+            <unitid type="level ID">17028</unitid>
+            <unitdate encodinganalog="date" type="inclusive">1848</unitdate>
+            <container id="cid19137" label="27" type="Folder">27</container>
+            <origination label="creator">
+              <corpname role="Originator">Unknown</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file17029" level="file">
+          <did>
+            <unittitle encodinganalog="title">Receipts (tied in a bundle),</unittitle>
+            <unitid type="level ID">17029</unitid>
+            <unitdate encodinganalog="date" type="inclusive">1851</unitdate>
+            <container id="cid19138" label="28" type="Folder">28</container>
+            <origination label="creator">
+              <corpname role="Originator">Unknown</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file17030" level="file">
+          <did>
+            <unittitle encodinganalog="title">Receipts (tied in a bundle),</unittitle>
+            <unitid type="level ID">17030</unitid>
+            <unitdate encodinganalog="date" type="inclusive">1851, 1854</unitdate>
+            <container id="cid19139" label="29" type="Folder">29</container>
+            <origination label="creator">
+              <corpname role="Originator">Unknown</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file17031" level="file">
+          <did>
+            <unittitle encodinganalog="title">Receipts (tied in a bundle),</unittitle>
+            <unitid type="level ID">17031</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1851/1856">1851-1856</unitdate>
+            <container id="cid19140" label="30" type="Folder">30</container>
+            <origination label="creator">
+              <corpname role="Originator">Unknown</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file17032" level="file">
+          <did>
+            <unittitle encodinganalog="title">Union County Superintendent of Common Schools Receipts (tied in a bundle),</unittitle>
+            <unitid type="level ID">17032</unitid>
+            <unitdate encodinganalog="date" type="inclusive">1860</unitdate>
+            <container id="cid19141" label="31" type="Folder">31</container>
+            <origination label="creator">
+              <corpname role="Originator">Unknown</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file17033" level="file">
+          <did>
+            <unittitle encodinganalog="title">Sikes Estate Receipts (tied in a bundle),</unittitle>
+            <unitid type="level ID">17033</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1861/1864">1861-1864</unitdate>
+            <container id="cid19142" label="32" type="Folder">32</container>
+            <origination label="creator">
+              <corpname role="Originator">Unknown</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file17034" level="file">
+          <did>
+            <unittitle encodinganalog="title">Daniel McCollum Estate Receipts (tied in a bundle),</unittitle>
+            <unitid type="level ID">17034</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1841/1845">1841-1845</unitdate>
+            <container id="cid19143" label="33" type="Folder">33</container>
+            <origination label="creator">
+              <corpname role="Originator">Unknown</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file17016" level="file">
+          <did>
+            <unittitle encodinganalog="title">Slave Bill of Sale -- Frenchy sold to Moses Cuthbertson from D. Cuthbertson,</unittitle>
+            <unitid type="level ID">17016</unitid>
+            <unitdate encodinganalog="date" type="inclusive">1826</unitdate>
+            <container id="cid19125" label="15" type="Folder">15</container>
+            <origination label="creator">
+              <corpname role="Originator">Unknown</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file17003" level="file">
+          <did>
+            <unittitle encodinganalog="title">Vigilante/Volunteer Co. of Richardson's Creek, Anson /Union County,</unittitle>
+            <unitid type="level ID">17003</unitid>
+            <unitdate encodinganalog="date" type="inclusive">pre 1865</unitdate>
+            <container id="cid19112" label="2" type="Folder">2</container>
+            <origination label="creator">
+              <corpname role="Originator">Unknown</corpname>
+            </origination>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="series213" level="series">
+        <did>
+          <unittitle encodinganalog="title">Cuthbertson and McCollum Family Record,</unittitle>
+          <unitid type="level ID">213</unitid>
+          <unitdate encodinganalog="date" type="inclusive">Circa 1800-1988</unitdate>
+          <container id="cid19144" label="PC.1961.2" type="Box">PC.1961.2</container>
+          <container id="cid19145" label="Last" type="Folder">Last</container>
+          <origination label="creator">
+            <corpname role="Originator">Unknown</corpname>
+          </origination>
+        </did>
+        <scopecontent id="ref72">
+          <head>Scope and Content</head>
+          <p>This record of the families consists of a photocopied document entitled "The Archboard Family Record, " by A.S. McCollum, Baconton, Georgia, November 1929, with supplements of additional genealogical information.</p>
+        </scopecontent>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

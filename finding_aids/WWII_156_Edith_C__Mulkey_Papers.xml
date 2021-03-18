@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="ISO-8859-15" standalone="yes"?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+    <eadid countrycode="US" mainagencycode="NC-Ar">WWII 156</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Edith C. Mulkey Papers<num>WWII 156</num></titleproper>
+        <author>Matthew M. Peek</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>State Archives of North Carolina</publisher>
+        <date type="publication" normal="20191218">2019-12-18T11:40:40</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using AXAEM<date normal="20191218">2019-12-18T11:40:40</date></creation>
+      <langusage>Description is in<language>English</language></langusage>
+      <descrules>DACS</descrules>
+    </profiledesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Edith C. Mulkey Papers<num>WWII 156</num></titleproper>
+      <author>Matthew M. Peek</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc id="collection4814" level="collection" relatedencoding="dc">
+    <did>
+      <unittitle encodinganalog="title">Edith C. Mulkey Papers</unittitle>
+      <unitid type="local ID">WWII 156</unitid>
+      <unitdate encodinganalog="date" type="inclusive" normal="1942/1946">1942-1946, undated</unitdate>
+      <physdesc>
+        <extent label="Estimated Extent" encodinganalog="format" unit="linear feet">0.35</extent>
+      </physdesc>
+      <abstract label="Abstract">The Edith C. Mulkey Papers is composed of correspondence from two U.S. servicemen and several people on the home front to Edith Carpenter of Demorest, Georgia, and Dunn, N.C., during World War II. It is unknown why Carpenter was living in Dunn part-time during WWII. The bulk of the collection is composed of correspondence from Carpenter's fiancé Raymond L. Mulkey of Demorest, Georgia, during his time serving in the U.S. Army Coast Artillery from 1942 to 1946. The bulk of the letters date from 1943 to 1944. After spending time stationed at Camp Davis, N.C., Mulkey served as a Lieutenant in the Pacific Theater in Battery H, 214th Coast Artillery Regiment (Anti-Aircraft), and Battery D, 950th Anti-Aircraft Artillery Battalion (Automatic Weapons) (SM).<lb/><lb/>The majority of Mulkey's correspondence discusses the couple's relationship and future marriage plans, responses to letters from family and friends to Carpenter and Mulkey, discussion of Mulkey's living conditions in various unnamed military camps, and information on some of the officers with whom he was serving. Mulkey rarely discusses the actual war, and never discloses his posting locations overseas, though two of the APO numbers on his envelopes indicate he was in Guadalcanal and New Zealand at some point. The letters are an interesting look at a wartime couple's relationship issues brought on by the separation of military service.<lb/><lb/>There are also letters to Carpenter from a male friend named John S. Bivens of Monroe, N.C., who appears to have met her while working in Dunn, N.C., around 1941 to 1942. His letters respond to the packages and letters he receives from her in 1943, mostly while he was stationed in the U.S. before shipping out to the European Theater in December 1943. There are also several letters from female friends to Carpenter.<lb/></abstract>
+      <origination label="creator">
+        <persname role="Originator">Mulkey, Raymond L.</persname>
+      </origination>
+      <origination label="Creator">
+        <persname role="Author">Bivens, John S.</persname>
+      </origination>
+      <origination label="Creator">
+        <persname role="Collector">Mulkey, Edith C.</persname>
+      </origination>
+    </did>
+    <arrangement>
+      <p>The collection is arranged by creator of the materials, then in chronological order in folders.</p>
+    </arrangement>
+    <p><head>Arrangement</head>The collection is arranged by creator of the materials, then in chronological order in folders.</p>
+    <accessrestrict>
+      <head>Restrictions on Access</head>
+      <p>There are no restrictions on accessing this collection.</p>
+    </accessrestrict>
+    <userestrict>
+      <head>Use Restrictions</head>
+      <p>There are no restrictions on using this collection.</p>
+    </userestrict>
+    <processinfo>
+      <head>Processing Information</head>
+      <p>The collection was originally arranged in legal-sized file folders in straight chronological order when it was first received, apart from John Bivens' letters-which were stored in their own folder. The collection was originally entitled the "Raymond L. Mulkey Papers," as the majority of the letters in the collection were written by him. The collection was stored in what had been referred to as "Private Collections" in the World War II Papers of the Military Collection. The collection was renamed when it was reprocessed, to better reflect the fact that the correspondence from Mulkey, Bivens, and several other people had written the letters in the collection to Edith Carpenter. The correspondence in the collection was all collected by Carpenter-not Mulkey. Carpenter later married Raymond Mulkey, so the collection was retitled as the "Edith C. Mulkey Papers" to make that connection with the major author within the collection.<lb/><lb/>The collection was reprocessed in March 2019 from its prior arrangement and storage in order to separate the materials in the collection into smaller groups by format or author, to allow for better long-term preservation of the collection. Originally, the donor and/or the original collection processor for the State Archives wrote exact dates on which the letters were written on the top of the first page of the letters. The dates were based on the days written out (i.e. Monday, Tuesday, etc.), extrapolated out backwards from the letters' envelopes' postmarks by the original person who processed the collection after it was donated in 2008. Because these are estimates and not written by the creator of the letters, all of the penciled-in dates from before March 2019 were erased carefully during reprocessing.<lb/><lb/>Correspondence is arranged within folders chronologically based on the dates written on the letters or from the content of the letters. When letters only had a postmark on envelopes accompanying the letters, a month and year was penciled in surrounded by brackets on the top of the letter itself. All envelopes were discarded after any necessary information was added in pencil to the letters. Envelopes with unique information or dates were photocopied and attached to each letter, using an acid-free plastic clip. Several empty envelopes that did not correspond to any letters, and a holiday card with no notes in it, were removed from the collection in keeping with archival processing standards of the State Archives.<lb/><lb/></p>
+    </processinfo>
+    <bioghist>
+      <head>Biographical Note</head>
+      <p><emph render="bold">Edith C. Mulkey</emph><lb/><lb/>Edith E. Carpenter (later Mulkey) was born on July 7, 1912, believed to be in Georgia to George and Naomi Craig Carpenter. By 1920, the Carpenter family was living in Demorest, Georgia, and George Carpenter and his wife both worked as cooks in a boarding house. Either the parents divorced or George Carpenter died in the 1920s, because by 1930 Naomi had remarried to Edwin Nix and the family continued to live in Demorest. Little is known about her life until the 1940s. Both Edith Carpenter and Raymond Mulkey grew up in Demorest-as Edith's stepfamily were related to Raymond's mother's family-and would stay in touch through World War II.<lb/><lb/>By 1942, Edith Carpenter had moved to the city of Dunn in Harnett County, N.C. She would become engaged to Raymond L. Mulkey while he was serving in the U.S. Army during World War II. He would apparently visit her while he was stationed at Camp Davis, N.C., in early 1943. The two wrote each other throughout the war to stay in touch, and apparently married sometime after the war. Carpenter moved back to Demorest by mid-May 1943.<lb/><lb/>The Mulkeys would end up living back in their home town of Demorest, Georgia; and in DeKalb County, Georgia. After Raymond Mulkey's death in 1958, Edith Mulkey and her son Raymond Jr. moved back to Dunn, N.C.<lb/><lb/>Edith C. Mulkey died on May 6, 2007, and was buried in Greenwood Cemetery in Dunn, N.C.<lb/><lb/><emph render="bold">Raymond L. Mulkey</emph><lb/><lb/>Raymond Lee Mulkey was born on September 10, 1911, in Georgia to Eugene Julius and Ethel Loraine Nix Mulkey. By 1920, the Mulkey family was living in Demorest, Georgia, and Eugene Mulkey was working as a bookkeeper at a broom factory. By 1930, Eugene Mulkey had become an accountant for a railroad in the city. Raymond Mulkey attended college for three years at an unknown school, and appears to have worked as a mechanic prior to his military service.<lb/><lb/>Raymond Mulkey enlisted in the U.S. Army before the United States' entrance into World War II. He was inducted into service on March 13, 1941, at the Reception Center at Fort McPherson in Atlanta, Georgia. Mulkey become engaged to Edith Carpenter while he was serving in the U.S. Army. She had moved to Dunn, N.C., around 1941 or 1942, and Mulkey apparently visited her while he was stationed at Camp Davis, N.C., in early 1943.<lb/><lb/>By early 1942, Mulkey was serving in a Medical Detachment at the station hospital at Fort McPherson. By January 1943, he was attending the Antiaircraft Artillery Officer Candidate School at Camp Davis, N.C., assigned as a Private First Class to the 14th Battery, 3rd Platoon. He would then be assigned in February 1943 to the 394th Battery (Antiaircraft Artillery). By the end of February, Mulkey had been promoted to the rank of Lieutenant after completing officer's school. By mid-March 1943, he was traveling west towards California, in preparation for being shipped out to the Pacific Theater. Between the end of April and first part of May 1943, Mulkey had shipped out to the Pacific.<lb/><lb/>By May 30, 1943, Raymond Mulkey was serving in Battery H, 214th Coast Artillery Regiment (Anti-Aircraft). He may have ended up at Guadalcanal at some point in 1943, particular by November 1943. Nothing is known about where his unit was stationed through 1943. By November 1943, Mulkey was assigned to Battery D, 950th Anti-Aircraft Artillery Battalion (Automatic Weapons) (SM). By December 1944, he was assigned toe Headquarters Company, 950th Anti-Aircraft Artillery Battalion (Automatic Weapons). At some point, he was stationed in the Philippines. By 1946, Mulkey was promoted to the rank of Captain. Mulkey was honorably discharged from the U.S. Army in February 1946.<lb/><lb/>Edith Carpenter and Raymond Mulkey would marry after WWII, and were living in Georgia. By the early 1950s, Raymond Mulkey was working as a engineer and highway project engineer for the Georgia State Highway Department. Raymond L. Mulkey died on October 26, 1958, in DeKalb County, Georgia, and was buried in Greenwood Cemetery in Dunn, N.C.<lb/><lb/><emph render="bold">John S. Bivens</emph><lb/><lb/>The "John S. Bivens" who wrote to Edith Carpenter during World War II appears to be John Spencer Bivens of Monroe, N.C. He was born on January 21, 1910, in Monroe, N.C., to Rufus Lonzo and Margaret McManus Bivens. By 1920, the Bivens family was living in Monroe, and Rufus Bivens worked as a farmer. John Bivens lived with his family on their farm through the 1930s. He may have attended and graduated from college, and worked as a teacher-but nothing concrete is known about this. By the time of his federal draft registration for World War II, John S. Bivens was working in Dunn, N.C., which is likely when he met Edith Carpenter.<lb/><lb/>John Bivens was inducted into military service for WWII in the U.S. Army on September 29, 1942, at Camp Croft, S.C. By January 1943, Bivens was serving as a Private in the U.S. Army Air Forces in the 358th Fighter Squadron, 355th Fighter Group, while they were stationed at Orlando Army Air Base in Orlando, Florida. By April 1943, his unit had moved to the Municipal Airport in Philadelphia, Pennsylvania. By December 1943, he had shipped out to England for service in the European Theater. Nothing else is known about his life and service from this point through the end of WWII. John Bivens was honorably discharged from the U.S. Army Air Forces on November 20, 1945.<lb/><lb/>John S. Bivens died on February 26, 1980, in Monroe, N.C., and was buried in Lakeland Memorial Park in the same city.<lb/></p>
+    </bioghist>
+    <prefercite>
+      <head>Preferred Citation</head>
+      <p>[Item name or title], [Box Number], [Folder Numbers], Edith C. Mulkey Papers, WWII 156, World War II Papers, Military Collection, State Archives of North Carolina, Raleigh, N.C.<lb/></p>
+    </prefercite>
+    <acqinfo>
+      <head>Acquisition</head>
+      <p>Materials in this collection were received by the Military Collection at the State Archives of North Carolina from Douglas N. Rader of Raleigh, N.C., in December 2007. The donation was completed in February 2008.<lb/></p>
+    </acqinfo>
+    <scopecontent>
+      <head>Scope and Content</head>
+      <p>The collection is composed of correspondence from two U.S. servicemen and several people on the home front to Edith Carpenter of Demorest, Georgia, and Dunn, N.C., during World War II. It is unknown why Carpenter was living in Dunn part-time during WWII. The bulk of the collection is composed of correspondence from Carpenter's fiancé Raymond L. Mulkey of Demorest, Georgia, during his time serving in the U.S. Army Coast Artillery from 1942 to 1946. The bulk of the letters date from 1943 to 1944. After spending time stationed at Camp Davis, N.C., Mulkey served as a Lieutenant in the Pacific Theater in Battery H, 214th Coast Artillery Regiment (Anti-Aircraft), and Battery D, 950th Anti-Aircraft Artillery Battalion (Automatic Weapons) (SM).<lb/><lb/>The majority of Mulkey's correspondence discusses the couple's relationship and future marriage plans, responses to letters from family and friends to Carpenter and Mulkey, discussion of Mulkey's living conditions in various unnamed military camps, and information on some of the officers with whom he was serving. Mulkey rarely discusses the actual war, and never discloses his posting locations overseas, though two of the APO numbers on his envelopes indicate he was in Guadalcanal and New Zealand at some point. The letters are an interesting look at a wartime couple's relationship issues brought on by the separation of military service.<lb/><lb/>There are also letters to Carpenter from a male friend named John S. Bivens of Monroe, N.C., who appears to have met her while working in Dunn, N.C., around 1941 to 1942. His letters respond to the packages and letters he receives from her in 1943, mostly while he was stationed in the U.S. before shipping out to the European Theater in December 1943. There are also several letters from female friends to Carpenter.<lb/></p>
+    </scopecontent>
+    <dsc>
+      <c01 id="file35180" level="file">
+        <did>
+          <unittitle encodinganalog="title">Raymond Mulkey Correspondence to Edith Carpenter</unittitle>
+          <unitid type="local ID">FOLDER 1</unitid>
+          <unitdate encodinganalog="date" type="inclusive" normal="1942/1943">April 1942, January-February 1943</unitdate>
+          <container id="cid1208338" label="Folder 1" type="Folder">Raymond Mulkey Correspondence to Edith Carpenter</container>
+          <origination label="creator">
+            <persname role="Originator">Mulkey, Raymond L.</persname>
+          </origination>
+        </did>
+      </c01>
+      <c01 id="file35181" level="file">
+        <did>
+          <unittitle encodinganalog="title">Raymond Mulkey Correspondence to Edith Carpenter</unittitle>
+          <unitid type="local ID">FOLDER 2</unitid>
+          <unitdate encodinganalog="date" type="inclusive">March 1943</unitdate>
+          <container id="cid1208339" label="Folder 2" type="Folder">Raymond Mulkey Correspondence to Edith Carpenter</container>
+          <origination label="creator">
+            <persname role="Originator">Mulkey, Raymond L.</persname>
+          </origination>
+        </did>
+      </c01>
+      <c01 id="file35182" level="file">
+        <did>
+          <unittitle encodinganalog="title">Raymond Mulkey Correspondence to Edith Carpenter</unittitle>
+          <unitid type="local ID">FOLDER 3</unitid>
+          <unitdate encodinganalog="date" type="inclusive" normal="1943/1943">April-June 1943</unitdate>
+          <container id="cid1208340" label="Folder 3" type="Folder">Raymond Mulkey Correspondence to Edith Carpenter</container>
+          <origination label="creator">
+            <persname role="Originator">Mulkey, Raymond L.</persname>
+          </origination>
+        </did>
+      </c01>
+      <c01 id="file35183" level="file">
+        <did>
+          <unittitle encodinganalog="title">Raymond Mulkey Correspondence to Edith Carpenter</unittitle>
+          <unitid type="local ID">FOLDER 4</unitid>
+          <unitdate encodinganalog="date" type="inclusive" normal="1943/1943">July-August 1943</unitdate>
+          <container id="cid1208341" label="Folder 4" type="Folder">Raymond Mulkey Correspondence to Edith Carpenter</container>
+          <origination label="creator">
+            <persname role="Originator">Mulkey, Raymond L.</persname>
+          </origination>
+        </did>
+      </c01>
+      <c01 id="file35184" level="file">
+        <did>
+          <unittitle encodinganalog="title">Raymond Mulkey Correspondence to Edith Carpenter</unittitle>
+          <unitid type="local ID">FOLDER 5</unitid>
+          <unitdate encodinganalog="date" type="inclusive" normal="1943/1943">September-October 1943</unitdate>
+          <container id="cid1208342" label="Folder 5" type="Folder">Raymond Mulkey Correspondence to Edith Carpenter</container>
+          <origination label="creator">
+            <persname role="Originator">Mulkey, Raymond L.</persname>
+          </origination>
+        </did>
+      </c01>
+      <c01 id="file35185" level="file">
+        <did>
+          <unittitle encodinganalog="title">Raymond Mulkey Correspondence to Edith Carpenter</unittitle>
+          <unitid type="local ID">FOLDER 6</unitid>
+          <unitdate encodinganalog="date" type="inclusive">November 1943</unitdate>
+          <container id="cid1208343" label="Folder 6" type="Folder">Raymond Mulkey Correspondence to Edith Carpenter</container>
+          <origination label="creator">
+            <persname role="Originator">Mulkey, Raymond L.</persname>
+          </origination>
+        </did>
+      </c01>
+      <c01 id="file35186" level="file">
+        <did>
+          <unittitle encodinganalog="title">Raymond Mulkey Correspondence to Edith Carpenter</unittitle>
+          <unitid type="local ID">FOLDER 7</unitid>
+          <unitdate encodinganalog="date" type="inclusive">December 1943</unitdate>
+          <container id="cid1208344" label="Folder 7" type="Folder">Raymond Mulkey Correspondence to Edith Carpenter</container>
+          <origination label="creator">
+            <persname role="Originator">Mulkey, Raymond L.</persname>
+          </origination>
+        </did>
+      </c01>
+      <c01 id="file35187" level="file">
+        <did>
+          <unittitle encodinganalog="title">Raymond Mulkey Correspondence to Edith Carpenter</unittitle>
+          <unitid type="local ID">FOLDER 8</unitid>
+          <unitdate encodinganalog="date" type="inclusive" normal="1944/1944">1944</unitdate>
+          <container id="cid1208345" label="Folder 8" type="Folder">Raymond Mulkey Correspondence to Edith Carpenter</container>
+          <origination label="creator">
+            <persname role="Originator">Mulkey, Raymond L.</persname>
+          </origination>
+        </did>
+      </c01>
+      <c01 id="file35188" level="file">
+        <did>
+          <unittitle encodinganalog="title">Raymond Mulkey Correspondence to Edith Carpenter</unittitle>
+          <unitid type="local ID">FOLDER 9</unitid>
+          <unitdate encodinganalog="date" type="inclusive" normal="1945/1946">1945-1946, undated</unitdate>
+          <container id="cid1208346" label="Folder 9" type="Folder">Raymond Mulkey Correspondence to Edith Carpenter</container>
+          <origination label="creator">
+            <persname role="Originator">Mulkey, Raymond L.</persname>
+          </origination>
+        </did>
+      </c01>
+      <c01 id="file35189" level="file">
+        <did>
+          <unittitle encodinganalog="title">John S. Bivens Correspondence to Edith Carpenter</unittitle>
+          <unitid type="local ID">FOLDER 10</unitid>
+          <unitdate encodinganalog="date" type="inclusive" normal="1943/1943">1943</unitdate>
+          <container id="cid1208347" label="Folder 10" type="Folder">John S. Bivens Correspondence to Edith Carpenter</container>
+          <origination label="creator">
+            <persname role="Originator">Mulkey, Raymond L.</persname>
+          </origination>
+        </did>
+      </c01>
+      <c01 id="file35190" level="file">
+        <did>
+          <unittitle encodinganalog="title">Miscellaneous Correspondence</unittitle>
+          <unitid type="local ID">FOLDER 11</unitid>
+          <unitdate encodinganalog="date" type="inclusive" normal="1943/1943">1943</unitdate>
+          <container id="cid1208348" label="Folder 11" type="Folder">Miscellaneous Correspondence</container>
+          <origination label="creator">
+            <persname role="Originator">Mulkey, Raymond L.</persname>
+          </origination>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>
