@@ -1,0 +1,2746 @@
+<?xml version="1.0" encoding="ISO-8859-15" standalone="yes"?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+    <eadid countrycode="US" mainagencycode="NC-Ar">201</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Alamance County<num>CR.001</num></titleproper>
+        <author>State Archives of North Carolina</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>State Archives of North Carolina</publisher>
+        <date type="publication" normal="20190703">2019-07-03T18:13:50</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using AXAEM<date normal="20190703">2019-07-03T18:13:50</date></creation>
+      <langusage>Description is in<language langcode="eng">English</language></langusage>
+      <descrules>DACS</descrules>
+    </profiledesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Alamance County<num>CR.001</num></titleproper>
+      <author>State Archives of North Carolina</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc id="recordgrp100201" level="recordgrp" relatedencoding="dc">
+    <did>
+      <unittitle encodinganalog="title">Alamance County</unittitle>
+      <unitid type="local ID">CR.001</unitid>
+      <unitid identifier="201" type="Mars ID" label="Mars ID">201</unitid>
+      <unitid identifier="201" type="Old Mars ID" label="Old Mars ID">201</unitid>
+      <origination label="creator">
+        <corpname role="Originator">Alamance County (N.C.)</corpname>
+      </origination>
+      <origination label="Creator">
+        <corpname role="Unspecified">Clerk of Superior Court; Clerk of Court of Pleas and Quarter Sessions; Register of Deeds</corpname>
+      </origination>
+      <repository encodinganalog="publisher">
+        <corpname>State Archives of North Carolina</corpname>
+      </repository>
+    </did>
+    <custodhist>
+      <p>Clerk of Superior Court, Register of Deeds</p>
+    </custodhist>
+    <scopecontent>
+      <head>Scope and Content</head>
+      <p>Alamance County was established in 1849 from Orange County. No extensive losses of records are known.<lb/></p>
+    </scopecontent>
+    <controlaccess>
+      <controlaccess>
+        <geogname encodinganalog="651" source="local">Alamance County (N.C.)</geogname>
+      </controlaccess>
+    </controlaccess>
+    <dsc>
+      <c01 id="series44008" level="series">
+        <did>
+          <unittitle encodinganalog="title">Bonds, Licenses, Oaths, and Registrations</unittitle>
+          <unitid type="local ID">CR.001.1</unitid>
+          <origination label="creator">
+            <corpname role="Originator">Alamance County (N.C.)</corpname>
+          </origination>
+        </did>
+        <scopecontent>
+          <head>Scope and Content</head>
+          <p>This series may include Apprentice Bonds, Bastardy Bonds, Official Bonds and Records of county officials, Oaths taken by county officials, and other miscellaneous bonds and records pertaining to legal responsibilities of service granted through the courts, as well as Assumed Business Names, Corporations, and Partnerships and Brands or Marks registered in the county and Licenses and Registrations of merchants and professionals kept by the county.<lb/></p>
+        </scopecontent>
+        <c02 id="subseries5494" level="subseries">
+          <did>
+            <unittitle encodinganalog="title">Apprentice Bonds</unittitle>
+            <unitid type="local ID">CR.001.101</unitid>
+            <unitid identifier="201.1.1" type="Mars ID" label="Mars ID">201.1.1</unitid>
+            <unitid identifier="201.1.1" type="Old Mars ID" label="Old Mars ID">201.1.1</unitid>
+            <unitid identifier="CR.001.101.1" type="Call Number" label="Location: ST 302">CR.001.101.1</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1878/1918">1878-1918</unitdate>
+            <container id="cid1135355" label="CR.001.101.001" type="Item">Apprentice Bonds</container>
+            <origination label="creator">
+              <corpname role="Originator">Alamance County (N.C.)</corpname>
+            </origination>
+          </did>
+          <acqinfo>
+            <p>Transferred According to Retention Schedule</p>
+          </acqinfo>
+          <arrangement>
+            <head>Arrangement</head>
+            <p>Chronological</p>
+          </arrangement>
+          <scopecontent>
+            <head>Scope and Content</head>
+            <p>Records include contracts of apprenticeship, both formal and informal, which can include name of master and apprentice, trade to be taught, details of contract, amount of master's bond, and name of sureties. Other papers may include petitions for apprenticeship, petitions for "freedom dues" upon the completion of an apprenticeship, and civil and criminal actions concerning masters or wards.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="subseries5495" level="subseries">
+          <did>
+            <unittitle encodinganalog="title">Bastardy Bonds and Records</unittitle>
+            <unitid type="local ID">CR.001.102</unitid>
+            <unitid identifier="1977.08.08" type="Accession Number" label="Accession Number">1977.08.08</unitid>
+            <unitid identifier="201.2.1" type="Mars ID" label="Mars ID">201.2.1</unitid>
+            <unitid identifier="201.2.1" type="Old Mars ID" label="Old Mars ID">201.2.1</unitid>
+            <unitid identifier="CR.001.102.1" type="Call Number" label="Location: ST 302">CR.001.102.1</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1877/1917">1877-1917</unitdate>
+            <container id="cid1135356" label="CR.001.102.001" type="Box">Bastardy Bonds and Records</container>
+            <origination label="creator">
+              <corpname role="Originator">Alamance County (N.C.)</corpname>
+            </origination>
+          </did>
+          <acqinfo>
+            <p>Transferred According to Retention Schedule</p>
+          </acqinfo>
+          <arrangement>
+            <head>Arrangement</head>
+            <p>Chronological</p>
+          </arrangement>
+          <custodhist>
+            <p>Clerk of Superior Court</p>
+          </custodhist>
+          <scopecontent>
+            <head>Scope and Content</head>
+            <p>Records include bonds posted by putative fathers of illegitimate children to insure the county against the children becoming public charges. Often give name of father and his bondsman, as well as that of the mother and child and the amount of the bond posted. Other papers may include presentments against and examinations of unwed mothers and mothers-to-be, warrants to bring the putative fathers to court, and receipts for payments made on behalf of bastard children.</p>
+          </scopecontent>
+        </c02>
+      </c01>
+      <c01 id="series44010" level="series">
+        <did>
+          <unittitle encodinganalog="title">Court Records </unittitle>
+          <unitid type="local ID">CR.001.3</unitid>
+          <origination label="creator">
+            <corpname role="Originator">Alamance County (N.C.)</corpname>
+          </origination>
+        </did>
+        <bioghist>
+          <head>Biographical/Historical</head>
+          <p>County Courts of Pleas and Quarter Sessions evolved from precinct courts in 1738. The courts were composed of three or more Justices of the Peace and sat four times each year. The functions of county courts may be categorized into three distinct areas-judicial, probate and administrative-that are reflected in the minute dockets. The courts exercised both civil and criminal jurisdiction, original and appellate (from magistrates courts). Probate responsibilities included acknowledgment and probate of deeds; probate of wills; appointment and qualification of administrators, executors and guardians; binding of apprentices; and inquisitions of lunacy. The court also served as the governing body of the county, responsible for the appointment and qualification of local officials, levying of local taxes, expenditure of public funds, granting of licenses (tavern keepers, ferry operators, and peddlers), registration of stock marks, paternity inquisitions, and emancipation and manumission of slaves.<lb/><lb/>Courts of Pleas and Quarter Sessions were abolished by the Constitution of 1868. The judicial functions devolved to county Superior Courts and Justices of the Peace Courts; the probate function was vested in the clerk of Superior Court; and administrative responsibilities were inherited by the newly created Boards of County Commissioners. Superior Courts were established in each county in 1806, replacing the district superior courts that had functioned since 1778. Originally, the county Superior Court sat twice each year, spring and fall terms, with six judges riding circuit. Each county had separate clerks for Law and for Equity. These courts had original and appellate civil and criminal jurisdiction, as well as jurisdiction over actions in equity. Criminal jurisdiction extended to serious felonies, such as murder, rape, larceny, house breaking, assault and battery, riot, and forgery; civil jurisdiction extended to suits involving $100 or more (after 1868, $200 or more). Other matters assigned to Superior Court included legitimization of bastards, emancipation and manumission of slaves, registration of aliens, and hearing of grand jury presentments and reports. Later, matters handled before a clerk were classified in Special Proceedings and Orders and Decrees, which included things such as adoptions, name changes, incompetency hearings, and many estate and guardian matters.</p>
+        </bioghist>
+        <scopecontent>
+          <head>Scope and Content</head>
+          <p>This series includes records pertaining to the administration and actions of the county court system, particularly Civil and Criminal Actions before a jury and other actions before the court or the clerk, such as Special Proceedings. The dominant court prior to 1868 was known as the Court of Pleas and Quarter Sessions; after court reform circa 1868, it was known as the Superior Court.<lb/><lb/>For court records concerning land and property matters, see also series 4, Land and Property Records. For records pertaining to Wills and Estate matters, see also series 5, Estates Records and Wills. For Adoptions, see also series 6, Marriage, Divorce and Vital Statistics. Series 10, subseries 928, may also contain loose court records.<lb/></p>
+        </scopecontent>
+        <c02 id="subgrp22" level="subgrp">
+          <did>
+            <unittitle encodinganalog="title">Minute Dockets, Superior Court and Court of Pleas and Quarter Sessions</unittitle>
+            <unitid type="local ID">CR.001.MD</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1849/1968">1849-1968</unitdate>
+            <origination label="creator">
+              <corpname role="Originator">Alamance County (N.C.)</corpname>
+            </origination>
+          </did>
+          <scopecontent>
+            <head>Scope and Content</head>
+            <p>The minute dockets record the daily transactions of the court, generally recording judgments in civil and criminal actions or documenting non-juried matters. They also reflect the internal workings of the court, recording the appointment and qualification of clerks, the summoning and impaneling of juries, and the hearing of grand jury reports.<lb/></p>
+          </scopecontent>
+          <c03 id="subseries5616" level="subseries">
+            <did>
+              <unittitle encodinganalog="title">Minute Docket, Court of Pleas and Quarter Sessions</unittitle>
+              <unitid type="local ID">CR.001.301</unitid>
+              <unitid identifier="201.6.1" type="Mars ID" label="Mars ID">201.6.1</unitid>
+              <unitdate encodinganalog="date" type="inclusive" normal="1849/1868">1849-1868</unitdate>
+              <container id="cid1135357" label="CR.001.301.001" type="Item">Minute Docket, Court of Pleas and Quarter Sessions</container>
+              <container id="cid1135358" label="CR.001.301.002" type="Item">Minute Docket, Court of Pleas and Quarter Sessions</container>
+              <container id="cid1135359" label="CR.001.301.003" type="Item">Minute Docket, Court of Pleas and Quarter Sessions</container>
+              <origination label="creator">
+                <corpname role="Originator">Alamance County (N.C.). Clerk of Court of Pleas and Quarter Sessions.</corpname>
+              </origination>
+              <origination label="Creator">
+                <corpname role="Originator">Alamance County (N.C.)</corpname>
+              </origination>
+            </did>
+            <arrangement>
+              <head>Arrangement</head>
+              <p>Chronological</p>
+            </arrangement>
+            <scopecontent>
+              <head>Scope and Content</head>
+              <p>County courts of pleas and quarter sessions evolved from precinct courts in 1738. The courts were composed of three or more justices of the peace and sat four times each year. The functions of county courts may be categorized into three distinct areas - judicial, probate and administrative - that are reflected in the minute dockets. The courts exercised both civil and criminal jurisdiction, original and appellate (from magistrates courts). Probate responsibilities included acknowledgment and probate of deeds, probate of wills, appointment and qualification of administrators, executors and guardians, binding of apprentices, and inquisitions of lunacy. The court also served as the governing body of the county, responsible for the appointment and qualification of local officials, levying of local taxes, expenditure of public funds, granting of licenses (tavern keepers, ferry operators, and peddlers), registration of stock marks, paternity inquisitions, and emancipation and manumission of slaves. Courts of pleas and quarter were abolished by the Constitution of 1868. The courts' judicial functions devolved to county superior courts and justices of the peace courts; the probate function was vested in the clerk of superior court; and administrative responsibilities were inherited by the newly created boards of county commissioners. This series my include both rough and smooth copies of the minutes.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="subseries5617" level="subseries">
+            <did>
+              <unittitle encodinganalog="title">Minute Docket, Superior Court</unittitle>
+              <unitid type="local ID">CR.001.311</unitid>
+              <unitid identifier="201.16.1" type="Mars ID" label="Mars ID">201.16.1</unitid>
+              <unitid identifier="201.16.1" type="Old Mars ID" label="Old Mars ID">201.16.1</unitid>
+              <unitid identifier="2014.10.36" type="Accession Number" label="Accession Number">2014.10.36</unitid>
+              <unitid identifier="CR.001.311.1 - CR.001.311.30" type="Call Number" label="Location: ST 302">CR.001.311.1 - CR.001.311.30</unitid>
+              <unitid identifier="CR.001.311.31 [oversized]" type="Call Number" label="Location: ST 303">CR.001.311.31 [oversized]</unitid>
+              <unitid identifier="CR.001.311.32 - CR.001.311.49" type="Call Number" label="Location: ST 302">CR.001.311.32 - CR.001.311.49</unitid>
+              <unitdate encodinganalog="date" type="inclusive" normal="1849/1968">1849-1968</unitdate>
+              <container id="cid1135363" label="CR.001.311.007" type="Item">Minute Docket, Superior Court</container>
+              <container id="cid1135364" label="CR.001.311.008" type="Item">Minute Docket, Superior Court</container>
+              <container id="cid1135365" label="CR.001.311.009" type="Item">Minute Docket, Superior Court</container>
+              <container id="cid1135366" label="CR.001.311.010" type="Item">Minute Docket, Superior Court</container>
+              <container id="cid1135367" label="CR.001.311.011" type="Item">Minute Docket, Superior Court</container>
+              <container id="cid1135368" label="CR.001.311.012" type="Item">Minute Docket, Superior Court</container>
+              <container id="cid1135369" label="CR.001.311.013" type="Item">Minute Docket, Superior Court</container>
+              <container id="cid1135370" label="CR.001.311.014" type="Item">Minute Docket, Superior Court</container>
+              <container id="cid1135371" label="CR.001.311.015" type="Item">Minute Docket, Superior Court</container>
+              <container id="cid1135372" label="CR.001.311.016" type="Item">Minute Docket, Superior Court</container>
+              <container id="cid1135373" label="CR.001.311.017" type="Item">Minute Docket, Superior Court</container>
+              <container id="cid1135374" label="CR.001.311.018" type="Item">Minute Docket, Superior Court</container>
+              <container id="cid1135375" label="CR.001.311.019" type="Item">Minute Docket, Superior Court</container>
+              <container id="cid1135376" label="CR.001.311.020" type="Item">Minute Docket, Superior Court</container>
+              <container id="cid1135377" label="CR.001.311.021" type="Item">Minute Docket, Superior Court</container>
+              <container id="cid1135378" label="CR.001.311.022" type="Item">Minute Docket, Superior Court</container>
+              <container id="cid1135379" label="CR.001.311.023" type="Item">Minute Docket, Superior Court</container>
+              <container id="cid1135380" label="CR.001.311.024" type="Item">Minute Docket, Superior Court</container>
+              <container id="cid1135381" label="CR.001.311.025" type="Item">Minute Docket, Superior Court</container>
+              <container id="cid1135382" label="CR.001.311.026" type="Item">Minute Docket, Superior Court</container>
+              <container id="cid1135383" label="CR.001.311.027" type="Item">Minute Docket, Superior Court</container>
+              <container id="cid1135384" label="CR.001.311.028" type="Item">Minute Docket, Superior Court</container>
+              <container id="cid1135385" label="CR.001.311.029" type="Item">Minute Docket, Superior Court</container>
+              <container id="cid1135386" label="CR.001.311.030" type="Item">Minute Docket, Superior Court</container>
+              <container id="cid1135387" label="CR.001.311.031" type="Item">Minute Docket, Superior Court</container>
+              <container id="cid1135388" label="CR.001.311.032" type="Item">Minute Docket, Superior Court</container>
+              <container id="cid1135389" label="CR.001.311.033" type="Item">Minute Docket, Superior Court</container>
+              <container id="cid1135390" label="CR.001.311.034" type="Item">Minute Docket, Superior Court</container>
+              <container id="cid1135391" label="CR.001.311.035" type="Item">Minute Docket, Superior Court</container>
+              <container id="cid1135392" label="CR.001.311.036" type="Item">Minute Docket, Superior Court</container>
+              <container id="cid1135393" label="CR.001.311.037" type="Item">Minute Docket, Superior Court</container>
+              <container id="cid1135394" label="CR.001.311.038" type="Item">Minute Docket, Superior Court</container>
+              <container id="cid1135395" label="CR.001.311.039" type="Item">Minute Docket, Superior Court</container>
+              <container id="cid1135396" label="CR.001.311.040" type="Item">Minute Docket, Superior Court</container>
+              <container id="cid1135397" label="CR.001.311.041" type="Item">Minute Docket, Superior Court</container>
+              <container id="cid1135398" label="CR.001.311.042" type="Item">Minute Docket, Superior Court</container>
+              <container id="cid1135399" label="CR.001.311.043" type="Item">Minute Docket, Superior Court</container>
+              <container id="cid1135400" label="CR.001.311.044" type="Item">Minute Docket, Superior Court</container>
+              <container id="cid1135401" label="CR.001.311.045" type="Item">Minute Docket, Superior Court</container>
+              <container id="cid1135402" label="CR.001.311.046" type="Item">Minute Docket, Superior Court</container>
+              <container id="cid1135403" label="CR.001.311.001" type="Item">Minute Docket, Superior Court</container>
+              <container id="cid1135404" label="CR.001.311.047" type="Item">Minute Docket, Superior Court</container>
+              <container id="cid1135405" label="CR.001.311.048" type="Item">Minute Docket, Superior Court</container>
+              <container id="cid1135406" label="CR.001.311.049" type="Item">Minute Docket, Superior Court</container>
+              <container id="cid1135407" label="CR.001.311.002" type="Item">Minute Docket, Superior Court</container>
+              <container id="cid1135408" label="CR.001.311.003" type="Item">Minute Docket, Superior Court</container>
+              <container id="cid1135409" label="CR.001.311.004" type="Item">Minute Docket, Superior Court</container>
+              <container id="cid1135410" label="CR.001.311.005" type="Item">Minute Docket, Superior Court</container>
+              <container id="cid1135411" label="CR.001.311.006" type="Item">Minute Docket, Superior Court</container>
+              <origination label="creator">
+                <corpname role="Originator">Alamance County (N.C.)</corpname>
+              </origination>
+            </did>
+            <acqinfo>
+              <p>Transferred According to Retention Schedule</p>
+            </acqinfo>
+            <arrangement>
+              <head>Arrangement</head>
+              <p>Chronological</p>
+            </arrangement>
+          </c03>
+          <c03 id="subseries5618" level="subseries">
+            <did>
+              <unittitle encodinganalog="title">Equity Minute Docket, Superior Court of Law and Equity</unittitle>
+              <unitid type="local ID">CR.001.314</unitid>
+              <unitid identifier="1996.8.6" type="Accession Number" label="Accession Number">1996.8.6</unitid>
+              <unitid identifier="201.19.1" type="Mars ID" label="Mars ID">201.19.1</unitid>
+              <unitdate encodinganalog="date" type="inclusive" normal="1849/1872">1849-1872</unitdate>
+              <container id="cid1135421" label="CR.001.314.001" type="Item">Equity Minute Docket, Superior Court of Law and Equity. Also contains clerk's receipt book (land sales), 1869-1872.</container>
+              <origination label="creator">
+                <corpname role="Originator">Alamance County (N.C.). Clerk of Superior Court.</corpname>
+              </origination>
+              <origination label="Creator">
+                <corpname role="Originator">Alamance County (N.C.)</corpname>
+              </origination>
+            </did>
+            <arrangement>
+              <head>Arrangement</head>
+              <p>Chronological</p>
+            </arrangement>
+            <scopecontent>
+              <head>Scope and Content</head>
+              <p>Minutes of the Superior Court of Law and Equity (1806-1868).<lb/>Also contains clerk's receipt book (land sales), 1869-1872.</p>
+            </scopecontent>
+          </c03>
+        </c02>
+        <c02 id="subgrp23" level="subgrp">
+          <did>
+            <unittitle encodinganalog="title">Judgment/Execution Dockets, Superior Court and Court of Pleas and Quarter Sessions</unittitle>
+            <unitid type="local ID">CR.001.JE</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1868/1968">1868-1968</unitdate>
+            <origination label="creator">
+              <corpname role="Originator">Alamance County (N.C.)</corpname>
+            </origination>
+          </did>
+          <scopecontent>
+            <head>Scope and Content</head>
+            <p>Equity Execution Dockets and Execution Dockets record the names of all parties involved in compensatory judgments awarded by the Court of Equity or Superior Court. Information includes names of parties to action; nature of action; amount of judgment; bill of costs; type of writ issued, its execution; satisfaction of judgment, in the case of Equity Execution Dockets; and sheriff's return. After 1868, in most counties this information was recorded in Judgment Dockets, although some continued to use separate Execution Dockets.</p>
+          </scopecontent>
+          <c03 id="subseries5541" level="subseries">
+            <did>
+              <unittitle encodinganalog="title">Cross Index to Judgments</unittitle>
+              <unitid type="local ID">CR.001.324</unitid>
+              <unitid identifier="201.110.2" type="Mars ID" label="Mars ID">201.110.2</unitid>
+              <unitid identifier="2014.4.57" type="Accession Number" label="Accession Number">2014.4.57</unitid>
+              <unitid identifier="CR.001.324.1" type="Call Number" label="Location: ST 302">CR.001.324.1</unitid>
+              <unitdate encodinganalog="date" type="inclusive" normal="1899/1925">1899-1925</unitdate>
+              <origination label="creator">
+                <corpname role="Originator">Alamance County (N.C.). Clerk of Superior Court.</corpname>
+              </origination>
+              <origination label="Creator">
+                <corpname role="Author">Clerk of Superior Court</corpname>
+              </origination>
+            </did>
+            <arrangement>
+              <head>Arrangement</head>
+              <p>Chronological</p>
+            </arrangement>
+          </c03>
+          <c03 id="subseries5540" level="subseries">
+            <did>
+              <unittitle encodinganalog="title">Judgment Docket, Superior Court</unittitle>
+              <unitid type="local ID">CR.001.318</unitid>
+              <unitid identifier="201.110.1" type="Mars ID" label="Mars ID">201.110.1</unitid>
+              <unitid identifier="2014.4.55" type="Accession Number" label="Accession Number">2014.4.55</unitid>
+              <unitid identifier="CR.001.318.1 - CR.001.318.20" type="Call Number" label="Location: ST 302">CR.001.318.1 - CR.001.318.20</unitid>
+              <unitdate encodinganalog="date" type="inclusive" normal="1868/1968">1868-1968</unitdate>
+              <origination label="creator">
+                <corpname role="Originator">Alamance County (N.C.). Clerk of Superior Court.</corpname>
+              </origination>
+              <origination label="Creator">
+                <corpname role="Author">Clerk of Superior Court</corpname>
+              </origination>
+            </did>
+            <arrangement>
+              <head>Arrangement</head>
+              <p>Chronological</p>
+            </arrangement>
+            <scopecontent>
+              <head>Scope and Content</head>
+              <p> v.1-8; 8 1/2; 9 (part 1 and 2); 10-11; 13, 15, 17, 19, 21, 27-28</p>
+            </scopecontent>
+          </c03>
+        </c02>
+        <c02 id="subgrp24" level="subgrp">
+          <did>
+            <unittitle encodinganalog="title">Criminal Dockets, Superior Court and Court of Pleas and Quarter Sessions</unittitle>
+            <unitid type="local ID">CR.001.CR</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1849/1967">1849-1868, 1941-1967</unitdate>
+            <origination label="creator">
+              <corpname role="Originator">Alamance County (N.C.)</corpname>
+            </origination>
+          </did>
+          <scopecontent>
+            <head>Scope and Content</head>
+            <p>Trials in criminal court were recorded in Crown Dockets in the colonial period, State Dockets from the colonial period to 1868, and Criminal Docket; Criminal Issues Docket; or Judgment Docket, State Cases, post-1868. [Recognizance Dockets track appearance in criminal court.] </p>
+          </scopecontent>
+          <c03 id="subseries5499" level="subseries">
+            <did>
+              <unittitle encodinganalog="title">Criminal Issues Docket, Superior Court</unittitle>
+              <unitid type="local ID">CR.001.321</unitid>
+              <unitid identifier="201.107.1" type="Mars ID" label="Mars ID">201.107.1</unitid>
+              <unitid identifier="2014.4.50" type="Accession Number" label="Accession Number">2014.4.50</unitid>
+              <unitid identifier="CR.001.321.1 - CR.001.321.2" type="Call Number" label="Location: ST 302">CR.001.321.1 - CR.001.321.2</unitid>
+              <unitdate encodinganalog="date" type="inclusive" normal="1941/1967">1941-1967</unitdate>
+              <origination label="creator">
+                <corpname role="Originator">Alamance County (N.C.). Clerk of Superior Court.</corpname>
+              </origination>
+              <origination label="Creator">
+                <corpname role="Author">Clerk of Superior Court</corpname>
+              </origination>
+            </did>
+            <arrangement>
+              <head>Arrangement</head>
+              <p>Chronological</p>
+            </arrangement>
+            <scopecontent>
+              <head>Scope and Content</head>
+              <p>Criminal docket tracking appearance and trial of state prosecutions. After 1868, known as Criminal Issues Docket.<lb/><lb/>v.6 1941-1953; v7 1954-1967</p>
+            </scopecontent>
+          </c03>
+          <c03 id="subseries5500" level="subseries">
+            <did>
+              <unittitle encodinganalog="title">State Docket, Court of Pleas and Quarter Sessions</unittitle>
+              <unitid type="local ID">CR.001.307</unitid>
+              <unitid identifier="1996.5.8" type="Accession Number" label="Accession Number">1996.5.8</unitid>
+              <unitid identifier="201.12.1" type="Mars ID" label="Mars ID">201.12.1</unitid>
+              <unitid identifier="201.12.1" type="Old Mars ID" label="Old Mars ID">201.12.1</unitid>
+              <unitid identifier="2016.4.72" type="Accession Number" label="Accession Number">2016.4.72</unitid>
+              <unitid identifier="CR.001.307.1 - CR.001.307.2" type="Call Number" label="Location: ST 302">CR.001.307.1 - CR.001.307.2</unitid>
+              <unitdate encodinganalog="date" type="inclusive" normal="1849/1868">1849-1868</unitdate>
+              <origination label="creator">
+                <corpname role="Originator">Alamance County (N.C.). Clerk of Court of Pleas and Quarter Sessions.</corpname>
+              </origination>
+              <origination label="Creator">
+                <corpname role="Author">Clerk of Superior Court</corpname>
+              </origination>
+            </did>
+            <acqinfo>
+              <p>Transferred According to Retention Schedule</p>
+            </acqinfo>
+            <arrangement>
+              <head>Arrangement</head>
+              <p>Chronological</p>
+            </arrangement>
+            <custodhist>
+              <p>Clerk of Superior Court</p>
+            </custodhist>
+            <scopecontent>
+              <head>Scope and Content</head>
+              <p>Criminal docket tracking appearance and trial of state prosecutions. During the colonial period, known as Crown Docket.</p>
+            </scopecontent>
+          </c03>
+        </c02>
+        <c02 id="subseries5498" level="subseries">
+          <did>
+            <unittitle encodinganalog="title">Criminal Action Papers, Superior Court and Court of Pleas and Quarter Sessions</unittitle>
+            <unitid type="local ID">CR.001.326</unitid>
+            <unitid identifier="1977.08.08" type="Accession Number" label="Accession Number">1977.08.08</unitid>
+            <unitid identifier="201.31.1" type="Mars ID" label="Mars ID">201.31.1</unitid>
+            <unitid identifier="201.31.1" type="Old Mars ID" label="Old Mars ID">201.31.1</unitid>
+            <unitid identifier="2015.8.3" type="Accession Number" label="Accession Number">2015.8.3</unitid>
+            <unitid identifier="CR.001.326.1 - CR.001.326.3" type="Call Number" label="Location: ST 302">CR.001.326.1 - CR.001.326.3</unitid>
+            <unitid identifier="CR.001.326._" type="Call Number" label="Location: RC 3.24.B.61-74">CR.001.326._</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1878/1968">1878-1968</unitdate>
+            <origination label="creator">
+              <corpname role="Originator">Alamance County (N.C.). Clerk of Superior Court.</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Author">Clerk of Superior Court</corpname>
+            </origination>
+          </did>
+          <acqinfo>
+            <p>Transferred According to Retention Schedule</p>
+          </acqinfo>
+          <arrangement>
+            <head>Arrangement</head>
+            <p>Chronological</p>
+          </arrangement>
+          <accessrestrict>
+            <head>Access Restriction</head>
+            <p>Unprocessed county records require additional time to pull. Access to these records on Saturdays requires prior arrangements. Please consult the reference staff for more information.</p>
+          </accessrestrict>
+          <custodhist>
+            <p>Clerk of Superior Court</p>
+          </custodhist>
+          <scopecontent>
+            <head>Scope and Content</head>
+            <p>Criminal case files from magistrates courts, Court of Pleas and Quarter Sessions, Superior Court, and, in some counties, other inferior courts, usually arranged chronologically. In most counties, records also include executions issued supplementary to criminal actions. Series 10, subseries 928, Miscellaneous Records, may also include loose criminal actions.<lb/><lb/>Processed criminal action papers (1878-1917) are arranged in chronological order and housed in 3 archival document cases numbered CR.001.326.1-3.<lb/><lb/>Unprocessed criminal action papers (1918-1968) are in roughly chronological order and housed in 38 record center boxes.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="subgrp26" level="subgrp">
+          <did>
+            <unittitle encodinganalog="title">Civil Dockets, Superior Court and Court of Pleas and Quarter Sessions</unittitle>
+            <unitid type="local ID">CR.001.CV</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1849/1940">1849-1866, 1927-1940</unitdate>
+            <origination label="creator">
+              <corpname role="Originator">Alamance County (N.C.). Clerk of Superior Court.</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Originator">Clerk of Superior Court</corpname>
+            </origination>
+          </did>
+          <scopecontent>
+            <head>Scope and Content</head>
+            <p>Record of civil causes expected to come to trial during term. Brings forward information from Appearance Docket and also shows pleadings of defendant, prior to ruling by court, verdict, judgment, and final orders. In most counties prior to 1820, Appearance, Trial, and Reference Dockets were maintained in one civil docket at the convenience of the clerk. With the proliferation of cases after 1820, most clerks began keeping the various civil dockets in separate volumes. After 1868, this information was recorded in Civil Issues Dockets, including names of parties, history of cases carried forward from Summons Docket, and note of proceedings at trial. See also series AR, Appearance and Reference Docket.</p>
+          </scopecontent>
+          <c03 id="subseries5549" level="subseries">
+            <did>
+              <unittitle encodinganalog="title">Civil Issues Docket</unittitle>
+              <unitid type="local ID">CR.001.322</unitid>
+              <unitid identifier="201.108.1" type="Mars ID" label="Mars ID">201.108.1</unitid>
+              <unitid identifier="2014.4.52" type="Accession Number" label="Accession Number">2014.4.52</unitid>
+              <unitid identifier="CR.001.322.1 - CR.001.322.2" type="Call Number" label="Location: ST 302">CR.001.322.1 - CR.001.322.2</unitid>
+              <unitdate encodinganalog="date" type="inclusive" normal="1927/1940">1927-1940</unitdate>
+              <origination label="creator">
+                <corpname role="Originator">Alamance County (N.C.). Clerk of Superior Court.</corpname>
+              </origination>
+              <origination label="Creator">
+                <corpname role="Author">Clerk of Superior Court</corpname>
+              </origination>
+            </did>
+            <arrangement>
+              <head>Arrangement</head>
+              <p>Chronological</p>
+            </arrangement>
+            <scopecontent>
+              <head>Scope and Content</head>
+              <p>v. 8 1927-1934; v. 9 1934-1940</p>
+            </scopecontent>
+          </c03>
+          <c03 id="subseries5550" level="subseries">
+            <did>
+              <unittitle encodinganalog="title">Trial Dockets</unittitle>
+              <unitid type="local ID">CR.001.309</unitid>
+              <unitid identifier="201.108.2" type="Mars ID" label="Mars ID">201.108.2</unitid>
+              <unitid identifier="2014.4.61" type="Accession Number" label="Accession Number">2014.4.61</unitid>
+              <unitid identifier="CR.001.309.1 - CR.001.309.2" type="Call Number" label="Location: ST 302">CR.001.309.1 - CR.001.309.2</unitid>
+              <unitdate encodinganalog="date" type="inclusive" normal="1849/1866">1849-1866</unitdate>
+              <origination label="creator">
+                <corpname role="Originator">Alamance County (N.C.). Clerk of Court of Pleas and Quarter Sessions.</corpname>
+              </origination>
+            </did>
+            <arrangement>
+              <head>Arrangement</head>
+              <p>Chronological</p>
+            </arrangement>
+            <scopecontent>
+              <head>Scope and Content</head>
+              <p>v1 1849-1858; v2 1858-1866</p>
+            </scopecontent>
+          </c03>
+          <c03 id="subseries5539" level="subseries">
+            <did>
+              <unittitle encodinganalog="title">Record of Assignees, Receivers and Trustees</unittitle>
+              <unitid type="local ID">CR.001.929</unitid>
+              <unitid identifier="201.111.4" type="Mars ID" label="Mars ID">201.111.4</unitid>
+              <unitid identifier="CR.001.929.1" type="Call Number" label="Location: ST 302">CR.001.929.1</unitid>
+              <unitid identifier="CR.001.929.2 - CR.001.929.3" type="Call Number" label="Location: ST 303">CR.001.929.2 - CR.001.929.3</unitid>
+              <unitdate encodinganalog="date" type="inclusive" normal="1884/1933">1884-1933</unitdate>
+              <origination label="creator">
+                <corpname role="Originator">Alamance County (N.C.). Clerk of Superior Court.</corpname>
+              </origination>
+              <origination label="Creator">
+                <corpname role="Author">Clerk of Superior Court</corpname>
+              </origination>
+            </did>
+            <arrangement>
+              <head>Arrangement</head>
+              <p>chronological</p>
+            </arrangement>
+            <scopecontent>
+              <head>Scope and Content</head>
+              <p>1 box, 1884-1933; v1 1895-1915; v2 1916-1933</p>
+            </scopecontent>
+          </c03>
+        </c02>
+        <c02 id="subseries5610" level="subseries">
+          <did>
+            <unittitle encodinganalog="title">Civil Action Papers, Superior Court and Court of Pleas and Quarter Sessions</unittitle>
+            <unitid type="local ID">CR.001.325</unitid>
+            <unitid identifier="201.30" type="Mars ID" label="Mars ID">201.30</unitid>
+            <unitid identifier="201.30" type="Old Mars ID" label="Old Mars ID">201.30</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1870/1968">1870-1968</unitdate>
+            <origination label="creator">
+              <corpname role="Originator">Alamance County (N.C.)</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Originator">Clerk of Superior Court; Clerk of Court of Pleas and Quarter Sessions; Register of Deeds</corpname>
+            </origination>
+          </did>
+          <scopecontent>
+            <head>Scope and Content</head>
+            <p>Civil case files from magistrates courts, Court of Pleas and Quarter Sessions, Superior Court, and, in some counties, other inferior courts. In most counties, also contains executions issued supplementary to civil judgments. [Civil actions concerning are filed separately. Other sub-groupings may include actions concerning county officials, the Board of County Commissioners, occupational licensing boards, canals, mines, and timber.<lb/><lb/>See also Court Records subseries 328, Executions; series 10, Miscellaneous Records, subseries 924, Personal Accounts, for merchant account related to bankruptcy filings; and/or series 10, subseries 928, Miscellaneous Records, for loose civil case files, if available.</p>
+          </scopecontent>
+          <c03 id="subgrp31" level="subgrp">
+            <did>
+              <unittitle encodinganalog="title">Civil Action Papers</unittitle>
+              <unitid type="local ID">CR.001.325</unitid>
+              <unitid identifier="1977.08.08" type="Accession Number" label="Accession Number">1977.08.08</unitid>
+              <unitid identifier="201.30.1" type="Mars ID" label="Mars ID">201.30.1</unitid>
+              <unitid identifier="201.30.1" type="Old Mars ID" label="Old Mars ID">201.30.1</unitid>
+              <unitid identifier="2015.4.33" type="Accession Number" label="Accession Number">2015.4.33</unitid>
+              <unitid identifier="CR.001.325.1 - CR.001.325.2" type="Call Number" label="Location: ST 302">CR.001.325.1 - CR.001.325.2</unitid>
+              <unitid identifier="CR.001.325._" type="Call Number" label="Location: RC 3.23.G.27-62">CR.001.325._</unitid>
+              <unitdate encodinganalog="date" type="inclusive" normal="1870/1968">1870-1968</unitdate>
+              <origination label="creator">
+                <corpname role="Originator">Alamance County (N.C.). Clerk of Superior Court.</corpname>
+              </origination>
+              <origination label="Creator">
+                <corpname role="Author">Clerk of Superior Court</corpname>
+              </origination>
+            </did>
+            <acqinfo>
+              <p>Transferred According to Retention Schedule</p>
+            </acqinfo>
+            <arrangement>
+              <head>Arrangement</head>
+              <p>Chronological</p>
+            </arrangement>
+            <accessrestrict>
+              <head>Access Restriction</head>
+              <p>Unprocessed county records require additional time to pull. Access to these records on Saturdays requires prior arrangements. Please consult the reference staff for more information.</p>
+            </accessrestrict>
+            <custodhist>
+              <p>Clerk of Superior Court</p>
+            </custodhist>
+            <scopecontent>
+              <head>Scope and Content</head>
+              <p>Processed records include 2 Fibredex boxes of files dated 1870-1939, 1957 and arranged chronologically.<lb/><lb/>Unprocessed records include 131 cartons of files dated 1901-1968 and boxed in file number order.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="subgrp32" level="subgrp">
+            <did>
+              <unittitle encodinganalog="title">Civil Action Papers Concerning Land</unittitle>
+              <unitid type="local ID">CR.001.325</unitid>
+              <unitid identifier="1977.08.08" type="Accession Number" label="Accession Number">1977.08.08</unitid>
+              <unitid identifier="201.30.2" type="Mars ID" label="Mars ID">201.30.2</unitid>
+              <unitid identifier="201.30.2" type="Old Mars ID" label="Old Mars ID">201.30.2</unitid>
+              <unitid identifier="CR.001.325.3 - CR.001.325.4" type="Call Number" label="Location: ST 302">CR.001.325.3 - CR.001.325.4</unitid>
+              <unitdate encodinganalog="date" type="inclusive" normal="1877/1915">1877-1915</unitdate>
+              <origination label="creator">
+                <corpname role="Originator">Alamance County (N.C.). Clerk of Superior Court.</corpname>
+              </origination>
+              <origination label="Creator">
+                <corpname role="Author">Clerk of Superior Court</corpname>
+              </origination>
+            </did>
+            <acqinfo>
+              <p>Transferred According to Retention Schedule</p>
+            </acqinfo>
+            <arrangement>
+              <head>Arrangement</head>
+              <p>Chronological</p>
+            </arrangement>
+            <custodhist>
+              <p>Clerk of Superior Court</p>
+            </custodhist>
+          </c03>
+          <c03 id="subgrp33" level="subgrp">
+            <did>
+              <unittitle encodinganalog="title">Civil Action Papers, County Court</unittitle>
+              <unitid type="local ID">CR.001.325</unitid>
+              <unitid identifier="201.30.3" type="Mars ID" label="Mars ID">201.30.3</unitid>
+              <unitid identifier="2017.11.62" type="Accession Number" label="Accession Number">2017.11.62</unitid>
+              <unitid identifier="2018.8.3" type="Accession Number" label="Accession Number">2018.8.3</unitid>
+              <unitid identifier="CR.001.325" type="Call Number" label="Location: RC 3.23.G.9-26">CR.001.325</unitid>
+              <unitdate encodinganalog="date" type="inclusive" normal="1926/1968">1926-1968</unitdate>
+              <origination label="creator">
+                <corpname role="Originator">Alamance County (N.C.). Clerk of Superior Court.</corpname>
+              </origination>
+              <origination label="Creator">
+                <corpname role="Author">Clerk of Superior Court</corpname>
+              </origination>
+            </did>
+            <arrangement>
+              <head>Arrangement</head>
+              <p>File number</p>
+            </arrangement>
+            <accessrestrict>
+              <head>Access Restriction</head>
+              <p>Unprocessed county records require additional time to pull. Access to these records on Saturdays requires prior arrangements. Please consult the reference staff for more information.</p>
+            </accessrestrict>
+            <scopecontent>
+              <head>Scope and Content</head>
+              <p>Unprocessed County Court civil action papers (1926-1968) are in roughly file number order (#1-7004) and housed in 26 record center boxes.</p>
+            </scopecontent>
+          </c03>
+        </c02>
+        <c02 id="subseries5625" level="subseries">
+          <did>
+            <unittitle encodinganalog="title">Minute Dockets, Lower Courts</unittitle>
+            <unitid type="local ID">CR.001.331</unitid>
+            <unitid identifier="201.34" type="Mars ID" label="Mars ID">201.34</unitid>
+            <unitid identifier="201.34" type="Old Mars ID" label="Old Mars ID">201.34</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1877/1968">1877-1968</unitdate>
+            <physdesc>
+              <genreform>Minutes</genreform>
+            </physdesc>
+            <origination label="creator">
+              <corpname role="Originator">Alamance County (N.C.)</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Originator">Clerk of Superior Court; Clerk of Court of Pleas and Quarter Sessions; Register of Deeds</corpname>
+            </origination>
+          </did>
+          <scopecontent>
+            <head>Scope and Content</head>
+            <p>Includes Minute Dockets from inferior courts.</p>
+          </scopecontent>
+          <c03 id="subgrp57" level="subgrp">
+            <did>
+              <unittitle encodinganalog="title">Minute Docket, Inferior Court</unittitle>
+              <unitid type="local ID">CR.001.331</unitid>
+              <unitid identifier="1996.5.9" type="Accession Number" label="Accession Number">1996.5.9</unitid>
+              <unitid identifier="201.34.1" type="Mars ID" label="Mars ID">201.34.1</unitid>
+              <unitid identifier="201.34.1" type="Old Mars ID" label="Old Mars ID">201.34.1</unitid>
+              <unitid identifier="CR.001.331.1" type="Call Number" label="Location: ST 302">CR.001.331.1</unitid>
+              <unitdate encodinganalog="date" type="inclusive" normal="1877/1879">1877-1879</unitdate>
+              <origination label="creator">
+                <corpname role="Originator">Alamance County (N.C.). Clerk of Superior Court.</corpname>
+              </origination>
+              <origination label="Creator">
+                <corpname role="Author">Clerk of Superior Court</corpname>
+              </origination>
+            </did>
+            <acqinfo>
+              <p>Transferred According to Retention Schedule</p>
+            </acqinfo>
+            <arrangement>
+              <head>Arrangement</head>
+              <p>Chronological</p>
+            </arrangement>
+            <custodhist>
+              <p>Clerk of Superior Court</p>
+            </custodhist>
+          </c03>
+          <c03 id="subgrp58" level="subgrp">
+            <did>
+              <unittitle encodinganalog="title">Minute Docket, General County Court</unittitle>
+              <unitid type="local ID">CR.001.331</unitid>
+              <unitid identifier="201.34.2" type="Mars ID" label="Mars ID">201.34.2</unitid>
+              <unitid identifier="2012.7.127" type="Accession Number" label="Accession Number">2012.7.127</unitid>
+              <unitid identifier="CR.001.331.2 - CR.001.331.16" type="Call Number" label="Location: ST 302">CR.001.331.2 - CR.001.331.16</unitid>
+              <unitdate encodinganalog="date" type="inclusive" normal="1926/1968">1926-1968</unitdate>
+              <origination label="creator">
+                <corpname role="Originator">Alamance County (N.C.)</corpname>
+              </origination>
+            </did>
+            <arrangement>
+              <head>Arrangement</head>
+              <p>Chronological</p>
+            </arrangement>
+            <custodhist>
+              <p>Alamance County Clerk of Superior Court</p>
+            </custodhist>
+            <scopecontent>
+              <head>Scope and Content</head>
+              <p>Vols. 1-15</p>
+            </scopecontent>
+          </c03>
+          <c03 id="subgrp59" level="subgrp">
+            <did>
+              <unittitle encodinganalog="title">Minute Docket, Municipal Recorders Court</unittitle>
+              <unitid type="local ID">CR.001.331</unitid>
+              <unitid identifier="201.34.3" type="Mars ID" label="Mars ID">201.34.3</unitid>
+              <unitid identifier="2014.4.49" type="Accession Number" label="Accession Number">2014.4.49</unitid>
+              <unitid identifier="CR.001.331.17" type="Call Number" label="Location: ST 302">CR.001.331.17</unitid>
+              <unitdate encodinganalog="date" type="inclusive" normal="1962/1964">1962-1964</unitdate>
+              <origination label="creator">
+                <corpname role="Originator">Alamance County (N.C.). Clerk of Superior Court.</corpname>
+              </origination>
+              <origination label="Creator">
+                <corpname role="Author">Clerk of Superior Court</corpname>
+              </origination>
+            </did>
+            <arrangement>
+              <head>Arrangement</head>
+              <p>Chronological</p>
+            </arrangement>
+            <scopecontent>
+              <head>Scope and Content</head>
+              <p>Volume titled Municipal Recorders Court Minute Book Number 2</p>
+            </scopecontent>
+          </c03>
+        </c02>
+        <c02 id="subseries5626" level="subseries">
+          <did>
+            <unittitle encodinganalog="title">Criminal Dockets, Lower Courts</unittitle>
+            <unitid type="local ID">CR.001.332</unitid>
+            <unitid identifier="201.105" type="Mars ID" label="Mars ID">201.105</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1947/1968">1947-1968</unitdate>
+            <origination label="creator">
+              <corpname role="Originator">Alamance County (N.C.). Clerk of Superior Court.</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Author">Register of Deeds</corpname>
+            </origination>
+          </did>
+          <scopecontent>
+            <head>Scope and Content</head>
+            <p>Includes criminal issues docket, judgment docket, execution docket, clerk's minute docket, costs docket and half fee docket from various inferior courts.</p>
+          </scopecontent>
+          <c03 id="subgrp60" level="subgrp">
+            <did>
+              <unittitle encodinganalog="title">Criminal Docket, General County Court</unittitle>
+              <unitid type="local ID">CR.001.332</unitid>
+              <unitid identifier="201.105.1" type="Mars ID" label="Mars ID">201.105.1</unitid>
+              <unitid identifier="2014.4.47" type="Accession Number" label="Accession Number">2014.4.47</unitid>
+              <unitid identifier="CR.001.332.1 - CR.001.332.5" type="Call Number" label="Location: ST 302">CR.001.332.1 - CR.001.332.5</unitid>
+              <unitdate encodinganalog="date" type="inclusive" normal="1947/1968">1947-1968</unitdate>
+              <origination label="creator">
+                <corpname role="Originator">Alamance County (N.C.). Clerk of Superior Court.</corpname>
+              </origination>
+              <origination label="Creator">
+                <corpname role="Author">Clerk of Superior Court</corpname>
+              </origination>
+            </did>
+            <arrangement>
+              <head>Arrangement</head>
+              <p>Chronological</p>
+            </arrangement>
+            <scopecontent>
+              <head>Scope and Content</head>
+              <p>General County Court Criminal Dockets: v.6 1945-1947; v.7 1947-1949; v.8 1949-1953; v.9 1953-1968; v.10 1968 (also contains minutes for vol. 16)</p>
+            </scopecontent>
+          </c03>
+        </c02>
+        <c02 id="subseries5624" level="subseries">
+          <did>
+            <unittitle encodinganalog="title">Justices of Peace and Magistrates, Lists and Records of</unittitle>
+            <unitid type="local ID">CR.001.917</unitid>
+            <unitid identifier="201.113" type="Mars ID" label="Mars ID">201.113</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1885/1897">1885-1897</unitdate>
+            <origination label="creator">
+              <corpname role="Originator">Alamance County (N.C.). Clerk of Superior Court.</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Author">Clerk of Superior Court</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Author">Register of Deeds</corpname>
+            </origination>
+          </did>
+          <scopecontent>
+            <head>Scope and Content</head>
+            <p>Records concerning the appointment, election, qualification, and resignation of Justices of the Peace. </p>
+          </scopecontent>
+          <c03 id="subgrp55" level="subgrp">
+            <did>
+              <unittitle encodinganalog="title">Record of Magistrates, Election and Oath</unittitle>
+              <unitid type="local ID">CR.001.917</unitid>
+              <unitid identifier="201.113.1" type="Mars ID" label="Mars ID">201.113.1</unitid>
+              <unitid identifier="2014.4.68" type="Accession Number" label="Accession Number">2014.4.68</unitid>
+              <unitid identifier="CR.001.917.2" type="Call Number" label="Location: ST 302">CR.001.917.2</unitid>
+              <unitdate encodinganalog="date" type="inclusive" normal="1889/1895">1889-1895</unitdate>
+              <origination label="creator">
+                <corpname role="Originator">Alamance County (N.C.). Clerk of Superior Court.</corpname>
+              </origination>
+              <origination label="Creator">
+                <corpname role="Author">Clerk of Superior Court</corpname>
+              </origination>
+            </did>
+            <arrangement>
+              <head>Arrangement</head>
+              <p>Chronological</p>
+            </arrangement>
+          </c03>
+          <c03 id="subgrp56" level="subgrp">
+            <did>
+              <unittitle encodinganalog="title">Record of Magistrates</unittitle>
+              <unitid type="local ID">CR.001.917</unitid>
+              <unitid identifier="201.113.2" type="Mars ID" label="Mars ID">201.113.2</unitid>
+              <unitid identifier="2014.4.67" type="Accession Number" label="Accession Number">2014.4.67</unitid>
+              <unitid identifier="CR.001.917.1" type="Call Number" label="Location: ST 302">CR.001.917.1</unitid>
+              <unitdate encodinganalog="date" type="inclusive" normal="1885/1897">1885-1897</unitdate>
+              <origination label="creator">
+                <corpname role="Originator">Alamance County (N.C.). Clerk of Superior Court.</corpname>
+              </origination>
+              <origination label="Creator">
+                <corpname role="Author">Clerk of Superior Court</corpname>
+              </origination>
+            </did>
+            <arrangement>
+              <head>Arrangement</head>
+              <p>Chronological</p>
+            </arrangement>
+          </c03>
+        </c02>
+        <c02 id="subseries5627" level="subseries">
+          <did>
+            <unittitle encodinganalog="title">Inebriates, Lunacy, and Judicial Hospitalizations Records</unittitle>
+            <unitid type="local ID">CR.001.919</unitid>
+            <unitid identifier="201.94" type="Mars ID" label="Mars ID">201.94</unitid>
+            <unitid identifier="201.94" type="Old Mars ID" label="Old Mars ID">201.94</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1900/1972">1900-1972</unitdate>
+            <origination label="creator">
+              <corpname role="Originator">Alamance County (N.C.)</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Originator">Clerk of Superior Court; Clerk of Court of Pleas and Quarter Sessions; Register of Deeds</corpname>
+            </origination>
+          </did>
+          <scopecontent>
+            <head>Scope and Content</head>
+            <p>Records include documentation of hearings for commitment of insane persons and inebriates, listing the name of the alleged lunatic, oaths of parties testifying to his/her lunacy, and copies of the clerk's order of commitment and the superintendent of the state hospital's order of release. These records are restricted by NCGS 122C-207. Records will be open 100 years from date of record per NCGS 132-11.<lb/><lb/>See also Court Records subseries 922, Orders and Decrees and Special Proceedings.<lb/></p>
+          </scopecontent>
+          <c03 id="subgrp61" level="subgrp">
+            <did>
+              <unittitle encodinganalog="title">Record of Inquisition of Lunacy</unittitle>
+              <unitid type="local ID">CR.001.919</unitid>
+              <unitid identifier="201.94.1" type="Mars ID" label="Mars ID">201.94.1</unitid>
+              <unitid identifier="2012.7.128" type="Accession Number" label="Accession Number">2012.7.128</unitid>
+              <unitid identifier="2012.7.129" type="Accession Number" label="Accession Number">2012.7.129</unitid>
+              <unitid identifier="2012.7.130" type="Accession Number" label="Accession Number">2012.7.130</unitid>
+              <unitid identifier="2012.7.131" type="Accession Number" label="Accession Number">2012.7.131</unitid>
+              <unitid identifier="2012.7.132" type="Accession Number" label="Accession Number">2012.7.132</unitid>
+              <unitid identifier="CR.001.919.1 - CR.001.919.7" type="Call Number" label="Location: ST 302">CR.001.919.1 - CR.001.919.7</unitid>
+              <unitdate encodinganalog="date" type="inclusive" normal="1900/1972">1900-1972</unitdate>
+              <origination label="creator">
+                <corpname role="Originator">Alamance County (N.C.)</corpname>
+              </origination>
+            </did>
+            <arrangement>
+              <head>Arrangement</head>
+              <p>Chronological</p>
+            </arrangement>
+            <accessrestrict>
+              <head>Access Restriction</head>
+              <p>Court records pertaining to judicial hospitalizations are closed per NCGS 122C-207. Records will be open 100 years from date of record per NCGS 132-11.</p>
+            </accessrestrict>
+            <custodhist>
+              <p>Alamance County Clerk of Superior Court</p>
+            </custodhist>
+            <scopecontent>
+              <head>Scope and Content</head>
+              <p>CR.001.919.1: Record of Inquisition of Lunacy volume 1, 1900-1922<lb/>CR.001.919.2: Lunacy Record volume 2, 1922-1934<lb/>CR.001.919.3-5: Inquisition of Lunacy volumes 3-5, 1934-1959<lb/>CR.001.919.6: Lunacy Docket volume 6, 1958-1964<lb/>CR.001.919.7: Record of Judicial Hospitalization volume 7, 1964-1972</p>
+            </scopecontent>
+          </c03>
+          <c03 id="subgrp62" level="subgrp">
+            <did>
+              <unittitle encodinganalog="title">Inquisition of Inebriates</unittitle>
+              <unitid type="local ID">CR.001.919</unitid>
+              <unitid identifier="201.94.6" type="Mars ID" label="Mars ID">201.94.6</unitid>
+              <unitid identifier="2012.7.133" type="Accession Number" label="Accession Number">2012.7.133</unitid>
+              <unitid identifier="CR.001.919.8" type="Call Number" label="Location: ST 302">CR.001.919.8</unitid>
+              <unitdate encodinganalog="date" type="inclusive" normal="1940/1963">1940-1963</unitdate>
+              <origination label="creator">
+                <corpname role="Originator">Alamance County (N.C.)</corpname>
+              </origination>
+            </did>
+            <arrangement>
+              <head>Arrangement</head>
+              <p>Chronological</p>
+            </arrangement>
+            <accessrestrict>
+              <head>Access Restriction</head>
+              <p>Court records pertaining to judicial hospitalizations are closed per NCGS 122C-207. Records will be open 100 years from date of record per NCGS 132-11.</p>
+            </accessrestrict>
+            <custodhist>
+              <p>Alamance County Clerk of Superior Court</p>
+            </custodhist>
+          </c03>
+          <c03 id="subgrp63" level="subgrp">
+            <did>
+              <unittitle encodinganalog="title">Lunacy Records</unittitle>
+              <unitid type="local ID">CR.001.919</unitid>
+              <unitid identifier="201.94.7" type="Mars ID" label="Mars ID">201.94.7</unitid>
+              <unitid identifier="2017.3.6" type="Accession Number" label="Accession Number">2017.3.6</unitid>
+              <unitdate encodinganalog="date" type="inclusive" normal="1901/1968">1901-1968</unitdate>
+              <origination label="creator">
+                <corpname role="Originator">Alamance County (N.C.). Clerk of Superior Court.</corpname>
+              </origination>
+              <origination label="Creator">
+                <corpname role="Author">Clerk of Superior Court</corpname>
+              </origination>
+            </did>
+            <arrangement>
+              <head>Arrangement</head>
+              <p>Unprocessed; chronological</p>
+            </arrangement>
+            <accessrestrict>
+              <head>Access Restriction</head>
+              <p>Court records pertaining to judicial hospitalizations are closed per NCGS 122C-207. Records will be open 100 years from date of record per NCGS 132-11.</p>
+            </accessrestrict>
+          </c03>
+        </c02>
+        <c02 id="subseries5628" level="subseries">
+          <did>
+            <unittitle encodinganalog="title">Orders and Decrees and Special Proceedings</unittitle>
+            <unitid type="local ID">CR.001.922</unitid>
+            <unitid identifier="201.109" type="Mars ID" label="Mars ID">201.109</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1869/1968">1869-1968</unitdate>
+            <origination label="creator">
+              <corpname role="Originator">Alamance County (N.C.). Clerk of Superior Court.</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Author">Clerk of Superior Court</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Author">Register of Deeds</corpname>
+            </origination>
+          </did>
+          <scopecontent>
+            <head>Scope and Content</head>
+            <p>Includes records created in hearings before the clerk. These have sometimes been distributed among other series of records based on subject: see also Court Records subseries 919, Inebriates, Lunacy, and Judicial Hospitalizations Records; series 4, Land and Property Records; series 5, Estates Records; and series 6, Marriage, Divorce, and Vital Statistics, subseries 604, Divorce Records, and subseries 901, Adoption Records, if available.</p>
+          </scopecontent>
+          <c03 id="subgrp64" level="subgrp">
+            <did>
+              <unittitle encodinganalog="title">Minute Docket, Special Proceedings</unittitle>
+              <unitid type="local ID">CR.001.922</unitid>
+              <unitid identifier="201.109.5" type="Mars ID" label="Mars ID">201.109.5</unitid>
+              <unitid identifier="2014.4.72" type="Accession Number" label="Accession Number">2014.4.72</unitid>
+              <unitid identifier="CR.001.922.1 - CR.001.922.9" type="Call Number" label="Location: ST 302">CR.001.922.1 - CR.001.922.9</unitid>
+              <unitdate encodinganalog="date" type="inclusive" normal="1891/1952">1891-1952</unitdate>
+              <origination label="creator">
+                <corpname role="Originator">Alamance County (N.C.). Clerk of Superior Court.</corpname>
+              </origination>
+              <origination label="Creator">
+                <corpname role="Author">Clerk of Superior Court</corpname>
+              </origination>
+            </did>
+            <arrangement>
+              <head>Arrangement</head>
+              <p>Chronological</p>
+            </arrangement>
+            <scopecontent>
+              <head>Scope and Content</head>
+              <p>v3 1891-1898; v4 1897-1908; v5 1907-1913; v6 1913-1918; v7 1918-1923; v8 1923-1935; v9 1938-1946; v10 1946-1949; v11 1949-1952</p>
+            </scopecontent>
+          </c03>
+          <c03 id="subgrp65" level="subgrp">
+            <did>
+              <unittitle encodinganalog="title">Summons Docket, Special Proceedings</unittitle>
+              <unitid type="local ID">CR.001.922</unitid>
+              <unitid identifier="201.109.3" type="Mars ID" label="Mars ID">201.109.3</unitid>
+              <unitid identifier="2014.4.58" type="Accession Number" label="Accession Number">2014.4.58</unitid>
+              <unitid identifier="CR.001.922.12 - CR.001.922.15" type="Call Number" label="Location: ST 303">CR.001.922.12 - CR.001.922.15</unitid>
+              <unitdate encodinganalog="date" type="inclusive" normal="1877/1954">1877-1954</unitdate>
+              <origination label="creator">
+                <corpname role="Originator">Alamance County (N.C.). Clerk of Superior Court.</corpname>
+              </origination>
+              <origination label="Creator">
+                <corpname role="Author">Clerk of Superior Court</corpname>
+              </origination>
+            </did>
+            <arrangement>
+              <head>Arrangement</head>
+              <p>Chronological</p>
+            </arrangement>
+            <scopecontent>
+              <head>Scope and Content</head>
+              <p>v1 1877-1921; v2 1921-1939; v3 1939-1949; v4 1949-1954</p>
+            </scopecontent>
+          </c03>
+          <c03 id="subgrp66" level="subgrp">
+            <did>
+              <unittitle encodinganalog="title">Special Proceedings Papers</unittitle>
+              <unitid type="local ID">CR.001.922</unitid>
+              <unitid identifier="201.109.7" type="Mars ID" label="Mars ID">201.109.7</unitid>
+              <unitid identifier="2017.11.60" type="Accession Number" label="Accession Number">2017.11.60</unitid>
+              <unitid identifier="CR.001.922" type="Call Number" label="Location: RC 3.23.F.21-59">CR.001.922</unitid>
+              <unitdate encodinganalog="date" type="inclusive" normal="1903/1965">1903-1965</unitdate>
+              <origination label="creator">
+                <corpname role="Originator">Alamance County (N.C.). Clerk of Superior Court.</corpname>
+              </origination>
+              <origination label="Creator">
+                <corpname role="Author">Clerk of Superior Court</corpname>
+              </origination>
+            </did>
+            <arrangement>
+              <head>Arrangement</head>
+              <p>File number</p>
+            </arrangement>
+            <accessrestrict>
+              <head>Access Restriction</head>
+              <p>Unprocessed county records require additional time to pull. Access to these records on Saturdays requires prior arrangements. Please consult the reference staff for more information.</p>
+            </accessrestrict>
+            <scopecontent>
+              <head>Scope and Content</head>
+              <p>Unprocessed special proceedings papers (1903-1965) are in file number order (#467-4647) and housed in 36 record center boxes.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="subgrp67" level="subgrp">
+            <did>
+              <unittitle encodinganalog="title">Special Proceedings, Current</unittitle>
+              <unitid type="local ID">CR.001.922</unitid>
+              <unitid identifier="201.109.1" type="Mars ID" label="Mars ID">201.109.1</unitid>
+              <unitid identifier="2014.4.53" type="Accession Number" label="Accession Number">2014.4.53</unitid>
+              <unitid identifier="CR.001.922.21" type="Call Number" label="Location: ST 303">CR.001.922.21</unitid>
+              <unitdate encodinganalog="date" type="inclusive" normal="1955/1968">1955-1968</unitdate>
+              <origination label="creator">
+                <corpname role="Originator">Alamance County (N.C.). Clerk of Superior Court.</corpname>
+              </origination>
+              <origination label="Creator">
+                <corpname role="Author">Clerk of Superior Court</corpname>
+              </origination>
+            </did>
+            <arrangement>
+              <head>Arrangement</head>
+              <p>Chronological</p>
+            </arrangement>
+          </c03>
+          <c03 id="subgrp68" level="subgrp">
+            <did>
+              <unittitle encodinganalog="title">Orders and Decrees Papers</unittitle>
+              <unitid type="local ID">CR.001.922</unitid>
+              <unitid identifier="201.109.6" type="Mars ID" label="Mars ID">201.109.6</unitid>
+              <unitid identifier="2017.6.166" type="Accession Number" label="Accession Number">2017.6.166</unitid>
+              <unitid identifier="CR.001.922" type="Call Number" label="Location: RC 3.23.G.89">CR.001.922</unitid>
+              <unitdate encodinganalog="date" type="inclusive" normal="1905/1954">1905-1954</unitdate>
+              <origination label="creator">
+                <corpname role="Originator">Alamance County (N.C.). Clerk of Superior Court.</corpname>
+              </origination>
+              <origination label="Creator">
+                <corpname role="Author">Clerk of Superior Court</corpname>
+              </origination>
+            </did>
+            <arrangement>
+              <head>Arrangement</head>
+              <p>Unprocessed</p>
+            </arrangement>
+            <accessrestrict>
+              <head>Access Restriction</head>
+              <p>Unprocessed county records require additional time to pull. Access to these records on Saturdays requires prior arrangements. Please consult the reference staff for more information.</p>
+            </accessrestrict>
+            <scopecontent>
+              <head>Scope and Content</head>
+              <p>Unprocessed orders and decrees (1905-1954) are in roughly book and file number order and housed in 1 archival document box.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="subgrp69" level="subgrp">
+            <did>
+              <unittitle encodinganalog="title">Orders and Decrees &amp; Petition</unittitle>
+              <unitid type="local ID">CR.001.922</unitid>
+              <unitid identifier="201.109.2" type="Mars ID" label="Mars ID">201.109.2</unitid>
+              <unitid identifier="2014.4.54" type="Accession Number" label="Accession Number">2014.4.54</unitid>
+              <unitid identifier="2014.4.71" type="Accession Number" label="Accession Number">2014.4.71</unitid>
+              <unitid identifier="CR.001.922.10" type="Call Number" label="Location: ST 302">CR.001.922.10</unitid>
+              <unitid identifier="CR.001.922.11" type="Call Number" label="Location: ST 303">CR.001.922.11</unitid>
+              <unitdate encodinganalog="date" type="inclusive" normal="1869/1964">1869-1964</unitdate>
+              <origination label="creator">
+                <corpname role="Originator">Alamance County (N.C.). Clerk of Superior Court.</corpname>
+              </origination>
+              <origination label="Creator">
+                <corpname role="Author">Clerk of Superior Court</corpname>
+              </origination>
+            </did>
+            <arrangement>
+              <head>Arrangement</head>
+              <p>Chronological</p>
+            </arrangement>
+            <scopecontent>
+              <head>Scope and Content</head>
+              <p>Volume, CR.001.922.10, 1869-1930;<lb/>Volume 2, CR.001.922.11, 1932-1964</p>
+            </scopecontent>
+          </c03>
+        </c02>
+      </c01>
+      <c01 id="series44011" level="series">
+        <did>
+          <unittitle encodinganalog="title">Land and Property Records</unittitle>
+          <unitid type="local ID">CR.001.4</unitid>
+          <origination label="creator">
+            <corpname role="Originator">Alamance County (N.C.)</corpname>
+          </origination>
+          <origination label="Creator">
+            <corpname role="Originator">Clerk of Superior Court; Clerk of Court of Pleas and Quarter Sessions; Register of Deeds</corpname>
+          </origination>
+        </did>
+        <scopecontent>
+          <head>Scope and Content</head>
+          <p>This series contains records related to ownership, transfer, and taxing of land and property.<lb/></p>
+        </scopecontent>
+        <c02 id="subseries5502" level="subseries">
+          <did>
+            <unittitle encodinganalog="title">Deeds</unittitle>
+            <unitid type="local ID">CR.001.401</unitid>
+            <unitid identifier="1964.03.18" type="Accession Number" label="Accession Number">1964.03.18</unitid>
+            <unitid identifier="201.36.1" type="Mars ID" label="Mars ID">201.36.1</unitid>
+            <unitid identifier="201.36.1" type="Old Mars ID" label="Old Mars ID">201.36.1</unitid>
+            <unitid identifier="CR.001.401.1 - CR.001.401.2" type="Call Number" label="Location: ST 302">CR.001.401.1 - CR.001.401.2</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1793/1905">1793-1905</unitdate>
+            <container id="cid1135429" label="CR.001.401.001" type="Box">Deeds</container>
+            <container id="cid1135430" label="CR.001.401.002" type="Box">Deeds</container>
+            <origination label="creator">
+              <corpname role="Originator">Alamance County (N.C.)</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Author">Duke University</corpname>
+            </origination>
+          </did>
+          <arrangement>
+            <head>Arrangement</head>
+            <p>Alphabetical</p>
+          </arrangement>
+          <custodhist>
+            <p>Duke University</p>
+          </custodhist>
+          <scopecontent>
+            <head>Scope and Content</head>
+            <p>Records may include Record of Deeds (volumes), Index to Deeds (volumes), and original deeds left in the courthouse after being deposited with the clerk for probate and recording. These loose deeds can include various types such as deeds of sale, deeds of trust, mortgage deeds, and quitclaim (or release) deeds. Within these records, the seller is commonly referred to as the grantor, the buyer as grantee.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="subseries5621" level="subseries">
+          <did>
+            <unittitle encodinganalog="title">Land Sales for Taxes</unittitle>
+            <unitid type="local ID">CR.001.407</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1929/1968">1929-1968</unitdate>
+            <origination label="creator">
+              <corpname role="Originator">Alamance County (N.C.). Clerk of Superior Court.</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Originator">Duke University</corpname>
+            </origination>
+          </did>
+          <scopecontent>
+            <head>Scope and Content</head>
+            <p>Records may include volumes and/or papers pertaining to the sale of land for nonpayment of taxes.<lb/></p>
+          </scopecontent>
+          <c03 id="subgrp48" level="subgrp">
+            <did>
+              <unittitle encodinganalog="title">Summons Docket, Land Tax Sales</unittitle>
+              <unitid type="local ID">CR.001.407</unitid>
+              <unitid identifier="201.106.3" type="Mars ID" label="Mars ID">201.106.3</unitid>
+              <unitid identifier="2014.4.73" type="Accession Number" label="Accession Number">2014.4.73</unitid>
+              <unitid identifier="CR.001.407.8 - CR.001.407.9" type="Call Number" label="Location: ST 302">CR.001.407.8 - CR.001.407.9</unitid>
+              <unitdate encodinganalog="date" type="inclusive" normal="1929/1964">1929-1964</unitdate>
+              <container id="cid1135431" label="CR.001.407.008" type="Item">Land Tax Sale Summons Docket</container>
+              <container id="cid1135432" label="CR.001.407.009" type="Item">Land Tax Sale Summons Docket</container>
+              <origination label="creator">
+                <corpname role="Originator">Alamance County (N.C.). Clerk of Superior Court.</corpname>
+              </origination>
+              <origination label="Creator">
+                <corpname role="Author">Clerk of Superior Court</corpname>
+              </origination>
+            </did>
+            <arrangement>
+              <head>Arrangement</head>
+              <p>Chronological</p>
+            </arrangement>
+            <scopecontent>
+              <head>Scope and Content</head>
+              <p>Land Tax Sale Summons Dockets: v1 1929-1934; v2 1940-1964</p>
+            </scopecontent>
+          </c03>
+          <c03 id="subgrp49" level="subgrp">
+            <did>
+              <unittitle encodinganalog="title">Judgment Docket Tax</unittitle>
+              <unitid type="local ID">CR.001.407</unitid>
+              <unitid identifier="201.106.2" type="Mars ID" label="Mars ID">201.106.2</unitid>
+              <unitid identifier="2014.4.51" type="Accession Number" label="Accession Number">2014.4.51</unitid>
+              <unitid identifier="CR.001.407.1 - CR.001.407.5" type="Call Number" label="Location: ST 302">CR.001.407.1 - CR.001.407.5</unitid>
+              <unitdate encodinganalog="date" type="inclusive" normal="1958/1968">1958-1968</unitdate>
+              <container id="cid1135433" label="CR.001.407.001" type="Item">Tax Judgment Docket</container>
+              <container id="cid1135434" label="CR.001.407.002" type="Item">Tax Judgment Docket</container>
+              <container id="cid1135435" label="CR.001.407.003" type="Item">Tax Judgment Docket</container>
+              <container id="cid1135436" label="CR.001.407.004" type="Item">Tax Judgment Docket</container>
+              <container id="cid1135437" label="CR.001.407.005" type="Item">Tax Judgment Docket</container>
+              <origination label="creator">
+                <corpname role="Originator">Alamance County (N.C.). Clerk of Superior Court.</corpname>
+              </origination>
+              <origination label="Creator">
+                <corpname role="Author">Clerk of Superior Court</corpname>
+              </origination>
+            </did>
+            <arrangement>
+              <head>Arrangement</head>
+              <p>Chronological</p>
+            </arrangement>
+            <scopecontent>
+              <head>Scope and Content</head>
+              <p>Tax Judgment Dockets: v. 18 1958-1961; v. 22 1961-1962; v. 23 1962; v. 24 1962-1967; v. 29 1967-1968</p>
+            </scopecontent>
+          </c03>
+          <c03 id="subgrp50" level="subgrp">
+            <did>
+              <unittitle encodinganalog="title">Judgment Docket Land Tax Sales</unittitle>
+              <unitid type="local ID">CR.001.407</unitid>
+              <unitid identifier="201.106.1" type="Mars ID" label="Mars ID">201.106.1</unitid>
+              <unitid identifier="2014.4.48" type="Accession Number" label="Accession Number">2014.4.48</unitid>
+              <unitid identifier="CR.001.407.6 - CR.001.407.7" type="Call Number" label="Location: ST 302">CR.001.407.6 - CR.001.407.7</unitid>
+              <unitdate encodinganalog="date" type="inclusive" normal="1930/1967">1930-1967</unitdate>
+              <container id="cid1135497" label="CR.001.407.006" type="Item">Judgment Docket Land Tax Sales</container>
+              <container id="cid1135498" label="CR.001.407.007" type="Item">Judgment Docket Land Tax Sales</container>
+              <origination label="creator">
+                <corpname role="Originator">Alamance County (N.C.). Clerk of Superior Court.</corpname>
+              </origination>
+              <origination label="Creator">
+                <corpname role="Author">Clerk of Superior Court</corpname>
+              </origination>
+            </did>
+            <arrangement>
+              <head>Arrangement</head>
+              <p>Chronological</p>
+            </arrangement>
+            <scopecontent>
+              <head>Scope and Content</head>
+              <p>v.1 1930-1952, v.3 1943-1967</p>
+            </scopecontent>
+          </c03>
+          <c03 id="subgrp51" level="subgrp">
+            <did>
+              <unittitle encodinganalog="title">Tax Suits</unittitle>
+              <unitid type="local ID">CR.001.407</unitid>
+              <unitid identifier="201.106.4" type="Mars ID" label="Mars ID">201.106.4</unitid>
+              <unitid identifier="2018.7.92" type="Accession Number" label="Accession Number">2018.7.92</unitid>
+              <unitid identifier="CR.001.407" type="Call Number" label="Location: RC 3.23.G.62-80">CR.001.407</unitid>
+              <unitdate encodinganalog="date" type="inclusive" normal="1929/1961">1929-1961</unitdate>
+              <container id="cid1135499" label="Box 001" type="Box">Unprocessed Tax Suits</container>
+              <container id="cid1135500" label="Box 010" type="Box">Unprocessed Tax Suits</container>
+              <container id="cid1135501" label="Box 011" type="Box">Unprocessed Tax Suits</container>
+              <container id="cid1135502" label="Box 012" type="Box">Unprocessed Tax Suits</container>
+              <container id="cid1135503" label="Box 013" type="Box">Unprocessed Tax Suits</container>
+              <container id="cid1135504" label="Box 014" type="Box">Unprocessed Tax Suits</container>
+              <container id="cid1135505" label="Box 015" type="Box">Unprocessed Tax Suits</container>
+              <container id="cid1135506" label="Box 016" type="Box">Unprocessed Tax Suits</container>
+              <container id="cid1135507" label="Box 017" type="Box">Unprocessed Tax Suits</container>
+              <container id="cid1135508" label="Box 018" type="Box">Unprocessed Tax Suits</container>
+              <container id="cid1135509" label="Box 019" type="Box">Unprocessed Tax Suits</container>
+              <container id="cid1135510" label="Box 002" type="Box">Unprocessed Tax Suits</container>
+              <container id="cid1135511" label="Box 003" type="Box">Unprocessed Tax Suits</container>
+              <container id="cid1135512" label="Box 004" type="Box">Unprocessed Tax Suits</container>
+              <container id="cid1135513" label="Box 005" type="Box">Unprocessed Tax Suits</container>
+              <container id="cid1135514" label="Box 006" type="Box">Unprocessed Tax Suits</container>
+              <container id="cid1135515" label="Box 007" type="Box">Unprocessed Tax Suits</container>
+              <container id="cid1135516" label="Box 008" type="Box">Unprocessed Tax Suits</container>
+              <container id="cid1135517" label="Box 009" type="Box">Unprocessed Tax Suits</container>
+              <origination label="creator">
+                <corpname role="Originator">Alamance County (N.C.). Clerk of Superior Court.</corpname>
+              </origination>
+              <origination label="Creator">
+                <corpname role="Author">Clerk of Superior Court</corpname>
+              </origination>
+            </did>
+            <accessrestrict>
+              <head>Access Restriction</head>
+              <p>Unprocessed county records require additional time to pull. Access to these records on Saturdays requires prior arrangements. Please consult the reference staff for more information.</p>
+            </accessrestrict>
+            <scopecontent>
+              <head>Scope and Content</head>
+              <p>Organized by file number, #1-4742</p>
+            </scopecontent>
+          </c03>
+        </c02>
+        <c02 id="subseries5622" level="subseries">
+          <did>
+            <unittitle encodinganalog="title">Resale of Land and Foreclosures</unittitle>
+            <unitid type="local ID">CR.001.409</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1921/1968">1921-1968</unitdate>
+            <origination label="creator">
+              <corpname role="Originator">Alamance County (N.C.). Clerk of Superior Court.</corpname>
+            </origination>
+          </did>
+          <scopecontent>
+            <head>Scope and Content</head>
+            <p>Contains twentieth-century records of land sold under foreclosure by trustees and mortgagees. Case papers from foreclosure actions may also be filed in some counties as civil actions concerning land or as miscellaneous land records.<lb/></p>
+          </scopecontent>
+          <c03 id="subgrp52" level="subgrp">
+            <did>
+              <unittitle encodinganalog="title">Record of Resale of Land by Trustees and Mortgages</unittitle>
+              <unitid type="local ID">CR.001.409</unitid>
+              <unitid identifier="201.112.1" type="Mars ID" label="Mars ID">201.112.1</unitid>
+              <unitid identifier="2014.4.59" type="Accession Number" label="Accession Number">2014.4.59</unitid>
+              <unitid identifier="2018.7.91" type="Accession Number" label="Accession Number">2018.7.91</unitid>
+              <unitid identifier="CR.001.409" type="Call Number" label="Location: RC 3.23.G.86-87">CR.001.409</unitid>
+              <unitid identifier="CR.001.409.1 - CR.001.409.7" type="Call Number" label="Location: ST 302">CR.001.409.1 - CR.001.409.7</unitid>
+              <unitdate encodinganalog="date" type="inclusive" normal="1921/1968">1921-1968</unitdate>
+              <container id="cid1135519" label="CR.001.409.001" type="Item">Record of Resale of Land by Trustees and Mortgages</container>
+              <container id="cid1135520" label="CR.001.409.002" type="Item">Record of Resale of Land by Trustees and Mortgages</container>
+              <container id="cid1135521" label="CR.001.409.003" type="Item">Record of Resale of Land by Trustees and Mortgages</container>
+              <container id="cid1135522" label="CR.001.409.004" type="Item">Record of Resale of Land by Trustees and Mortgages</container>
+              <container id="cid1135523" label="CR.001.409.005" type="Item">Record of Resale of Land by Trustees and Mortgages</container>
+              <container id="cid1135524" label="CR.001.409.006" type="Item">Record of Resale of Land by Trustees and Mortgages</container>
+              <container id="cid1135525" label="CR.001.409.007" type="Item">Record of Resale of Land by Trustees and Mortgages</container>
+              <container id="cid1135526" label="Box 001" type="Box">Unprocessed Record of Resale of Land by Trustees and Mortgages</container>
+              <container id="cid1135527" label="Box 002" type="Box">Unprocessed Record of Resale of Land by Trustees and Mortgages</container>
+              <origination label="creator">
+                <corpname role="Originator">Alamance County (N.C.). Clerk of Superior Court.</corpname>
+              </origination>
+              <origination label="Creator">
+                <corpname role="Author">Clerk of Superior Court</corpname>
+              </origination>
+            </did>
+            <arrangement>
+              <head>Arrangement</head>
+              <p>Chronological</p>
+            </arrangement>
+            <accessrestrict>
+              <head>Access Restriction</head>
+              <p>Unprocessed county records require additional time to pull. Access to these records on Saturdays requires prior arrangements. Please consult the reference staff for more information.</p>
+            </accessrestrict>
+            <scopecontent>
+              <head>Scope and Content</head>
+              <p>Twentieth-century record of land sold under foreclosure by trustees and mortgagees. Case papers from foreclosure actions may be filed in some counties as civil actions concerning land (325) or as miscellaneous land records (408).<lb/><lb/>Processed: 1921-1961<lb/>v1 1921-1926; v2 1926-1929; v3 1929-1930; v4 1930-1933; v5 1933-1937; v6 1937-1952; v7 1951-1961<lb/><lb/>Unprocessed: 1930-1968</p>
+            </scopecontent>
+          </c03>
+          <c03 id="subgrp53" level="subgrp">
+            <did>
+              <unittitle encodinganalog="title">Record of Foreclosures</unittitle>
+              <unitid type="local ID">CR.001.409</unitid>
+              <unitid identifier="201.114.1" type="Mars ID" label="Mars ID">201.114.1</unitid>
+              <unitid identifier="2016.5.28" type="Accession Number" label="Accession Number">2016.5.28</unitid>
+              <unitid identifier="CR.001.409.8 - CR.001.409.9" type="Call Number" label="Location: ST 302">CR.001.409.8 - CR.001.409.9</unitid>
+              <unitdate encodinganalog="date" type="inclusive" normal="1961/1968">1961-1968</unitdate>
+              <container id="cid1135529" label="CR.001.409.008" type="Item">Record of Foreclosures</container>
+              <container id="cid1135530" label="CR.001.409.009" type="Item">Record of Foreclosures</container>
+              <origination label="creator">
+                <corpname role="Originator">Alamance County (N.C.). Clerk of Superior Court.</corpname>
+              </origination>
+              <origination label="Creator">
+                <corpname role="Author">Clerk of Superior Court</corpname>
+              </origination>
+            </did>
+            <arrangement>
+              <head>Arrangement</head>
+              <p>Chronological</p>
+            </arrangement>
+            <scopecontent>
+              <head>Scope and Content</head>
+              <p>CR.001.409.8 (1961-1965); CR.001.409.9 (1965-1968)</p>
+            </scopecontent>
+          </c03>
+        </c02>
+      </c01>
+      <c01 id="series44012" level="series">
+        <did>
+          <unittitle encodinganalog="title">Estates Records</unittitle>
+          <unitid type="local ID">CR.001.5</unitid>
+          <origination label="creator">
+            <corpname role="Originator">Alamance County (N.C.)</corpname>
+          </origination>
+          <origination label="Creator">
+            <corpname role="Originator">Clerk of Superior Court; Clerk of Court of Pleas and Quarter Sessions; Register of Deeds</corpname>
+          </origination>
+        </did>
+        <scopecontent>
+          <head>Scope and Content</head>
+          <p>This series contains records related to the administration of deceased persons' property. [See also series 3, Court Records, subseries 922, Orders and Decrees and Special Proceedings, and series 4, Land and Property Records, for other records related to estates.]</p>
+        </scopecontent>
+        <c02 id="subgrp36" level="subgrp">
+          <did>
+            <unittitle encodinganalog="title">Estates/Accounts, Dockets</unittitle>
+            <unitid type="local ID">CR.001.EA</unitid>
+            <unitid identifier="201.45" type="Mars ID" label="Mars ID">201.45</unitid>
+            <unitid identifier="201.45" type="Old Mars ID" label="Old Mars ID">201.45</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1849/1969">1849-1969</unitdate>
+            <physdesc>
+              <genreform>Accounts</genreform>
+            </physdesc>
+            <origination label="creator">
+              <corpname role="Originator">Alamance County (N.C.)</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Originator">Clerk of Superior Court; Clerk of Court of Pleas and Quarter Sessions; Register of Deeds</corpname>
+            </origination>
+          </did>
+          <scopecontent>
+            <head>Scope and Content</head>
+            <p>Contains bound volumes of account, inventory, and/or settlement records related to the administration and settling of deceased persons' property. These include Record of Estates (pre-1868), Record of Accounts (post-1868), Accounts of Sales and Resales of Estates, Record of Inheritance Tax, Inventories of Estates, Amounts Paid Indigent Children, and Record of Settlements. Prior to 1868, volumes entitled record of estates may include inventories, accounts and final settlements of estates, and guardians' accounts. After 1868, these volumes in most counties contain only inventories, accounts of sales and annual accounts of administrators and executors.</p>
+          </scopecontent>
+          <c03 id="subseries5561" level="subseries">
+            <did>
+              <unittitle encodinganalog="title">Record of Accounts</unittitle>
+              <unitid type="local ID">CR.001.501</unitid>
+              <unitid identifier="1989.5.24" type="Accession Number" label="Accession Number">1989.5.24</unitid>
+              <unitid identifier="201.45.1" type="Mars ID" label="Mars ID">201.45.1</unitid>
+              <unitid identifier="201.45.1" type="Old Mars ID" label="Old Mars ID">201.45.1</unitid>
+              <unitid identifier="2012.5.198" type="Accession Number" label="Accession Number">2012.5.198</unitid>
+              <unitid identifier="CR.001.501.1 - CR.001.501.7" type="Call Number" label="Location: ST 302">CR.001.501.1 - CR.001.501.7</unitid>
+              <unitdate encodinganalog="date" type="inclusive" normal="1869/1951">1869-1951</unitdate>
+              <container id="cid1135540" label="CR.001.501.001" type="Item">Record of Accounts</container>
+              <container id="cid1135544" label="CR.001.501.002" type="Item">Record of Accounts</container>
+              <container id="cid1135545" label="CR.001.501.003" type="Item">Record of Accounts</container>
+              <container id="cid1135546" label="CR.001.501.004" type="Item">Record of Accounts</container>
+              <container id="cid1135547" label="CR.001.501.005" type="Item">Record of Accounts</container>
+              <container id="cid1135548" label="CR.001.501.006" type="Item">Record of Accounts</container>
+              <container id="cid1135549" label="CR.001.501.007" type="Item">Record of Accounts</container>
+              <origination label="creator">
+                <corpname role="Originator">Alamance County (N.C.). Clerk of Superior Court.</corpname>
+              </origination>
+              <origination label="Creator">
+                <corpname role="Author">Clerk of Superior Court</corpname>
+              </origination>
+            </did>
+            <acqinfo>
+              <p>Transferred According to Retention Schedule</p>
+            </acqinfo>
+            <arrangement>
+              <head>Arrangement</head>
+              <p>Chronological</p>
+            </arrangement>
+            <custodhist>
+              <p>Clerk of Superior Court</p>
+            </custodhist>
+          </c03>
+          <c03 id="subseries5562" level="subseries">
+            <did>
+              <unittitle encodinganalog="title">Estates not Exceeding $300.00 [CSC 1]</unittitle>
+              <unitid type="local ID">CR.001.501</unitid>
+              <unitid identifier="201.45.2" type="Mars ID" label="Mars ID">201.45.2</unitid>
+              <unitid identifier="2014.4.62" type="Accession Number" label="Accession Number">2014.4.62</unitid>
+              <unitid identifier="CR.001.501.8" type="Call Number" label="Location: ST 302">CR.001.501.8</unitid>
+              <unitdate encodinganalog="date" type="inclusive" normal="1957/1963">1957-1963</unitdate>
+              <container id="cid1135550" label="CR.001.501.008" type="Item">Estates not Exceeding $300.00</container>
+              <origination label="creator">
+                <corpname role="Originator">Alamance County (N.C.). Clerk of Superior Court.</corpname>
+              </origination>
+              <origination label="Creator">
+                <corpname role="Author">Clerk of Superior Court</corpname>
+              </origination>
+            </did>
+            <arrangement>
+              <head>Arrangement</head>
+              <p>Chronological</p>
+            </arrangement>
+            <scopecontent>
+              <head>Scope and Content</head>
+              <p>Estates not Exceeding $300.00, known in the county and indexes as "Volume CSC 1."</p>
+            </scopecontent>
+          </c03>
+          <c03 id="subseries5508" level="subseries">
+            <did>
+              <unittitle encodinganalog="title">Inheritance Tax Record</unittitle>
+              <unitid type="local ID">CR.001.513</unitid>
+              <unitid identifier="201.57.1" type="Mars ID" label="Mars ID">201.57.1</unitid>
+              <unitid identifier="2012.7.134" type="Accession Number" label="Accession Number">2012.7.134</unitid>
+              <unitid identifier="CR.001.513.1" type="Call Number" label="Location: ST 303.oversized">CR.001.513.1</unitid>
+              <unitid identifier="CR.001.513.2 - CR.001.513.4" type="Call Number" label="Location: ST 302">CR.001.513.2 - CR.001.513.4</unitid>
+              <unitdate encodinganalog="date" type="inclusive" normal="1924/1969">1924-1969</unitdate>
+              <container id="cid1135552" label="CR.001.513.001" type="Volume">Inheritance Tax Record</container>
+              <container id="cid1135553" label="CR.001.513.002" type="Item">Inheritance Tax Record</container>
+              <container id="cid1135554" label="CR.001.513.003" type="Item">Inheritance Tax Record</container>
+              <container id="cid1135555" label="CR.001.513.004" type="Item">Inheritance Tax Record</container>
+              <origination label="creator">
+                <corpname role="Originator">Alamance County (N.C.)</corpname>
+              </origination>
+            </did>
+            <arrangement>
+              <head>Arrangement</head>
+              <p>Chronological</p>
+            </arrangement>
+            <custodhist>
+              <p>Alamance County Clerk of Superior Court</p>
+            </custodhist>
+            <scopecontent>
+              <head>Scope and Content</head>
+              <p>Twentieth-century record of settlement of tax assessed on estates worth more than $2000 provided to the clerk of superior court by the State Commissioner of Revenue. Statements include names of deceased and administrator or executor, approximate valuation of estate, and heirs or devisees. Loose papers concerning inheritance tax are filed in the series of estates records.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="subseries5510" level="subseries">
+            <did>
+              <unittitle encodinganalog="title">Inventories and Accounts of Sales</unittitle>
+              <unitid type="local ID">CR.001.514</unitid>
+              <unitid identifier="1974.11.04" type="Accession Number" label="Accession Number">1974.11.04</unitid>
+              <unitid identifier="201.58.1" type="Mars ID" label="Mars ID">201.58.1</unitid>
+              <unitid identifier="201.58.1" type="Old Mars ID" label="Old Mars ID">201.58.1</unitid>
+              <unitid identifier="2014.4.63" type="Accession Number" label="Accession Number">2014.4.63</unitid>
+              <unitid identifier="CR.001.514.1 - CR.001.514.7" type="Call Number" label="Location: ST 302">CR.001.514.1 - CR.001.514.7</unitid>
+              <unitdate encodinganalog="date" type="inclusive" normal="1849/1951">1849-1932, 1943-1951</unitdate>
+              <container id="cid1135558" label="CR.001.514.001" type="Item">Inventories and Accounts of Sales</container>
+              <container id="cid1135559" label="CR.001.514.002" type="Item">Inventories and Accounts of Sales</container>
+              <container id="cid1135560" label="CR.001.514.003" type="Item">Inventories and Accounts of Sales</container>
+              <container id="cid1135561" label="CR.001.514.004" type="Item">Inventories and Accounts of Sales</container>
+              <container id="cid1135562" label="CR.001.514.005" type="Item">Inventories and Accounts of Sales</container>
+              <container id="cid1135563" label="CR.001.514.006" type="Item">Inventories and Accounts of Sales</container>
+              <container id="cid1135564" label="CR.001.514.007" type="Item">Inventories and Accounts of Sales</container>
+              <origination label="creator">
+                <corpname role="Originator">Alamance County (N.C.). Clerk of Superior Court.</corpname>
+              </origination>
+              <origination label="Creator">
+                <corpname role="Author">Clerk of Superior Court</corpname>
+              </origination>
+            </did>
+            <acqinfo>
+              <p>Transferred According to Retention Schedule</p>
+            </acqinfo>
+            <arrangement>
+              <head>Arrangement</head>
+              <p>Chronological</p>
+            </arrangement>
+            <custodhist>
+              <p>Clerk of Superior Court</p>
+            </custodhist>
+            <scopecontent>
+              <head>Scope and Content</head>
+              <p>Record of initial inventories of estates filed by administrators and executors; before 1868, may also include accounts of sale. May be recorded in series of record of estates/accounts (501), which see.<lb/><lb/>Inventories and Accounts of Sales: v. 1 1849-1854; v. 2, p. 1-236 1854-1858; v. 2, p. 237-456 1854-1858; v.3 1859-1863; v. 4 1884-1897; v. 5 1897-1916; v. 6 1916-1932; v. 7 1943-1951</p>
+            </scopecontent>
+          </c03>
+          <c03 id="subseries5509" level="subseries">
+            <did>
+              <unittitle encodinganalog="title">Record of Amount Paid to Indigent Children</unittitle>
+              <unitid type="local ID">CR.001.515</unitid>
+              <unitid identifier="201.115.1" type="Mars ID" label="Mars ID">201.115.1</unitid>
+              <unitid identifier="2014.4.69" type="Accession Number" label="Accession Number">2014.4.69</unitid>
+              <unitid identifier="CR.001.515.1" type="Call Number" label="Location: ST 302">CR.001.515.1</unitid>
+              <unitdate encodinganalog="date" type="inclusive" normal="1919/1954">1919-1954</unitdate>
+              <container id="cid1135565" label="CR.001.515.001" type="Item">Record of Amount Paid to Indigent Children</container>
+              <origination label="creator">
+                <corpname role="Originator">Alamance County (N.C.). Clerk of Superior Court.</corpname>
+              </origination>
+              <origination label="Creator">
+                <corpname role="Author">Clerk of Superior Court</corpname>
+              </origination>
+            </did>
+            <arrangement>
+              <head>Arrangement</head>
+              <p>Chronological</p>
+            </arrangement>
+            <scopecontent>
+              <head>Scope and Content</head>
+              <p>Record of initial inventories of estates filed by administrators and executors; before 1868, may also include accounts of sale. May be recorded in series of record of estates/accounts (501), which see.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="subseries5511" level="subseries">
+            <did>
+              <unittitle encodinganalog="title">Record of Settlements</unittitle>
+              <unitid type="local ID">CR.001.518</unitid>
+              <unitid identifier="1974.11.4" type="Accession Number" label="Accession Number">1974.11.4</unitid>
+              <unitid identifier="201.61.1" type="Mars ID" label="Mars ID">201.61.1</unitid>
+              <unitid identifier="201.61.1" type="Old Mars ID" label="Old Mars ID">201.61.1</unitid>
+              <unitid identifier="2012.5.171" type="Accession Number" label="Accession Number">2012.5.171</unitid>
+              <unitid identifier="CR.001.518.1 - CR.001.518.10" type="Call Number" label="Location: ST 302">CR.001.518.1 - CR.001.518.10</unitid>
+              <unitdate encodinganalog="date" type="inclusive" normal="1870/1951">1870-1951</unitdate>
+              <container id="cid1135566" label="CR.001.518.001" type="Item">Record of Settlements</container>
+              <container id="cid1135567" label="CR.001.518.002" type="Item">Record of Settlements</container>
+              <container id="cid1135568" label="CR.001.518.003" type="Item">Record of Settlements</container>
+              <container id="cid1135569" label="CR.001.518.004" type="Item">Record of Settlements</container>
+              <container id="cid1135570" label="CR.001.518.005" type="Item">Record of Settlements</container>
+              <container id="cid1135571" label="CR.001.518.006" type="Item">Record of Settlements</container>
+              <container id="cid1135572" label="CR.001.518.007" type="Item">Record of Settlements</container>
+              <container id="cid1135573" label="CR.001.518.008" type="Item">Record of Settlements</container>
+              <container id="cid1135574" label="CR.001.518.009" type="Item">Record of Settlements</container>
+              <container id="cid1135575" label="CR.001.518.010" type="Item">Record of Settlements</container>
+              <origination label="creator">
+                <corpname role="Originator">Alamance County (N.C.). Clerk of Superior Court.</corpname>
+              </origination>
+              <origination label="Creator">
+                <corpname role="Author">Clerk of Superior Court</corpname>
+              </origination>
+            </did>
+            <acqinfo>
+              <p>Transferred According to Retention Schedule</p>
+            </acqinfo>
+            <arrangement>
+              <head>Arrangement</head>
+              <p>Chronological</p>
+            </arrangement>
+            <custodhist>
+              <p>Clerk of Superior Court</p>
+            </custodhist>
+            <scopecontent>
+              <head>Scope and Content</head>
+              <p>Volumes of settlements or final accounts submitted by administrators and executors after the complete distribution of the assets of an estate.<lb/><lb/>1870 - 1891; 1891 - 1908; 1908 - 1918; 1919-1925; 1925-1932; 1929-1943; 1939-1943; 1943-1947; 1947-1951; 1951</p>
+            </scopecontent>
+          </c03>
+        </c02>
+        <c02 id="subseries5505" level="subseries">
+          <did>
+            <unittitle encodinganalog="title">Estates/Accounts, Papers</unittitle>
+            <unitid type="local ID">CR.001.508</unitid>
+            <unitid identifier="1977.8.8" type="Accession Number" label="Accession Number">1977.8.8</unitid>
+            <unitid identifier="201.52.1" type="Mars ID" label="Mars ID">201.52.1</unitid>
+            <unitid identifier="201.52.1" type="Old Mars ID" label="Old Mars ID">201.52.1</unitid>
+            <unitid identifier="2017.3.5" type="Accession Number" label="Accession Number">2017.3.5</unitid>
+            <unitid identifier="2018.7.93" type="Accession Number" label="Accession Number">2018.7.93</unitid>
+            <unitid identifier="CR.001.508.1 - CR.001.508.21" type="Call Number" label="Location: ST 302">CR.001.508.1 - CR.001.508.21</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1856/1979">1856-1979</unitdate>
+            <container id="cid1135576" label="CR.001.508.001" type="Box">Estates Records</container>
+            <container id="cid1135577" label="CR.001.508.010" type="Box">Estates Records</container>
+            <container id="cid1135578" label="CR.001.508.011" type="Box">Estates Records</container>
+            <container id="cid1135579" label="CR.001.508.012" type="Box">Estates Records</container>
+            <container id="cid1135580" label="CR.001.508.013" type="Box">Estates Records</container>
+            <container id="cid1135581" label="CR.001.508.014" type="Box">Estates Records</container>
+            <container id="cid1135582" label="CR.001.508.015" type="Box">Estates Records</container>
+            <container id="cid1135583" label="CR.001.508.016" type="Box">Estates Records</container>
+            <container id="cid1135584" label="CR.001.508.017" type="Box">Estates Records</container>
+            <container id="cid1135585" label="CR.001.508.018" type="Box">Estates Records</container>
+            <container id="cid1135586" label="CR.001.508.019" type="Box">Estates Records</container>
+            <container id="cid1135587" label="CR.001.508.020" type="Box">Estates Records</container>
+            <container id="cid1135588" label="CR.001.508.021" type="Box">Estates Records</container>
+            <container id="cid1135589" label="Box 001" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135590" label="Box 002" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135591" label="Box 003" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135592" label="Box 004" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135593" label="Box 005" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135594" label="Box 006" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135595" label="Box 007" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135596" label="Box 008" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135597" label="CR.001.508.002" type="Box">Estates Records</container>
+            <container id="cid1135598" label="Box 009" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135599" label="Box 010" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135600" label="Box 011" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135601" label="Box 012" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135602" label="Box 013" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135603" label="Box 014" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135604" label="Box 015" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135605" label="Box 016" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135606" label="Box 017" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135607" label="Box 018" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135608" label="CR.001.508.003" type="Box">Estates Records</container>
+            <container id="cid1135609" label="Box 019" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135610" label="Box 020" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135611" label="Box 021" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135612" label="Box 022" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135613" label="Box 023" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135614" label="Box 024" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135615" label="Box 025" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135616" label="Box 026" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135617" label="Box 027" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135618" label="Box 028" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135619" label="CR.001.508.004" type="Box">Estates Records</container>
+            <container id="cid1135620" label="Box 029" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135621" label="Box 030" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135622" label="Box 031" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135623" label="Box 032" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135624" label="Box 033" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135625" label="Box 034" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135626" label="Box 035" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135627" label="Box 036" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135628" label="Box 037" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135629" label="Box 038" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135630" label="CR.001.508.005" type="Box">Estates Records</container>
+            <container id="cid1135631" label="Box 039" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135632" label="Box 040" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135633" label="Box 041" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135634" label="Box 042" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135635" label="Box 043" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135636" label="Box 044" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135637" label="Box 045" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135638" label="Box 046" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135639" label="Box 047" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135640" label="Box 048" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135641" label="CR.001.508.006" type="Box">Estates Records</container>
+            <container id="cid1135642" label="Box 049" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135643" label="Box 050" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135644" label="Box 051" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135645" label="Box 052" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135646" label="Box 053" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135647" label="Box 054" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135648" label="Box 055" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135649" label="Box 056" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135650" label="Box 057" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135651" label="Box 058" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135652" label="CR.001.508.007" type="Box">Estates Records</container>
+            <container id="cid1135653" label="Box 059" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135654" label="Box 060" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135655" label="Box 061" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135656" label="Box 062" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135657" label="Box 063" type="Box">Unprocessed Estates Records</container>
+            <container id="cid1135658" label="CR.001.508.008" type="Box">Estates Records</container>
+            <container id="cid1135659" label="CR.001.508.009" type="Box">Estates Records</container>
+            <origination label="creator">
+              <corpname role="Originator">Alamance County (N.C.). Clerk of Superior Court.</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Author">Administrative Office of the Courts</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Author">Clerk of Superior Court</corpname>
+            </origination>
+          </did>
+          <acqinfo>
+            <p>Transferred According to Retention Schedule</p>
+          </acqinfo>
+          <arrangement>
+            <head>Arrangement</head>
+            <p>Alphabetical (processed); file number (unprocessed)</p>
+          </arrangement>
+          <accessrestrict>
+            <head>Access Restriction</head>
+            <p>Unprocessed county records require additional time to pull. Access to these records on Saturdays requires prior arrangements. Please consult the reference staff for more information.</p>
+          </accessrestrict>
+          <custodhist>
+            <p>Clerk of Superior Court</p>
+          </custodhist>
+          <scopecontent>
+            <head>Scope and Content</head>
+            <p>Contains loose estate papers, which may include appointments and renunciations of executors and administrators; administrators' and guardians' bonds; inventories; accounts of sale; annual accounts; final settlements; civil actions and executions involving administrators, executors, and guardians; and actions in equity or special proceedings involving property of an estate.<lb/><lb/>Processed estates records (1856-1949) are arranged in alphabetical order and housed in 21 archival document boxes numbered CR.001.508.1-21 (Adams-Zachery).<lb/><lb/>Unprocessed estates records (1946-1972) located in 3.29.A.67-113 are in file number order (#1-4462 and X838-1000) and housed in 47 record center boxes.<lb/><lb/>Unprocessed estates records (1968-1979) located in 3A.6.B.11-26 are in file number order (68E1 thru 79E642) and housed in 19 record center boxes.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="subgrp37" level="subgrp">
+          <did>
+            <unittitle encodinganalog="title">Administrators, Executors, and Guardians</unittitle>
+            <unitid type="local ID">CR.001.AG</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1849/1968">1849-1968</unitdate>
+            <origination label="creator">
+              <corpname role="Originator">Alamance County (N.C.)</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Originator">Alamance County (N.C.). Clerk of Superior Court.</corpname>
+            </origination>
+          </did>
+          <scopecontent>
+            <head>Scope and Content</head>
+            <p>Contains bound volumes and/or loose papers of bonds, appointments, and accounts of administrators, executors, and guardians. The loose papers consist primarily of guardians' records; loose administrators' bonds are generally filed in subseries 508, Estate/Accounts, Paper.<lb/><lb/>For some counties, see also Record of Probate (Estates) or Minutes, Probate Court in Estates Records subseries 519, Miscellaneous Estates Records.<lb/><lb/></p>
+          </scopecontent>
+          <c03 id="subseries5496" level="subseries">
+            <did>
+              <unittitle encodinganalog="title">Administrators' Bonds</unittitle>
+              <unitid type="local ID">CR.001.503</unitid>
+              <unitid identifier="201.47.1" type="Mars ID" label="Mars ID">201.47.1</unitid>
+              <unitid identifier="201.47.1" type="Old Mars ID" label="Old Mars ID">201.47.1</unitid>
+              <unitid identifier="CR.001.503.1 - CR.001.503.3" type="Call Number" label="Location: ST 302">CR.001.503.1 - CR.001.503.3</unitid>
+              <unitdate encodinganalog="date" type="inclusive" normal="1882/1902">1882-1902</unitdate>
+              <container id="cid1135660" label="CR.001.503.001" type="Item">Administrators' Bonds</container>
+              <container id="cid1135661" label="CR.001.503.002" type="Item">Administrators' Bonds</container>
+              <container id="cid1135662" label="CR.001.503.003" type="Item">Administrators' Bonds</container>
+              <origination label="creator">
+                <corpname role="Originator">Alamance County (N.C.)</corpname>
+              </origination>
+            </did>
+            <acqinfo>
+              <p>Transferred According to Retention Schedule</p>
+            </acqinfo>
+            <arrangement>
+              <head>Arrangement</head>
+              <p>Chronological</p>
+            </arrangement>
+            <scopecontent>
+              <head>Scope and Content</head>
+              <p>Volumes arranged chronologically. Loose bonds are filed in the series of Estates Records (508). After 1919, see Appointment and Record of Administrators (504).</p>
+            </scopecontent>
+          </c03>
+          <c03 id="subseries5563" level="subseries">
+            <did>
+              <unittitle encodinganalog="title">Appointment of Administrators, Executors and Guardians</unittitle>
+              <unitid type="local ID">CR.001.504</unitid>
+              <unitid identifier="1996.5.10" type="Accession Number" label="Accession Number">1996.5.10</unitid>
+              <unitid identifier="201.48.1" type="Mars ID" label="Mars ID">201.48.1</unitid>
+              <unitid identifier="201.48.1" type="Old Mars ID" label="Old Mars ID">201.48.1</unitid>
+              <unitid identifier="CR.001.504.1" type="Call Number" label="Location: ST 302">CR.001.504.1</unitid>
+              <unitdate encodinganalog="date" type="inclusive" normal="1869/1902">1869-1902</unitdate>
+              <container id="cid1135663" label="CR.001.504.001" type="Item">Appointment of Administrators, Executors and Guardians</container>
+              <origination label="creator">
+                <corpname role="Originator">Alamance County (N.C.). Clerk of Superior Court.</corpname>
+              </origination>
+              <origination label="Creator">
+                <corpname role="Author">Clerk of Superior Court</corpname>
+              </origination>
+            </did>
+            <acqinfo>
+              <p>Transferred According to Retention Schedule</p>
+            </acqinfo>
+            <arrangement>
+              <head>Arrangement</head>
+              <p>Chronological</p>
+            </arrangement>
+            <custodhist>
+              <p>Clerk of Superior Court</p>
+            </custodhist>
+          </c03>
+          <c03 id="subseries5564" level="subseries">
+            <did>
+              <unittitle encodinganalog="title">Record of Administrators</unittitle>
+              <unitid type="local ID">CR.001.504</unitid>
+              <unitid identifier="201.48.2" type="Mars ID" label="Mars ID">201.48.2</unitid>
+              <unitid identifier="2012.5.170" type="Accession Number" label="Accession Number">2012.5.170</unitid>
+              <unitid identifier="CR.001.504.2 - CR.001.504.16" type="Call Number" label="Location: ST 302">CR.001.504.2 - CR.001.504.16</unitid>
+              <unitdate encodinganalog="date" type="inclusive" normal="1902/1968">1902-1968</unitdate>
+              <container id="cid1135664" label="CR.001.504.006" type="Item">Record of Administrators</container>
+              <container id="cid1135665" label="CR.001.504.007" type="Item">Record of Administrators</container>
+              <container id="cid1135666" label="CR.001.504.008" type="Item">Record of Administrators</container>
+              <container id="cid1135667" label="CR.001.504.009" type="Item">Record of Administrators</container>
+              <container id="cid1135668" label="CR.001.504.010" type="Item">Record of Administrators</container>
+              <container id="cid1135669" label="CR.001.504.011" type="Item">Record of Administrators</container>
+              <container id="cid1135670" label="CR.001.504.012" type="Item">Record of Administrators</container>
+              <container id="cid1135671" label="CR.001.504.013" type="Item">Record of Administrators</container>
+              <container id="cid1135672" label="CR.001.504.014" type="Item">Record of Administrators</container>
+              <container id="cid1135673" label="CR.001.504.015" type="Item">Record of Administrators</container>
+              <container id="cid1135674" label="CR.001.504.016" type="Item">Record of Administrators</container>
+              <container id="cid1135675" label="CR.001.504.002" type="Item">Record of Administrators</container>
+              <container id="cid1135676" label="CR.001.504.003" type="Item">Record of Administrators</container>
+              <container id="cid1135677" label="CR.001.504.004" type="Item">Record of Administrators</container>
+              <container id="cid1135678" label="CR.001.504.005" type="Item">Record of Administrators</container>
+              <origination label="creator">
+                <corpname role="Originator">Alamance County (N.C.)</corpname>
+              </origination>
+            </did>
+            <arrangement>
+              <head>Arrangement</head>
+              <p>Chronological</p>
+            </arrangement>
+          </c03>
+          <c03 id="subseries5558" level="subseries">
+            <did>
+              <unittitle encodinganalog="title">Guardian Returns</unittitle>
+              <unitid type="local ID">CR.001.509</unitid>
+              <unitid identifier="201.53.1" type="Mars ID" label="Mars ID">201.53.1</unitid>
+              <unitid identifier="2012.5.216" type="Accession Number" label="Accession Number">2012.5.216</unitid>
+              <unitid identifier="CR.001.509.1 - CR.001.509.6" type="Call Number" label="Location: ST 302">CR.001.509.1 - CR.001.509.6</unitid>
+              <unitdate encodinganalog="date" type="inclusive" normal="1849/1951">1849-1868; 1879-1951</unitdate>
+              <container id="cid1135679" label="CR.001.509.001" type="Item">Guardian Returns</container>
+              <container id="cid1135680" label="CR.001.509.002" type="Item">Guardian Returns</container>
+              <container id="cid1135681" label="CR.001.509.003" type="Item">Guardian Returns</container>
+              <container id="cid1135682" label="CR.001.509.004" type="Item">Guardian Returns</container>
+              <container id="cid1135683" label="CR.001.509.005" type="Item">Guardian Returns</container>
+              <container id="cid1135684" label="CR.001.509.006" type="Item">Guardian Returns</container>
+              <origination label="creator">
+                <corpname role="Originator">Alamance County (N.C.)</corpname>
+              </origination>
+            </did>
+            <arrangement>
+              <head>Arrangement</head>
+              <p>Chronological</p>
+            </arrangement>
+            <scopecontent>
+              <head>Scope and Content</head>
+              <p>1849-1868; 1879-1927; 1927-1940; 1940-1945; 1945-1950; 1950-1951</p>
+            </scopecontent>
+          </c03>
+          <c03 id="subseries5559" level="subseries">
+            <did>
+              <unittitle encodinganalog="title">Guardian Record</unittitle>
+              <unitid type="local ID">CR.001.509</unitid>
+              <unitid identifier="201.53.2" type="Mars ID" label="Mars ID">201.53.2</unitid>
+              <unitid identifier="2012.5.196" type="Accession Number" label="Accession Number">2012.5.196</unitid>
+              <unitid identifier="CR.001.509.7" type="Call Number" label="Location: ST 302">CR.001.509.7</unitid>
+              <unitdate encodinganalog="date" type="inclusive" normal="1954/1963">1954-1963</unitdate>
+              <container id="cid1135685" label="CR.001.509.007" type="Item">Guardian Record</container>
+              <origination label="creator">
+                <corpname role="Originator">Alamance County (N.C.)</corpname>
+              </origination>
+            </did>
+            <arrangement>
+              <head>Arrangement</head>
+              <p>Chronological</p>
+            </arrangement>
+          </c03>
+          <c03 id="subseries5560" level="subseries">
+            <did>
+              <unittitle encodinganalog="title">Record of Guardians and Trustees</unittitle>
+              <unitid type="local ID">CR.001.509</unitid>
+              <unitid identifier="201.53.3" type="Mars ID" label="Mars ID">201.53.3</unitid>
+              <unitid identifier="2012.5.197" type="Accession Number" label="Accession Number">2012.5.197</unitid>
+              <unitid identifier="CR.001.509.8" type="Call Number" label="Location: ST 302">CR.001.509.8</unitid>
+              <unitdate encodinganalog="date" type="inclusive" normal="1963/1968">1963-1968</unitdate>
+              <container id="cid1135686" label="CR.001.509.008" type="Item">Record of Guardians and Trustees</container>
+              <origination label="creator">
+                <corpname role="Originator">Alamance County (N.C.)</corpname>
+              </origination>
+            </did>
+            <arrangement>
+              <head>Arrangement</head>
+              <p>Chronological</p>
+            </arrangement>
+          </c03>
+          <c03 id="subseries5506" level="subseries">
+            <did>
+              <unittitle encodinganalog="title">Guardians' Records</unittitle>
+              <unitid type="local ID">CR.001.510</unitid>
+              <unitid identifier="1977.08.08" type="Accession Number" label="Accession Number">1977.08.08</unitid>
+              <unitid identifier="201.54.1" type="Mars ID" label="Mars ID">201.54.1</unitid>
+              <unitid identifier="201.54.1" type="Old Mars ID" label="Old Mars ID">201.54.1</unitid>
+              <unitid identifier="CR.001.510.1 - CR.001.510.6" type="Call Number" label="Location: ST 302">CR.001.510.1 - CR.001.510.6</unitid>
+              <unitdate encodinganalog="date" type="inclusive" normal="1878/1949">1878-1949</unitdate>
+              <container id="cid1135687" label="CR.001.510.001" type="Box">Guardians' Records</container>
+              <container id="cid1135688" label="CR.001.510.002" type="Box">Guardians' Records</container>
+              <container id="cid1135689" label="CR.001.510.003" type="Box">Guardians' Records</container>
+              <container id="cid1135690" label="CR.001.510.004" type="Box">Guardians' Records</container>
+              <container id="cid1135691" label="CR.001.510.005" type="Box">Guardians' Records</container>
+              <container id="cid1135692" label="CR.001.510.006" type="Box">Guardians' Records</container>
+              <origination label="creator">
+                <corpname role="Originator">Alamance County (N.C.). Clerk of Superior Court.</corpname>
+              </origination>
+              <origination label="Creator">
+                <corpname role="Author">Clerk of Superior Court</corpname>
+              </origination>
+            </did>
+            <acqinfo>
+              <p>Transferred According to Retention Schedule</p>
+            </acqinfo>
+            <arrangement>
+              <head>Arrangement</head>
+              <p>Alphabetical</p>
+            </arrangement>
+            <custodhist>
+              <p>Clerk of Superior Court</p>
+            </custodhist>
+            <scopecontent>
+              <head>Scope and Content</head>
+              <p>Loose guardians' papers arranged alphabetically by surname of wards, and volumes of guardians' accounts (but see 509). Papers may include appointments, oaths and bonds of guardians; annual accounts; final settlements; civil actions and executions involving guardians; and actions in equity or special proceedings involving the property of a ward's estate. These records also include indigent wards for whom the clerk of superior court served as receiver. If the father of the wards can be determined from the papers, they are filed with the estate of the deceased rather than with the guardians' records.<lb/><lb/>Albright - Wyrick</p>
+            </scopecontent>
+          </c03>
+          <c03 id="subseries5507" level="subseries">
+            <did>
+              <unittitle encodinganalog="title">Guardians' Bonds</unittitle>
+              <unitid type="local ID">CR.001.511</unitid>
+              <unitid identifier="201.55.1" type="Mars ID" label="Mars ID">201.55.1</unitid>
+              <unitid identifier="201.55.1" type="Old Mars ID" label="Old Mars ID">201.55.1</unitid>
+              <unitid identifier="2012.7.126" type="Accession Number" label="Accession Number">2012.7.126</unitid>
+              <unitid identifier="CR.001.511.1 - CR.001.511.5" type="Call Number" label="Location: ST 302">CR.001.511.1 - CR.001.511.5</unitid>
+              <unitdate encodinganalog="date" type="inclusive" normal="1882/1953">1882-1953</unitdate>
+              <container id="cid1135693" label="CR.001.511.001" type="Item">Guardians' Bonds</container>
+              <container id="cid1135694" label="CR.001.511.002" type="Item">Guardians' Bonds</container>
+              <container id="cid1135695" label="CR.001.511.003" type="Item">Guardians' Bonds</container>
+              <container id="cid1135696" label="CR.001.511.004" type="Item">Guardians' Bonds</container>
+              <container id="cid1135697" label="CR.001.511.005" type="Item">Guardians' Bonds</container>
+              <origination label="creator">
+                <corpname role="Originator">Alamance County (N.C.)</corpname>
+              </origination>
+            </did>
+            <acqinfo>
+              <p>Transferred According to Retention Schedule</p>
+            </acqinfo>
+            <arrangement>
+              <head>Arrangement</head>
+              <p>Chronological</p>
+            </arrangement>
+            <scopecontent>
+              <head>Scope and Content</head>
+              <p>Volumes arranged chronologically. Loose bonds are filed in either the estates records (by decedent) or the guardians' records (by ward). After 1919, see Appointment and Record of Guardians (506).<lb/><lb/>1882-1894; 1889-1909; 1910-1931; 1930-1943; 1943-1953</p>
+            </scopecontent>
+          </c03>
+        </c02>
+        <c02 id="subseries5619" level="subseries">
+          <did>
+            <unittitle encodinganalog="title">Dower and Widows' Year</unittitle>
+            <unitid type="local ID">CR.001.507</unitid>
+            <unitid identifier="201.51" type="Mars ID" label="Mars ID">201.51</unitid>
+            <unitid identifier="201.51" type="Old Mars ID" label="Old Mars ID">201.51</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1878/1968">1878-1968</unitdate>
+            <origination label="creator">
+              <corpname role="Originator">Alamance County (N.C.)</corpname>
+            </origination>
+          </did>
+          <scopecontent>
+            <head>Scope and Content</head>
+            <p>Contains volumes relating to the apportionment of widows' dower rights in the real property of her deceased husband, and the allocation of a sufficiency of provisions to enable her to support herself and family during the first year after his death while the estate was being settled.<lb/><lb/>Some papers concerning dower and widows' year's support are also filed in Estate Records subseries 508, Estate/Accounts, Papers, under the name of the deceased husband.</p>
+          </scopecontent>
+          <c03 id="subgrp43" level="subgrp">
+            <did>
+              <unittitle encodinganalog="title">Record of Dowers</unittitle>
+              <unitid type="local ID">CR.001.507</unitid>
+              <unitid identifier="1989.05.24" type="Accession Number" label="Accession Number">1989.05.24</unitid>
+              <unitid identifier="201.51.1" type="Mars ID" label="Mars ID">201.51.1</unitid>
+              <unitid identifier="201.51.1" type="Old Mars ID" label="Old Mars ID">201.51.1</unitid>
+              <unitid identifier="2012.7.168" type="Accession Number" label="Accession Number">2012.7.168</unitid>
+              <unitid identifier="CR.001.507.1 - CR.001.507.2" type="Call Number" label="Location: ST 302">CR.001.507.1 - CR.001.507.2</unitid>
+              <unitdate encodinganalog="date" type="inclusive" normal="1878/1951">1878-1951</unitdate>
+              <container id="cid1135702" label="CR.001.507.001" type="Item">Record of Dowers</container>
+              <container id="cid1135703" label="CR.001.507.002" type="Item">Record of Dowers</container>
+              <origination label="creator">
+                <corpname role="Originator">Alamance County (N.C.). Clerk of Superior Court.</corpname>
+              </origination>
+              <origination label="Creator">
+                <corpname role="Author">Clerk of Superior Court</corpname>
+              </origination>
+            </did>
+            <acqinfo>
+              <p>Transferred According to Retention Schedule</p>
+            </acqinfo>
+            <arrangement>
+              <head>Arrangement</head>
+              <p>Chronological</p>
+            </arrangement>
+            <custodhist>
+              <p>Clerk of Superior Court</p>
+            </custodhist>
+            <scopecontent>
+              <head>Scope and Content</head>
+              <p>1878 - 1933 <lb/>Volume 2, 1937-1951</p>
+            </scopecontent>
+          </c03>
+          <c03 id="subgrp44" level="subgrp">
+            <did>
+              <unittitle encodinganalog="title">Widows' Year Support</unittitle>
+              <unitid type="local ID">CR.001.507</unitid>
+              <unitid identifier="1989.05.24" type="Accession Number" label="Accession Number">1989.05.24</unitid>
+              <unitid identifier="201.51.2" type="Mars ID" label="Mars ID">201.51.2</unitid>
+              <unitid identifier="CR.001.507.3 - CR.001.507.4" type="Call Number" label="Location: ST 302">CR.001.507.3 - CR.001.507.4</unitid>
+              <unitdate encodinganalog="date" type="inclusive" normal="1928/1968">1928-1968</unitdate>
+              <container id="cid1135704" label="CR.001.507.003" type="Item">Widows' Year Support</container>
+              <container id="cid1135705" label="CR.001.507.004" type="Item">Widows' Year Support</container>
+              <origination label="creator">
+                <corpname role="Originator">Alamance County (N.C.)</corpname>
+              </origination>
+            </did>
+            <arrangement>
+              <head>Arrangement</head>
+              <p>Chronological</p>
+            </arrangement>
+            <custodhist>
+              <p>Alamance County Clerk of Superior Court</p>
+            </custodhist>
+          </c03>
+        </c02>
+        <c02 id="subseries5620" level="subseries">
+          <did>
+            <unittitle encodinganalog="title">Records of Receivers and Trustees</unittitle>
+            <unitid type="local ID">CR.001.517</unitid>
+            <unitid identifier="201.111" type="Mars ID" label="Mars ID">201.111</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1884/1968">1884-1968</unitdate>
+            <origination label="creator">
+              <corpname role="Originator">Alamance County (N.C.). Clerk of Superior Court.</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Originator">Alamance County (N.C.)</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Author">Clerk of Court of Pleas and Quarter Sessions</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Originator">Clerk of Court of Pleas and Quarter Sessions</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Author">Clerk of Superior Court</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Author">Register of Deeds</corpname>
+            </origination>
+          </did>
+          <scopecontent>
+            <head>Scope and Content</head>
+            <p>Contains records pertaining to receivers and trustees of estates. May include volumes of Record of Receivers of Estates and Record of Inventories and Accounts of Assignees.</p>
+          </scopecontent>
+          <c03 id="subgrp45" level="subgrp">
+            <did>
+              <unittitle encodinganalog="title">Record of Receivership</unittitle>
+              <unitid type="local ID">CR.001.517</unitid>
+              <unitid identifier="201.111.1" type="Mars ID" label="Mars ID">201.111.1</unitid>
+              <unitid identifier="2014.4.56" type="Accession Number" label="Accession Number">2014.4.56</unitid>
+              <unitid identifier="CR.001.517.1" type="Call Number" label="Location: ST 302">CR.001.517.1</unitid>
+              <unitdate encodinganalog="date" type="inclusive" normal="1925/1955">1925-1955</unitdate>
+              <container id="cid1135706" label="CR.001.517.001" type="Item">Record of Receivership</container>
+              <origination label="creator">
+                <corpname role="Originator">Alamance County (N.C.). Clerk of Superior Court.</corpname>
+              </origination>
+              <origination label="Creator">
+                <corpname role="Author">Clerk of Superior Court</corpname>
+              </origination>
+            </did>
+            <arrangement>
+              <head>Arrangement</head>
+              <p>Chronological</p>
+            </arrangement>
+          </c03>
+          <c03 id="subgrp46" level="subgrp">
+            <did>
+              <unittitle encodinganalog="title">Record of Trustees</unittitle>
+              <unitid type="local ID">CR.001.517</unitid>
+              <unitid identifier="201.111.2" type="Mars ID" label="Mars ID">201.111.2</unitid>
+              <unitid identifier="2014.4.60" type="Accession Number" label="Accession Number">2014.4.60</unitid>
+              <unitid identifier="CR.001.517.2" type="Call Number" label="Location: ST 302">CR.001.517.2</unitid>
+              <unitdate encodinganalog="date" type="inclusive" normal="1941/1962">1941-1962</unitdate>
+              <container id="cid1135707" label="CR.001.517.002" type="Item">Record of Trustees</container>
+              <origination label="creator">
+                <corpname role="Originator">Alamance County (N.C.). Clerk of Superior Court.</corpname>
+              </origination>
+              <origination label="Creator">
+                <corpname role="Author">Clerk of Superior Court</corpname>
+              </origination>
+            </did>
+            <arrangement>
+              <head>Arrangement</head>
+              <p>Chronological</p>
+            </arrangement>
+          </c03>
+          <c03 id="subgrp47" level="subgrp">
+            <did>
+              <unittitle encodinganalog="title">Trust Under Wills</unittitle>
+              <unitid type="local ID">CR.001.517</unitid>
+              <unitid identifier="201.111.3" type="Mars ID" label="Mars ID">201.111.3</unitid>
+              <unitid identifier="2014.4.65" type="Accession Number" label="Accession Number">2014.4.65</unitid>
+              <unitid identifier="CR.001.517.3" type="Call Number" label="Location: ST 302">CR.001.517.3</unitid>
+              <unitdate encodinganalog="date" type="inclusive" normal="1961/1968">1961-1968</unitdate>
+              <container id="cid1135708" label="CR.001.517.003" type="Item">Trust Under Wills</container>
+              <origination label="creator">
+                <corpname role="Originator">Alamance County (N.C.). Clerk of Superior Court.</corpname>
+              </origination>
+              <origination label="Creator">
+                <corpname role="Author">Clerk of Superior Court</corpname>
+              </origination>
+            </did>
+            <arrangement>
+              <head>Arrangement</head>
+              <p>Chronological</p>
+            </arrangement>
+          </c03>
+        </c02>
+      </c01>
+      <c01 id="series44013" level="series">
+        <did>
+          <unittitle encodinganalog="title">Marriage, Divorce, and Vital Statistics</unittitle>
+          <unitid type="local ID">CR.001.6</unitid>
+          <origination label="creator">
+            <corpname role="Originator">Alamance County (N.C.)</corpname>
+          </origination>
+          <origination label="Creator">
+            <corpname role="Originator">Clerk of Superior Court; Clerk of Court of Pleas and Quarter Sessions; Register of Deeds</corpname>
+          </origination>
+        </did>
+        <scopecontent>
+          <head>Scope and Content</head>
+          <p>This series contains vital records pertaining to major life events such as marriage, divorce, adoption (restricted by statute), immigration and naturalization, death, and disinterment/reinterment.</p>
+        </scopecontent>
+        <c02 id="subgrp40" level="subgrp">
+          <did>
+            <unittitle encodinganalog="title">Marriage Records</unittitle>
+            <unitid type="local ID">CR.001.MA</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1854/1868">1854-1868</unitdate>
+            <origination label="creator">
+              <corpname role="Originator">Alamance County (N.C.)</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Originator">Clerk of Superior Court</corpname>
+            </origination>
+          </did>
+          <bioghist>
+            <head>Biographical/Historical</head>
+            <p>Marriage bonds are statements of intent to marry that were attested by the prospective groom before the clerk of court in the bride's county of residence. Typically, one or more bondsmen signed as security for the forfeiture of the penal sum (originally 50 pounds, increased to 500 pounds in 1778, and to $1,000 in the nineteenth century) should the marriage not occur or prove to be illegal. </p>
+          </bioghist>
+          <scopecontent>
+            <head>Scope and Content</head>
+            <p>Contains records pertaining to marriage in the form of bonds, licenses, registers, and/or certificates. Abstracts exist for the Marriage Bonds. Marriage Licenses prior to 1868 are filed with the marriage bonds. Most Marriage Bonds give the names of the groom, bride, bondsmen, and witnesses, the name of the person performing the rites, and, toward the end of the period, the names of parents.</p>
+          </scopecontent>
+          <c03 id="subseries5513" level="subseries">
+            <did>
+              <unittitle encodinganalog="title">Marriage Bonds</unittitle>
+              <unitid type="local ID">CR.001.601</unitid>
+              <unitid identifier="1991.5.40" type="Accession Number" label="Accession Number">1991.5.40</unitid>
+              <unitid identifier="201.63.1" type="Mars ID" label="Mars ID">201.63.1</unitid>
+              <unitid identifier="201.63.1" type="Old Mars ID" label="Old Mars ID">201.63.1</unitid>
+              <origination label="creator">
+                <corpname role="Originator">Alamance County (N.C.)</corpname>
+              </origination>
+            </did>
+            <arrangement>
+              <head>Arrangement</head>
+              <p>Alphabetical</p>
+            </arrangement>
+            <scopecontent>
+              <head>Scope and Content</head>
+              <p>Includes boxes of marriage bonds and certificates (1741-1868), arranged alphabetically by groom. Marriage bonds are statements of intent to marry that were attested by the prospective groom before the clerk of court in the bride's county of residence. Typically, one or more bondsmen signed as security for the forfeiture of the penal sum (originally 50 pounds, increased to 500 pounds in 1778, and to one thousand dollars in the nineteenth century) should the marriage not occur or prove to be illegal. Most marriage bonds give the names of the groom, bride, bondsmen and witnesses, the county in which filed and the date. If accompanied by a certificate of marriage, the information may also include the date of marriage, the name of the person performing the rites, and, towards the end of the period, the names of parents. The more than 170,000 marriage bonds in the Archives have been abstracted. Volumes of abstracts are available for each county from which the bonds have been received. There is also a statewide index, arranged by both grooms and brides, available on microfiche.<lb/><lb/>Adams - Workman</p>
+            </scopecontent>
+          </c03>
+          <c03 id="subseries5512" level="subseries">
+            <did>
+              <unittitle encodinganalog="title">Record of Marriage Certificates</unittitle>
+              <unitid type="local ID">CR.001.602</unitid>
+              <unitid identifier="1996.06.08" type="Accession Number" label="Accession Number">1996.06.08</unitid>
+              <unitid identifier="201.65.1" type="Mars ID" label="Mars ID">201.65.1</unitid>
+              <unitid identifier="201.65.1" type="Old Mars ID" label="Old Mars ID">201.65.1</unitid>
+              <unitid identifier="CR.001.602.1" type="Call Number" label="Location: ST 302">CR.001.602.1</unitid>
+              <unitdate encodinganalog="date" type="inclusive" normal="1854/1868">1854-1868</unitdate>
+              <container id="cid1138744" label="CR.001.602.001" type="Item">Record of Marriage Certificates</container>
+              <origination label="creator">
+                <corpname role="Originator">Alamance County (N.C.). Clerk of Court of Pleas and Quarter Sessions.</corpname>
+              </origination>
+              <origination label="Creator">
+                <corpname role="Author">Clerk of Superior Court</corpname>
+              </origination>
+            </did>
+            <acqinfo>
+              <p>Transferred According to Retention Schedule</p>
+            </acqinfo>
+            <arrangement>
+              <head>Arrangement</head>
+              <p>Chronological</p>
+            </arrangement>
+            <custodhist>
+              <p>Clerk of Superior Court</p>
+            </custodhist>
+            <scopecontent>
+              <head>Scope and Content</head>
+              <p>Includes record of marriage certificates (generally 1851-1867) and marriage registers (1867-).</p>
+            </scopecontent>
+          </c03>
+        </c02>
+        <c02 id="subgrp42" level="subgrp">
+          <did>
+            <unittitle encodinganalog="title">Divorce Records</unittitle>
+            <unitid type="local ID">CR.001.604</unitid>
+            <unitid identifier="201.67" type="Mars ID" label="Mars ID">201.67</unitid>
+            <unitid identifier="201.67" type="Old Mars ID" label="Old Mars ID">201.67</unitid>
+            <origination label="creator">
+              <corpname role="Originator">Alamance County (N.C.)</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Originator">Clerk of Superior Court; Clerk of Court of Pleas and Quarter Sessions; Register of Deeds</corpname>
+            </origination>
+          </did>
+          <scopecontent>
+            <head>Scope and Content</head>
+            <p>Contains divorce actions pulled from Civil (and sometimes Criminal) Actions and/or record books of divorced women, which notes maiden name of divorcee and the date of notice of intention to resume maiden name. See also series 3, Court Records, for divorce case files, if available.<lb/><lb/>Includes divorce actions pulled from civil actions and arranged alphabetically, and a volume entitled "Maiden Names of Divorced Women", beginning in 1937.</p>
+          </scopecontent>
+          <c03 id="subseries5567" level="subseries">
+            <did>
+              <unittitle encodinganalog="title">Divorce Records</unittitle>
+              <unitid type="local ID">CR.001.604</unitid>
+              <unitid identifier="1977.08.08" type="Accession Number" label="Accession Number">1977.08.08</unitid>
+              <unitid identifier="201.67.1" type="Mars ID" label="Mars ID">201.67.1</unitid>
+              <unitid identifier="201.67.1" type="Old Mars ID" label="Old Mars ID">201.67.1</unitid>
+              <unitid identifier="CR.001.604.1" type="Call Number" label="Location: ST 302">CR.001.604.1</unitid>
+              <unitdate encodinganalog="date" type="inclusive" normal="1889/1917">1889-1917</unitdate>
+              <origination label="creator">
+                <corpname role="Originator">Alamance County (N.C.). Clerk of Superior Court.</corpname>
+              </origination>
+              <origination label="Creator">
+                <corpname role="Author">Clerk of Superior Court</corpname>
+              </origination>
+            </did>
+            <acqinfo>
+              <p>Transferred According to Retention Schedule</p>
+            </acqinfo>
+            <arrangement>
+              <head>Arrangement</head>
+              <p>Alphabetical</p>
+            </arrangement>
+            <custodhist>
+              <p>Clerk of Superior Court</p>
+            </custodhist>
+          </c03>
+          <c03 id="subseries5568" level="subseries">
+            <did>
+              <unittitle encodinganalog="title">Record of Maiden Name of Divorced Women</unittitle>
+              <unitid type="local ID">CR.001.604</unitid>
+              <unitid identifier="201.67.2" type="Mars ID" label="Mars ID">201.67.2</unitid>
+              <unitid identifier="2014.4.64" type="Accession Number" label="Accession Number">2014.4.64</unitid>
+              <unitid identifier="CR.001.604.2" type="Call Number" label="Location: ST 302">CR.001.604.2</unitid>
+              <unitdate encodinganalog="date" type="inclusive" normal="1938/1969">1938-1969</unitdate>
+              <origination label="creator">
+                <corpname role="Originator">Alamance County (N.C.). Clerk of Superior Court.</corpname>
+              </origination>
+              <origination label="Creator">
+                <corpname role="Author">Clerk of Superior Court</corpname>
+              </origination>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="subseries5514" level="subseries">
+          <did>
+            <unittitle encodinganalog="title">Disinterment/Reinterment Permits</unittitle>
+            <unitid type="local ID">CR.001.607</unitid>
+            <unitid identifier="1990.9.4" type="Accession Number" label="Accession Number">1990.9.4</unitid>
+            <unitid identifier="201.70.1" type="Mars ID" label="Mars ID">201.70.1</unitid>
+            <unitid identifier="201.70.1" type="Old Mars ID" label="Old Mars ID">201.70.1</unitid>
+            <unitid identifier="CR.001.607.1" type="Call Number" label="Location: ST 302">CR.001.607.1</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1978/1978">1978</unitdate>
+            <origination label="creator">
+              <corpname role="Originator">Alamance County (N.C.). Health Department.</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Author">County Health Department</corpname>
+            </origination>
+          </did>
+          <acqinfo>
+            <p>Transferred According to Retention Schedule</p>
+          </acqinfo>
+          <arrangement>
+            <head>Arrangement</head>
+            <p>Alphabetical</p>
+          </arrangement>
+          <custodhist>
+            <p>County Health Department</p>
+          </custodhist>
+          <scopecontent>
+            <head>Scope and Content</head>
+            <p>Contains county copies of permits to disinter bodies and rebury them.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="subgrp41" level="subgrp">
+          <did>
+            <unittitle encodinganalog="title">Adoption Records</unittitle>
+            <unitid type="local ID">CR.001.901</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1954/1968">1954-1968</unitdate>
+            <origination label="creator">
+              <corpname role="Originator">Alamance County (N.C.). Clerk of Superior Court.</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Originator">County Health Department</corpname>
+            </origination>
+          </did>
+          <scopecontent>
+            <head>Scope and Content</head>
+            <p>Adoption files are closed per NCGS 48-09-102. Records will be open 100 years from date of record per NCGS 132-11.</p>
+          </scopecontent>
+          <c03 id="subseries5545" level="subseries">
+            <did>
+              <unittitle encodinganalog="title">Special Proceedings, Closed Adoptions</unittitle>
+              <unitid type="local ID">CR.001.922</unitid>
+              <unitid identifier="201.109.4" type="Mars ID" label="Mars ID">201.109.4</unitid>
+              <unitid identifier="2014.4.66" type="Accession Number" label="Accession Number">2014.4.66</unitid>
+              <unitid identifier="CR.001.922.16 - CR.001.922.20" type="Call Number" label="Location: ST 303">CR.001.922.16 - CR.001.922.20</unitid>
+              <unitdate encodinganalog="date" type="inclusive" normal="1954/1968">1954-1968</unitdate>
+              <container id="cid1138745" label="CR.001.922.016" type="Item">Special Proceedings, Closed Adoptions</container>
+              <container id="cid1138746" label="CR.001.922.017" type="Item">Special Proceedings, Closed Adoptions</container>
+              <container id="cid1138747" label="CR.001.922.018" type="Item">Special Proceedings, Closed Adoptions</container>
+              <container id="cid1138748" label="CR.001.922.019" type="Item">Special Proceedings, Closed Adoptions</container>
+              <container id="cid1138749" label="CR.001.922.020" type="Item">Special Proceedings, Closed Adoptions</container>
+              <origination label="creator">
+                <corpname role="Originator">Alamance County (N.C.). Clerk of Superior Court.</corpname>
+              </origination>
+              <origination label="Creator">
+                <corpname role="Author">Clerk of Superior Court</corpname>
+              </origination>
+            </did>
+            <arrangement>
+              <head>Arrangement</head>
+              <p>Chronological</p>
+            </arrangement>
+            <accessrestrict>
+              <head>Access Restriction</head>
+              <p>Adoption files are closed per NCGS 48-09-02. Records will be open 100 years from date of record per NCGS 132-11.</p>
+            </accessrestrict>
+            <scopecontent>
+              <head>Scope and Content</head>
+              <p>v5 1954-1958; v6 1957-1960; v7 1961-1962; v8 1962-1966; v9 1964-1968</p>
+            </scopecontent>
+          </c03>
+        </c02>
+        <c02 id="subseries5515" level="subseries">
+          <did>
+            <unittitle encodinganalog="title">Alien Registration</unittitle>
+            <unitid type="local ID">CR.001.902</unitid>
+            <unitid identifier="1974.11.04" type="Accession Number" label="Accession Number">1974.11.04</unitid>
+            <unitid identifier="201.77.1" type="Mars ID" label="Mars ID">201.77.1</unitid>
+            <unitid identifier="201.77.1" type="Old Mars ID" label="Old Mars ID">201.77.1</unitid>
+            <unitid identifier="CR.001.902.1" type="Call Number" label="Location: ST 302">CR.001.902.1</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1931/1940">1931-1940</unitdate>
+            <origination label="creator">
+              <corpname role="Originator">Alamance County (N.C.). Clerk of Superior Court.</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Author">Clerk of Superior Court</corpname>
+            </origination>
+          </did>
+          <acqinfo>
+            <p>Transferred According to Retention Schedule</p>
+          </acqinfo>
+          <arrangement>
+            <head>Arrangement</head>
+            <p>Chronological</p>
+          </arrangement>
+          <custodhist>
+            <p>Clerk of Superior Court</p>
+          </custodhist>
+          <scopecontent>
+            <head>Scope and Content</head>
+            <p>Contains records pertaining to the naturalization of foreign-born citizens, in which the clerk of Superior Court acted as federal agent. May include Declaration of Intent to Become a Citizen, Petitions for Naturalization, and/or Alien Registration, which notes name, age, nationality, address, previous address, and the names and addresses of five persons who knew each foreign-born citizen registering.</p>
+          </scopecontent>
+        </c02>
+      </c01>
+      <c01 id="series44015" level="series">
+        <did>
+          <unittitle encodinganalog="title">Wills</unittitle>
+          <unitid type="local ID">CR.001.8</unitid>
+          <origination label="creator">
+            <corpname role="Originator">Alamance County (N.C.)</corpname>
+          </origination>
+          <origination label="Creator">
+            <corpname role="Originator">Clerk of Superior Court; Clerk of Court of Pleas and Quarter Sessions; Register of Deeds</corpname>
+          </origination>
+        </did>
+        <scopecontent>
+          <head>Scope and Content</head>
+          <p>This series may include Record of Wills volumes; original Wills; and indexes to wills, usually cross-referenced to devisee and devisor.<lb/><lb/>See series 4, Estate Records, for Administrators, Executors, and Guardians Records and series 5, Estate Records, for Records of Receivers and Trustees, if available.<lb/><lb/>Many of the older Record of Wills volumes may also record estates matters (inventories, accounts of sale, and final settlements) and deeds.<lb/><lb/>"Wills, Cross Index to," is usually an alphabetical index by testator and testate of "Record of Wills." Since court reform (1966-1970), this has been known as "Index to Devisee."<lb/>"Devisee, Index to," is an alphabetical list of devisees by last name. It provides the estate name, file number, and docket number. Prior to court reform, this was known as the "Cross Index to Wills."</p>
+        </scopecontent>
+        <c02 id="subseries5516" level="subseries">
+          <did>
+            <unittitle encodinganalog="title">Record of Wills</unittitle>
+            <unitid type="local ID">CR.001.801</unitid>
+            <unitid identifier="201.74.2" type="Mars ID" label="Mars ID">201.74.2</unitid>
+            <unitid identifier="2012.5.169" type="Accession Number" label="Accession Number">2012.5.169</unitid>
+            <unitid identifier="CR.001.801.62 - CR.001.801.83" type="Call Number" label="Location: ST 302">CR.001.801.62 - CR.001.801.83</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1849/1968">1849-1968</unitdate>
+            <origination label="creator">
+              <corpname role="Originator">Alamance County (N.C.)</corpname>
+            </origination>
+          </did>
+          <arrangement>
+            <head>Arrangement</head>
+            <p>Chronological</p>
+          </arrangement>
+          <custodhist>
+            <p>Alamance County Clerk of Superior Court</p>
+          </custodhist>
+          <scopecontent>
+            <head>Scope and Content</head>
+            <p><lb/><lb/>Record of Wills 1849-1968. Volumes 1-22.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="subseries5517" level="subseries">
+          <did>
+            <unittitle encodinganalog="title">Wills</unittitle>
+            <unitid type="local ID">CR.001.801</unitid>
+            <unitid identifier="1976.06.09" type="Accession Number" label="Accession Number">1976.06.09</unitid>
+            <unitid identifier="201.74.1" type="Mars ID" label="Mars ID">201.74.1</unitid>
+            <unitid identifier="201.74.1" type="Old Mars ID" label="Old Mars ID">201.74.1</unitid>
+            <unitid identifier="CR.001.801.1 - CR.001.801.61" type="Call Number" label="Location: ST 302">CR.001.801.1 - CR.001.801.61</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1822/1968">1822-1968</unitdate>
+            <origination label="creator">
+              <corpname role="Originator">Alamance County (N.C.). Clerk of Superior Court.</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Author">Clerk of Superior Court</corpname>
+            </origination>
+          </did>
+          <acqinfo>
+            <p>Transferred According to Retention Schedule</p>
+          </acqinfo>
+          <arrangement>
+            <head>Arrangement</head>
+            <p>Alphabetical</p>
+          </arrangement>
+          <custodhist>
+            <p>Clerk of Superior Court</p>
+          </custodhist>
+          <scopecontent>
+            <head>Scope and Content</head>
+            <p>Adams - Zimmerman</p>
+          </scopecontent>
+        </c02>
+      </c01>
+      <c01 id="series44016" level="series">
+        <did>
+          <unittitle encodinganalog="title">Election Records</unittitle>
+          <unitid type="local ID">CR.001.9</unitid>
+          <origination label="creator">
+            <corpname role="Originator">Alamance County (N.C.)</corpname>
+          </origination>
+          <origination label="Creator">
+            <corpname role="Originator">Clerk of Superior Court; Clerk of Court of Pleas and Quarter Sessions; Register of Deeds</corpname>
+          </origination>
+        </did>
+        <scopecontent>
+          <head>Scope and Content</head>
+          <p>This series may include Election Returns, in volumes and boxes; Permanent Registration of Voters (grandfather clause registrations, 1902-1908) volumes; and Poll Books deposited with the clerk of Superior Court. It may also include minutes of the county Board of Elections. <lb/><lb/>Boxes may include civil and criminal actions concerning elections (see series 3, Court Records, for civil and criminal case files, if available).</p>
+        </scopecontent>
+        <c02 id="subseries5518" level="subseries">
+          <did>
+            <unittitle encodinganalog="title">Election Returns</unittitle>
+            <unitid type="local ID">CR.001.912-P</unitid>
+            <unitid identifier="201.87.3" type="Mars ID" label="Mars ID">201.87.3</unitid>
+            <unitid identifier="2017.6.150" type="Accession Number" label="Accession Number">2017.6.150</unitid>
+            <unitid identifier="CR.001.912" type="Call Number" label="Location: RC 3.23.G.95-99, 101">CR.001.912</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1934/1997">1934-1976, 1978-1997</unitdate>
+            <origination label="creator">
+              <corpname role="Originator">Alamance County (N.C.). Clerk of Superior Court.</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Unspecified">Clerk of Superior Court</corpname>
+            </origination>
+          </did>
+          <arrangement>
+            <head>Arrangement</head>
+            <p>Unprocessed, roughly chronological order</p>
+          </arrangement>
+          <accessrestrict>
+            <head>Access Restriction</head>
+            <p>Unprocessed county records require additional time to pull. Access to these records on Saturdays requires prior arrangements. Please consult the reference staff for more information.</p>
+          </accessrestrict>
+          <scopecontent>
+            <head>Scope and Content</head>
+            <p>Unprocessed election returns (1934-1976, 1978-1997) are in roughly chronological order and housed in 8 record center boxes.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="subseries5519" level="subseries">
+          <did>
+            <unittitle encodinganalog="title">Record of Elections</unittitle>
+            <unitid type="local ID">CR.001.912-V</unitid>
+            <unitid identifier="1974.11.04" type="Accession Number" label="Accession Number">1974.11.04</unitid>
+            <unitid identifier="201.87.1" type="Mars ID" label="Mars ID">201.87.1</unitid>
+            <unitid identifier="201.87.1" type="Old Mars ID" label="Old Mars ID">201.87.1</unitid>
+            <unitid identifier="CR.001.912.1 - CR.001.912.6" type="Call Number" label="Location: ST 302">CR.001.912.1 - CR.001.912.6</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1897/1968">1897-1968</unitdate>
+            <origination label="creator">
+              <corpname role="Originator">Alamance County (N.C.). Clerk of Superior Court.</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Author">Clerk of Superior Court</corpname>
+            </origination>
+          </did>
+          <acqinfo>
+            <p>Transferred According to Retention Schedule</p>
+          </acqinfo>
+          <arrangement>
+            <head>Arrangement</head>
+            <p>Chronological</p>
+          </arrangement>
+          <custodhist>
+            <p>Clerk of Superior Court</p>
+          </custodhist>
+          <scopecontent>
+            <head>Scope and Content</head>
+            <p>1897 - 1926 1906 - 1918 1916 - 1920 1924 - 1936 1938 - 1956 1956 - 1968</p>
+          </scopecontent>
+        </c02>
+        <c02 id="subseries5520" level="subseries">
+          <did>
+            <unittitle encodinganalog="title">Voters Permanent Registration</unittitle>
+            <unitid type="local ID">CR.001.912</unitid>
+            <unitid identifier="201.87.2" type="Mars ID" label="Mars ID">201.87.2</unitid>
+            <unitid identifier="2014.4.70" type="Accession Number" label="Accession Number">2014.4.70</unitid>
+            <unitid identifier="CR.001.912.7" type="Call Number" label="Location: ST 302">CR.001.912.7</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1902/1908">1902-1908</unitdate>
+            <origination label="creator">
+              <corpname role="Originator">Alamance County (N.C.). Clerk of Superior Court.</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Author">Clerk of Superior Court</corpname>
+            </origination>
+          </did>
+          <arrangement>
+            <head>Arrangement</head>
+            <p>Chronological</p>
+          </arrangement>
+        </c02>
+      </c01>
+      <c01 id="series44017" level="series">
+        <did>
+          <unittitle encodinganalog="title">Miscellaneous Records</unittitle>
+          <unitid type="local ID">CR.001.10</unitid>
+          <origination label="creator">
+            <corpname role="Originator">Alamance County (N.C.)</corpname>
+          </origination>
+          <origination label="Creator">
+            <corpname role="Originator">Clerk of Superior Court; Clerk of Court of Pleas and Quarter Sessions; Register of Deeds</corpname>
+          </origination>
+        </did>
+        <scopecontent>
+          <head>Scope and Content</head>
+          <p>This series may include Armed Forces Discharges; Cemetery Records; Coroner's Inquests and Reports; Military Records; Pension Records; Personal Accounts; Road Records and Reports; School Records; and truly miscellaneous records collected from various county agencies and offices. Miscellaneous Records boxes may also include records from all other county series that were of insufficient quantity to make a full box.</p>
+        </scopecontent>
+        <c02 id="subseries5524" level="subseries">
+          <did>
+            <unittitle encodinganalog="title">Coroners' Records</unittitle>
+            <unitid type="local ID">CR.001.913</unitid>
+            <unitid identifier="201.116.1" type="Mars ID" label="Mars ID">201.116.1</unitid>
+            <unitid identifier="2017.6.168" type="Accession Number" label="Accession Number">2017.6.168</unitid>
+            <unitid identifier="CR.001.913" type="Call Number" label="Location: RC 3.23.G.89">CR.001.913</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1917/1958">1917-1958</unitdate>
+            <origination label="creator">
+              <corpname role="Originator">Alamance County (N.C.). Clerk of Superior Court.</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Unspecified">Clerk of Superior Court</corpname>
+            </origination>
+          </did>
+          <arrangement>
+            <head>Arrangement</head>
+            <p>Unprocessed, roughly chronological</p>
+          </arrangement>
+          <accessrestrict>
+            <head>Access Restriction</head>
+            <p>Unprocessed county records require additional time to pull. Access to these records on Saturdays requires prior arrangements. Please consult the reference staff for more information.</p>
+          </accessrestrict>
+          <scopecontent>
+            <head>Scope and Content</head>
+            <p>Coroners' Inquests and Reports may also include "Record of Coroners" volumes.<lb/><lb/>Unprocessed coroner's records (1917-1958) are in roughly chronological order and housed in .5 archival document boxes.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="subseries5525" level="subseries">
+          <did>
+            <unittitle encodinganalog="title">Record of Pensions (Widows' and Soldiers' Pensions)</unittitle>
+            <unitid type="local ID">CR.001.923</unitid>
+            <unitid identifier="1989.05.24" type="Accession Number" label="Accession Number">1989.05.24</unitid>
+            <unitid identifier="201.98.1" type="Mars ID" label="Mars ID">201.98.1</unitid>
+            <unitid identifier="201.98.1" type="Old Mars ID" label="Old Mars ID">201.98.1</unitid>
+            <unitid identifier="CR.001.923.1 - CR.001.923.2" type="Call Number" label="Location: ST 303">CR.001.923.1 - CR.001.923.2</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1921/1945">1921-1945</unitdate>
+            <origination label="creator">
+              <corpname role="Originator">Alamance County (N.C.). Clerk of Superior Court.</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Author">Clerk of Superior Court</corpname>
+            </origination>
+          </did>
+          <acqinfo>
+            <p>Transferred According to Retention Schedule</p>
+          </acqinfo>
+          <arrangement>
+            <head>Arrangement</head>
+            <p>Chronological</p>
+          </arrangement>
+          <custodhist>
+            <p>Clerk of Superior Court</p>
+          </custodhist>
+          <scopecontent>
+            <head>Scope and Content</head>
+            <p>Pension Records may include volumes and papers concerning the issuance of pensions for Confederate service. The clerk of Superior Court served as chairman of the county pension board and maintained the records of application and examination of prospective pensioners, and of payment and receipt of pensions.<lb/><lb/>1921-1937 1938-1945</p>
+          </scopecontent>
+        </c02>
+        <c02 id="subseries5523" level="subseries">
+          <did>
+            <unittitle encodinganalog="title">Railroad Records</unittitle>
+            <unitid type="local ID">CR.001.925</unitid>
+            <unitid identifier="1977.08.08" type="Accession Number" label="Accession Number">1977.08.08</unitid>
+            <unitid identifier="201.100.1" type="Mars ID" label="Mars ID">201.100.1</unitid>
+            <unitid identifier="201.100.1" type="Old Mars ID" label="Old Mars ID">201.100.1</unitid>
+            <unitid identifier="CR.001.925.1 - CR.001.925.2" type="Call Number" label="Location: ST 302">CR.001.925.1 - CR.001.925.2</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1898/1919">1898-1919</unitdate>
+            <origination label="creator">
+              <corpname role="Originator">Alamance County (N.C.). Clerk of Superior Court.</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Author">Clerk of Superior Court</corpname>
+            </origination>
+          </did>
+          <acqinfo>
+            <p>Transferred According to Retention Schedule</p>
+          </acqinfo>
+          <arrangement>
+            <head>Arrangement</head>
+            <p>Chronological</p>
+          </arrangement>
+          <custodhist>
+            <p>Clerk of Superior Court</p>
+          </custodhist>
+          <scopecontent>
+            <head>Scope and Content</head>
+            <p>Road Records may include volumes or boxes of records concerning appointment of road overseers, reports on condition of roads, and petitions for new roads. Boxes may also include criminal actions concerning negligence of overseers and claims against the county for services on the roads. Records concerning bridges and railroads are also included in this series, usually as separate subseries. Volumes may also include minutes of the county highway or good roads commission.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="subseries5522" level="subseries">
+          <did>
+            <unittitle encodinganalog="title">Miscellaneous Records</unittitle>
+            <unitid type="local ID">CR.001.928</unitid>
+            <unitid identifier="1977.08.08" type="Accession Number" label="Accession Number">1977.08.08</unitid>
+            <unitid identifier="201.103.1" type="Mars ID" label="Mars ID">201.103.1</unitid>
+            <unitid identifier="201.103.1" type="Old Mars ID" label="Old Mars ID">201.103.1</unitid>
+            <unitid identifier="CR.001.928.1" type="Call Number" label="Location: ST 302">CR.001.928.1</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1822/1939">1822-1939</unitdate>
+            <origination label="creator">
+              <corpname role="Originator">Alamance County (N.C.). Clerk of Superior Court.</corpname>
+            </origination>
+            <origination label="Creator">
+              <corpname role="Author">Clerk of Superior Court</corpname>
+            </origination>
+          </did>
+          <acqinfo>
+            <p>Transferred According to Retention Schedule</p>
+          </acqinfo>
+          <arrangement>
+            <head>Arrangement</head>
+            <p>Alphabetical</p>
+          </arrangement>
+          <custodhist>
+            <p>Clerk of Superior Court</p>
+          </custodhist>
+          <scopecontent>
+            <head>Scope and Content</head>
+            <p>Miscellaneous Records boxes may include records from all other county series that were of insufficient quantity to make a full box. May also include boxes of records for which no series number was assigned, including records of slaves and free persons of color; bills of sale; promissory notes; canal and drainage records; shipping and fishing records; mill records; mining records; timber records; powers of attorney; grand jury records; and witness tickets. Many box and volume titles may be peculiar to one or two counties.<lb/><lb/>Arranged alphabetically by type. Includes bankruptcy - Bickle, McClure and Co., 1913, and George Herbert Jones, 1939; bills, notes and receipts - Mrs. S. A. Sharpe, 1898 - 1900; Child Custody, 1898, 1907; Commissioner's Accounts, 1900; Coroner's Reports, 1906 - 1919; Deputy Clerk of the Superior Court, Appointees, 1899, 1902; Financial Statements - Burlington Credit Union, 1836, Swepsonville Baptist Church, 1925 - 1939; Governors' Commissions to Judges, 1907 - 1913; Grand Jury Reports, 1909 - 1917; Gurney P. Hood Commissioner's Report of Banks, 1931; Homestead and Personal Property Exemption, 1899; Land Plat - Joseph Trollinger, 1877; Land Sales, 1904; Lunacy, 1900, 1901; Midway Motor Car Co. Account, 1920; Mortgage information - John Howard, 1922; Pension for Dr. Gaston D. Cobb, 1884; Pension Records, 1926 - 1937; Petitions of Rights and Citizenship, 1899 - 1903; Powers of Attorney, 1879 - 1910; Promissory notes, 1886 - 1902; Registration Records under Constitutional Amendment, 1900; Revocation of License to practice medicine, 1901; and School Fund Records, 1874 - 1876.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="subseries5521" level="subseries">
+          <did>
+            <unittitle encodinganalog="title">Record of Notaries</unittitle>
+            <unitid type="local ID">CR.001.928</unitid>
+            <unitid identifier="201.103.2" type="Mars ID" label="Mars ID">201.103.2</unitid>
+            <unitid identifier="2014.4.74" type="Accession Number" label="Accession Number">2014.4.74</unitid>
+            <unitid identifier="CR.001.928.2 - CR.001.928.3" type="Call Number" label="Location: ST 303">CR.001.928.2 - CR.001.928.3</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1898/1925">1898-1925</unitdate>
+            <origination label="creator">
+              <corpname role="Originator">Alamance County (N.C.)</corpname>
+            </origination>
+          </did>
+          <arrangement>
+            <head>Arrangement</head>
+            <p>Chronological</p>
+          </arrangement>
+          <scopecontent>
+            <head>Scope and Content</head>
+            <p>Record of Notaries Public, volume 1, 1898-1921; Record of Notaries Public, volume 2, 1922-1925</p>
+          </scopecontent>
+        </c02>
+      </c01>
+      <c01 id="series45606" level="series">
+        <did>
+          <unittitle encodinganalog="title">CRX Records</unittitle>
+          <unitid type="local ID">CR.001.11</unitid>
+          <origination label="creator">
+            <corpname role="Originator">Alamance County (N.C.)</corpname>
+          </origination>
+        </did>
+        <c02 id="subseries6494" level="subseries">
+          <did>
+            <unittitle encodinganalog="title">Miscellaneous Records (CRX)</unittitle>
+            <unitid type="local ID">CRX.001.928</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1861/1903">1861-1903</unitdate>
+            <container id="cid1149668" label="CRX.008.01" type="Folder" parent="cid1149502">Estate and Other Records</container>
+            <container id="cid1149502" label="CRX.008" type="Box">CRX Box 8</container>
+            <origination label="creator">
+              <corpname role="Originator">Alamance County (N.C.)</corpname>
+            </origination>
+          </did>
+          <acqinfo>
+            <head>Provenance</head>
+            <p>CRX records were alienated from the government chain of custody and have been returned by private donors. They cannot be certified by the Archive.</p>
+          </acqinfo>
+          <scopecontent>
+            <head>Scope and Content</head>
+            <p>Includes one folder of miscellaneous records that left county custody and were donated by someone other the records creator. These records cannot be certified by the archives. <lb/><lb/>Estate for George Kernodle, 1903; bastardy records for B. C., single woman, 1861; charge against Sampson Summers, 1864; road petition, no date. (Documents are all xerox copies.) Rec'd for copying on August 9, 1979 from Mr. Frank Kernodle, Mebane Oaks Road, Burlington, NC 27215.</p>
+          </scopecontent>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

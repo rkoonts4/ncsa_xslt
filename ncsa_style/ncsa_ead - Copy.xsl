@@ -466,15 +466,9 @@
         <xsl:for-each select="//c01[1]">
             <xsl:choose>
                <xsl:when test="@level='series'">
-<!--                   
-                   <h1 debug="">level is series</h1>
--->                   
                     <xsl:call-template name="series"/>
                </xsl:when> 
                <xsl:otherwise>
-<!-- 
-                <h1 debug="">otherwise level not series</h1>
--->                
                 <xsl:choose>
                     <xsl:when test="following-sibling::c01/attribute::level = 'series'">
                     <xsl:call-template name="series"/>
@@ -543,14 +537,14 @@
     <div class="faid_containers">
         <xsl:for-each select="did/unitid[1]">
             <xsl:choose>
-            <xsl:when test="following-sibling::container">
+                <xsl:when test="following-sibling::container">
                 <xsl:choose>
                     <xsl:when test="following-sibling::container[@id]">
                     <xsl:choose>
                     <xsl:when test="following-sibling::container[@parent]">
                     <xsl:variable name="parent" select="following-sibling::container/attribute::parent"/>
                         <xsl:variable name="box_num">
-                            <xsl:for-each select="/ead/archdesc/did/container">
+                            <xsl:for-each select="/container">
                                     <xsl:if test="@id = $parent">
                                         <xsl:value-of select="@label"/>
                                     </xsl:if>
@@ -561,9 +555,6 @@
                                 <span class="container_item box"><xsl:value-of select="$box_num"/></span> 
                             </xsl:when>
                             <xsl:otherwise>
-<!--                                
-                                <h1 debug="">ns_containers</h1>
--->                                
                                 <span class="container_item box">Box <xsl:value-of select="$box_num"/></span> 
                             </xsl:otherwise>
                         </xsl:choose>
@@ -576,7 +567,7 @@
                     <xsl:otherwise>
                         <span class="container_item box"><xsl:value-of select="following-sibling::container"/></span> 
                     </xsl:otherwise>
-                </xsl:choose>
+                    </xsl:choose>
                 </xsl:when>
                 <xsl:otherwise>
                     <xsl:choose>
@@ -740,24 +731,17 @@
                         </xsl:when>
                         <xsl:otherwise>      
                             <xsl:variable name="box_num">
-<!-- 2021/04/06 Fix for missing containers at series level. replaced this for each-loop with a select on the current node. I think this was the intended result.  
-                            <xsl:for-each select="/ead/archdesc/did/container">
+                                <xsl:for-each select="/ead/archdesc/did/container">
                                     <xsl:if test="@id = $parent">
                                         <xsl:value-of select="@label"/>
                                     </xsl:if>
                                 </xsl:for-each>
--->
-                                    <xsl:value-of select="./did/container/@label" />
-
                             </xsl:variable>
                             <xsl:choose>
                                 <xsl:when test="contains($box_num,'Box')">
                                     <span class="container_item box"><xsl:value-of select="$box_num"/></span> 
                                 </xsl:when>
                                 <xsl:otherwise>
-<!--                                     
-                                    <h4 debug="">debug sa_containers; label: <xsl:value-of select="./did/container/@label" />; parent: <xsl:value-of select="$parent" />; box_num-length: <xsl:value-of select="string-length($box_num) = 0" /></h4>
--->                                    
                                     <span class="container_item box">Box <xsl:value-of select="$box_num"/></span> 
                                 </xsl:otherwise>
                             </xsl:choose>
