@@ -10,9 +10,7 @@
     <!-- conversions for none standard characters created during Axaem import/export -->
     <xsl:include href="characters.xsl"/>
     
-    <!-- stylesheet containing addresses for the repositories
     <xsl:include href="address.xsl"/>
-     -->
     
     <xsl:output method="xhtml" doctype-public="-//W3C//DTD XHTML 1.0 Transitional//EN" use-character-maps="no-control-characters" omit-xml-declaration="yes"/>
     <!-- setting collection and box id variables to be called later in stylesheet -->
@@ -923,15 +921,4 @@
     
     <!-- leave this, it suppresses anything not specifically called -->
     <xsl:template match="*|@*"/>
-
-    <!-- These templates are from address.xsl, which is xsl:include'd but currently isn't in a location where it can be accessed during transform -->
-        <xsl:template name="ncsa">
-        <div class="navbar-brand"><a href="http://archives.ncdcr.gov/" target="_blank">State Archives of North Carolina</a> | <a href="tel:9198146840">(919) 814-6840</a> | <a href="mailto:archives@ncdcr.gov">archives@ncdcr.gov</a></div>
-    </xsl:template>
-    <xsl:template name="wra">
-        <div class="navbar-brand"><a href="https://archives.ncdcr.gov/researchers/western-regional-archives" target="_blank">Western Regional Archives</a> | <a href="tel:8282967230">(828) 296-7230, ext. 240</a> | <a href="mailto:wrarchives@ncdcr.gov">wrarchives@ncdcr.gov</a></div>
-    </xsl:template>
-    <xsl:template name="obhc">
-        <div class="navbar-brand"><a href="https://archives.ncdcr.gov/researchers/outer-banks-history-center" target="_blank">Outer Banks History Center</a> | <a href="tel:2524732655">(252) 473-2655</a> | <a href="mailto:obhc@ncdcr.gov">obhc@ncdcr.gov</a></div>
-    </xsl:template>
 </xsl:stylesheet>
