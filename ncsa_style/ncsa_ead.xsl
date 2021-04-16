@@ -252,16 +252,6 @@
                                     </xsl:for-each>
                                 </dd>
                             </xsl:when>
-                            <xsl:when test="child::extent/attribute::label='Estimated Extent'">
-                                <dd>
-                                    <xsl:for-each select="extent">
-                                        <xsl:value-of select="."/><xsl:text> </xsl:text><xsl:value-of select="@unit"/>
-                                        <xsl:if test="following-sibling::extent">
-                                            <xsl:text>, </xsl:text>
-                                        </xsl:if>
-                                    </xsl:for-each>
-                                </dd>
-                            </xsl:when>
                             <xsl:otherwise/>
                         </xsl:choose>		
                     </xsl:for-each>
