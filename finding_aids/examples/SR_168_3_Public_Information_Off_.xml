@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="ISO-8859-15" standalone="yes"?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+    <eadid countrycode="US" mainagencycode="NC-Ar">phc_divmarinefisheries_slides</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Finding Aid of the Division of Marine Fisheries Slides, ca. 1970 - 1985<num>SR.168.3</num></titleproper>
+        <author>Finding aid prepared by Processed by: Steven E. Massengill; machine-readable finding aid created by: Ashley Yandle 2010;</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>State Archives of North Carolina</publisher>
+        <address>
+          <addressline>109 E. Jones Street</addressline>
+          <addressline>4614 Mail Service Center</addressline>
+          <addressline>Raleigh, N.C., 27699-4614</addressline>
+          <addressline>(919) 807-7310</addressline>
+          <addressline>archives@ncdcr.gov</addressline>
+        </address>
+        <date type="publication" normal="20100101">2010-01-01T00:00:00</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using AXAEM<date normal="20191220">2019-12-20T11:23:48</date></creation>
+      <langusage>Description is in<language langcode="eng">English</language></langusage>
+    </profiledesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Finding Aid of the Division of Marine Fisheries Slides, ca. 1970 - 1985<num>SR.168.3</num></titleproper>
+      <author>Finding aid prepared by Processed by: Steven E. Massengill; machine-readable finding aid created by: Ashley Yandle 2010;</author>
+      <publisher>State Archives of North Carolina</publisher>
+    </titlepage>
+  </frontmatter>
+  <archdesc id="series3" level="series" relatedencoding="dc">
+    <did>
+      <unittitle encodinganalog="title">Public Information Office: Slides</unittitle>
+      <unitid type="local ID">SR.168.3</unitid>
+      <unitid identifier="168.3" type="Imported from EAD file" label="Imported from EAD file">168.3</unitid>
+      <unitid identifier="168.3" type="Mars ID" label="Mars ID">168.3</unitid>
+      <unitid identifier="168.3" type="Old Mars ID" label="Old Mars ID">168.3</unitid>
+      <unitid identifier="Vol 1 - Vol 7" type="Call Number" label="Location: ST 548">Vol 1 - Vol 7</unitid>
+      <unitdate encodinganalog="date" type="inclusive" normal="1970/1985">ca. 1970-1985</unitdate>
+      <container id="cid128" label="Vol. 1" type="Item">Artificial Reef (Old)</container>
+      <container id="cid129" label="Vol. 2" type="Item">Artificial Reef</container>
+      <container id="cid130" label="Vol. 3" type="Item">Reef Fish and Natural Habitat</container>
+      <container id="cid131" label="Vol. 4" type="Item">The Dan Moore (Ship)</container>
+      <container id="cid132" label="Vol. 5" type="Item">The Dan Moore (Ship)</container>
+      <container id="cid133" label="Vol. 6" type="Item">Law Enforcement (Old)</container>
+      <container id="cid134" label="Vol. 7" type="Item">Law Enforcement, 1985</container>
+      <langmaterial>
+        <language encodinganalog="language" langcode="eng">English</language>
+      </langmaterial>
+      <physdesc>Color<genreform>Photographs</genreform><genreform>Slides (photographs)</genreform></physdesc>
+      <physdesc label="physdesc">
+        <extent>7.0 volume(s)</extent>
+      </physdesc>
+      <physdesc id="ref1" label="General Physical Description n">
+        <extent encodinganalog="300" unit="volumes">7</extent>
+        <genreform>including slides</genreform>
+      </physdesc>
+      <physdesc>
+        <extent label="Estimated Extent" encodinganalog="format" unit="cubic feet">1.40</extent>
+      </physdesc>
+      <abstract id="ref3" label="Abstract">The Marine Fisheries Commission and the Marine Fisheries Division have their origins in agencies established during the late nineteenth and early twentieth centuries. North Carolina's coastal fishing industry enjoyed a brief period of rapid growth following the Civil War; however towards the end of the century, commerical fishermen were experiencing a marked reduction in the catch rates for striped bass, shad, and oysters. By the decade of the 1890s, it was apparent that North Carolina's fisheries and oyster beds were continuing to decline. In response, different legislatures of that era enacted laws to more effectively conserve and manage the fishing industry. The General Assembly of 1907 established the Fish Commission and directed it to report its activities to the Geological and Economic Survey Board. By a legislative act of 1927, the Department of Conservation and Development and the Fisheries Commission were consolidated. Under the Executive Organization Act of 1971, the Department of Conservation and Development and many of its components were transferred for administrative purposes to the newly established Department of Natural and Economic Resources. Under the Executive Organization Act of 1973, the Department of Natural Resources and Community Development took over such divisions as Commercial and Sports Fisheries, and the Department of Conservation and Development became defunct. In 1989 the General Assembly abolished the Department of Natural Resources and Community Development and transferred the Marine Fisheries Commission and its corresponding division to the new Department of Environment, Health, and Natural Resources. The division was placed under the department's assistant secretary for the Division of Environmental Protection. It monitored marine fisheries resources; provided law enforcement for regulations established by the Marine Fisheries Commission; conducted scientific research; and developed artificial reefs and programs for shellfish rehabilitation.<lb/>Slides assembled by the Office of Public Information, North Carolina Division of Marine Fisheries, Morehead City, North Carolina, as a part of its governmental duties under the State Department of Environment, Health and Natural Resources. Subjects include artificial reefs, reef fish and natural habitat, the Dan Moore (ship), and law enforcement.</abstract>
+      <origination label="creator">
+        <corpname role="Originator">North Carolina. Division of Marine Fisheries</corpname>
+      </origination>
+      <origination label="Creator">
+        <corpname role="Unspecified">North Carolina. Division of Marine Fisheries</corpname>
+      </origination>
+    </did>
+    <arrangement id="ref14">
+      <head>Collection Arrangement</head>
+      <p>The collection of slides is arranged in seven three ring binder notebooks, and the original order under the parent agency has been maintained. They are generally organized by subjects; the topics include artificial reef, reef fish and natural habitat, the Dan Moore (ship), and law enforcement.</p>
+    </arrangement>
+    <accessrestrict id="ref5">
+      <head>Access Restrictions</head>
+      <p>Available for research.</p>
+    </accessrestrict>
+    <userestrict id="ref6">
+      <head>Copyright Notice</head>
+      <p>Copyright is retained by the authors of these materials, or their descendants, as stipulated by United States copyright law (Title 17 US Code). Individual researchers are responsible for using these materials in conformance with copyright law as well as any donor restrictions accompanying the materials.</p>
+    </userestrict>
+    <processinfo id="ref9">
+      <head>Processing Information</head>
+      <p>Processed by Steven E. Massengill, November, 1991</p>
+      <p>Encoded by Dietra Stanley July, 2003; additional encoding and historical note by Ashley Yandle, July, 2010</p>
+    </processinfo>
+    <bioghist id="ref11">
+      <head>Biographical/Historical note</head>
+      <p>The Marine Fisheries Commission and the Marine Fisheries Division have their origins in agencies established during the late nineteenth and early twentieth centuries. North Carolina's coastal fishing industry enjoyed a brief period of rapid growth following the Civil War; however towards the end of the century, commerical fishermen were experiencing a marked reduction in the catch rates for striped bass, shad, and oysters. As a first step toward the development of a conservation program, the 1877 General Assembly established a section devoted to fisheries within a State Board of Agriculture. Under the direction of a fish commissioner, the Fisheries Section initiated projects involving fish propagation and the cultivation of new oyster beds. In 1887 the General Assembly authorized the Board of Agriculture to elect three members to a Board of Shellfish Commissioners.</p>
+      <p>By the decade of the 1890s, it was apparent that North Carolina's fisheries and oyster beds were continuing to decline. In response, different legislatures of that era enacted laws to more effectively conserve and manage the fishing industry. In 1891 jurisdiction over fisheries was transferred from the Board of Agriculture to the state geologist, and the Board of Shellfish Commissioners became defunct. In 1901 the General Assembly authorized the office of oyster commissioner, a gubernatorial appointee who would serve for two years. The oyster commissioner was charged with enforcing the state's oyster laws and supervising every branch of the oyster industry. In 1905 jurisdiction over fisheries passed from the state geologist to the newly established North Carolina Geological and Economic Survey. During the same year, Governor Robert B. Glenn called a convention at Morehead City to discuss problems facing the state's oyster and fishing industries. The convention advised that a single agency be established with sufficient authority to manage effectively and to enforce all laws and regulations pertaining to fisheries--a goal partially realized by the following legislature.</p>
+      <p>The General Assembly of 1907 established the Fish Commission and directed it to report its activities to the Geological and Economic Survey Board. This commission was charged with enforcing all fish laws except those relating to shellfish. The Geological and Economic Survey, however, conducted numerous studies and meetings which addressed the state's shellfish resources and its problems. It was among those advocating the establishment of a fisheries commission with statewide jurisdiction. The General Assembly of 1915 responded with legislation that established the Fisheries Commission and amended all previous laws regarding commercial fisheries.</p>
+      <p>The Fisheries Commission was composed of five members appointed by the governor including at least three from the state's fishing districts. These latter members also constituted the Fisheries Commission Board, a body within the commission charged with appointing a commissioner for a four-year term. In addition to making and enforcing fishing regulations, the Fisheries Commission was charged with conducting surveys, compiling statistics, marking protected territories, and investigating the migration habits and culture of marine life. The commission and board were enlarged to eleven members by the legislature of 1923, all to be appointed by the governor.</p>
+      <p>In 1925 the General Assembly abolished the Geological and Economic Survey and transferred its functions to the newly established Department of Conservation and Development. By a legislative act of 1927, that department and the Fisheries Commission were consolidated. The commission's previous functions were absorbed by the Board of Conservation and Development, a body of twelve members appointed by the governor. Subsequently, the department established several divisions which served as staff to the board, including both Inland Fisheries and Commercial Fisheries. The latter division was under the direction of a fisheries commissioner and continued the work of the former Fisheries Commission in relation to the marine fishing and shellfish industry. Among its new duties were the establishment and enforcement of sanitation standards in shellfish processing operations.</p>
+      <p>In subsequent years the legislature authorized the board and the Division of Commercial Fisheries to implement new programs. Among these was a large oyster bed rehabilitation program authorized by the General Assembly of 1947. In 1953 the legislature empowered the board to enter reciprocal agreements with coastal states on the Atlantic seaboard in regard to fin fish, shrimp, and other migrating marine life. In later years these agreements included the Atlantic States Marine Fisheries Compact. In 1955 the Commercial Fisheries Advisory Board was established to assist the Board of Conservation and Development.</p>
+      <p>Authorized by the 1963 General Assembly, the Commercial Fisheries Study Commission rewrote all fisheries laws. These were subsequently passed by the 1965 legislature. Among these was the provision that all local fisheries laws were abolished, and these resources would be administered thereafter on a statewide basis. Coastal sports fishing received statutory recognition for the first time, and the division was renamed the Commercial and Sports Fisheries Division. The legislature also established the Commercial and Sports Fisheries Advisory Board and the Commercial and Sports Fisheries Committee.</p>
+      <p>Under the Executive Organization Act of 1971, the Department of Conservation and Development and many of its components were transferred for administrative purposes to the newly established Department of Natural and Economic Resources. The former department and board retained their previous statutory powers; however, all duties of the former department pertaining to the Atlantic States Marine Fisheries Compact were transferred in full to the new department.</p>
+      <p>The Department of Natural and Economic Resources was subsequently re-created and reorganized under the Executive Organization Act of 1973. Under terms of the act, the department and its secretary assumed many more of the statutory powers previously assigned to the Department of Conservation and Development and its board. The Department of Natural Resources and Community Development took over such divisions as Commercial and Sports Fisheries, and the Department of Conservation and Development became defunct.</p>
+      <p>The Executive Organization Act of 1973 also established the Marine Fisheries Commission. This commission thereby acquired those regulatory duties of the former Board of Conservation and Development that related to the protection of the state's coastal fishing resources. The commission was to consist of seven gubernatorial appointees who would serve staggered terms of six years. At the time of appointment two members-at-large were to be residents of the coastal area. Additionally, there was to be one member representing each of the following interests or professional backgrounds: marine ecology; coastal land development; seafood processing and distribution; commercial fishing; and wildlife or sports fishing.</p>
+      <p>The Department of Natural and Economic Resources was charged with enforcing all rules and regulations adopted by the Marine Fisheries Commission. Through the Division of Commercial and Sports Fisheries, the department was responsible for administering the Fisherman's Economic Program which was enacted by the 1973 legislature. Additionally, the division provided the commission with management and support staff.</p>
+      <p>In 1975 the department was partially reorganized by executive order of Governor James E. Holshouser, Jr. Under this order the division was renamed the Division of Marine Fisheries.</p>
+      <p>The General Assembly of 1977 reorganized the department and renamed it the Department of Natural Resources and Community Development. Under terms of this act, membership of the Marine Fisheries Commission was increased to include an additional eight members-at-large. The act specified that at least seven of these would be residents of a legislative district including a county that is part of the coastal area. In addition to its previous regulatory duties, the commission was empowered to restrict all forms of fishing activity and habitat alteration which affect the state's marine and estaurine resources.</p>
+      <p>In 1987 the legislature reorganized the Marine Fisheries Commission. It was reconstituted to include four members who were actively engaged in commercial fishing; four who were experienced in sports fishing; three who had expertise in marine science, or related fields; two who were engaged in seafood processing and distribution; and two members-at-large who had experience in the areas regulated by the commission. The commission retained its previous powers, but was charged with providing a comprehensive program directed by knowledgeable citizens. The commission was also directed to advise the state regarding marine fisheries within the jurisdiction of the Atlantic States Marine Fisheries Compact, the South Atlantic Fishery Management Council, and similar organizations.</p>
+      <p>In 1989 the General Assembly abolished the Department of Natural Resources and Community Development and transferred the Marine Fisheries Commission and its corresponding division to the new Department of Environment, Health, and Natural Resources. The division was placed under the department's assistant secretary for the Division of Environmental Protection. It monitored marine fisheries resources; provided law enforcement for regulations established by the Marine Fisheries Commission; conducted scientific research; and developed artificial reefs and programs for shellfish rehabilitation.</p>
+      <p>[This historical note was taken from the historical note in the MARS online catalog for the Marine Fisheries Record Group.]</p>
+    </bioghist>
+    <custodhist>
+      <p>Environment, Health, and Natural Resources, Dept. of</p>
+    </custodhist>
+    <prefercite id="ref7">
+      <head>Preferred Citation</head>
+      <p>[Identification of item], SR.168.3, Division of Marine Fisheries: Slides, State Archives of North Carolina, Raleigh, NC, USA.</p>
+    </prefercite>
+    <acqinfo id="ref8">
+      <head>Acquisitions Information</head>
+      <p>Transferred from the North Carolina Department of Environment, Health and Natural Resources, Division of Marine Fisheries on November 5, 1991, and accessioned by the Archives in December, 1991.</p>
+    </acqinfo>
+    <relatedmaterial id="ref15">
+      <head>Related Collections</head>
+      <p>Additional information on topics found in this collection may be found in the Manuscript and Archives Reference System (MARS) <extref xlink:type="simple">http://mars.archives.ncdcr.gov</extref>.</p>
+    </relatedmaterial>
+    <scopecontent id="ref13">
+      <head>Collection Overview</head>
+      <p>These slides were assembled by the Office of Public Information, North Carolina Division of Marine Fisheries in Morehead City, North Carolina, as a part of its governmental duties under the State Department of Environment, Health and Natural Resources. The images were transferred to the State Archives as inactive files, and were not regularly scheduled to be housed in our repository. The color slides date from the 1970s to the mid 1980s.</p>
+    </scopecontent>
+    <controlaccess>
+      <controlaccess>
+        <corpname encodinganalog="610" source="local">Dan Moore (Ship)</corpname>
+        <corpname encodinganalog="610" source="local">North Carolina. Dept. of Environment and Natural Resources</corpname>
+        <corpname encodinganalog="610" source="local">North Carolina. Dept. of Environment, Health, and Natural Resources. Divisi</corpname>
+        <corpname encodinganalog="610" source="local">North Carolina. Division of Marine Fisheries</corpname>
+        <corpname encodinganalog="610" source="local">North Carolina. Division of Marine Fisheries</corpname>
+        <corpname encodinganalog="610" source="local">Dan Moore (Ship)</corpname>
+        <corpname encodinganalog="610" source="local">North Carolina. Department of Environment and Natural Resources</corpname>
+      </controlaccess>
+      <controlaccess>
+        <subject encodinganalog="650" source="local">Artificial reefs</subject>
+        <subject encodinganalog="650" source="local">Fish trade--North Carolina</subject>
+        <subject encodinganalog="650" source="local">Habitat (Ecology)</subject>
+        <subject encodinganalog="650" source="local">Reef fishes--North Carolina</subject>
+        <subject encodinganalog="650" source="local">Government publicity</subject>
+        <subject encodinganalog="650" source="local">Marine Fishes</subject>
+        <subject encodinganalog="650" source="local">Artificial reefs</subject>
+        <subject encodinganalog="650" source="local">Habitat (Ecology)</subject>
+        <subject encodinganalog="650" source="local">Law and legislation</subject>
+        <subject encodinganalog="650" source="local">Fisheries</subject>
+      </controlaccess>
+      <controlaccess>
+        <geogname encodinganalog="651" source="local">Morehead City (N.C.)</geogname>
+        <geogname encodinganalog="651" source="local">Morehead City</geogname>
+        <geogname encodinganalog="651" source="local">Carteret County (N.C.)</geogname>
+      </controlaccess>
+    </controlaccess>
+    <dsc>
+      <c01 id="file38379" level="file">
+        <did>
+          <unittitle encodinganalog="title">Artificial Reef (Old)</unittitle>
+          <unitid type="local ID">Vol. 1</unitid>
+          <origination label="creator">
+            <corpname role="Originator">North Carolina. Division of Marine Fisheries</corpname>
+          </origination>
+        </did>
+      </c01>
+      <c01 id="file38380" level="file">
+        <did>
+          <unittitle encodinganalog="title">Artificial Reef</unittitle>
+          <unitid type="local ID">Vol. 2</unitid>
+          <origination label="creator">
+            <corpname role="Originator">North Carolina. Division of Marine Fisheries</corpname>
+          </origination>
+        </did>
+      </c01>
+      <c01 id="file38381" level="file">
+        <did>
+          <unittitle encodinganalog="title">Reef Fish and Natural Habitat</unittitle>
+          <unitid type="local ID">Vol. 3</unitid>
+          <origination label="creator">
+            <corpname role="Originator">North Carolina. Division of Marine Fisheries</corpname>
+          </origination>
+        </did>
+      </c01>
+      <c01 id="file38382" level="file">
+        <did>
+          <unittitle encodinganalog="title">The Dan Moore (Ship)</unittitle>
+          <unitid type="local ID">Vol. 4</unitid>
+          <origination label="creator">
+            <corpname role="Originator">North Carolina. Division of Marine Fisheries</corpname>
+          </origination>
+        </did>
+      </c01>
+      <c01 id="file38383" level="file">
+        <did>
+          <unittitle encodinganalog="title">The Dan Moore (Ship)</unittitle>
+          <unitid type="local ID">Vol. 5</unitid>
+          <origination label="creator">
+            <corpname role="Originator">North Carolina. Division of Marine Fisheries</corpname>
+          </origination>
+        </did>
+      </c01>
+      <c01 id="file38384" level="file">
+        <did>
+          <unittitle encodinganalog="title">Law Enforcement (Old)</unittitle>
+          <unitid type="local ID">Vol. 6</unitid>
+          <origination label="creator">
+            <corpname role="Originator">North Carolina. Division of Marine Fisheries</corpname>
+          </origination>
+        </did>
+      </c01>
+      <c01 id="file38385" level="file">
+        <did>
+          <unittitle encodinganalog="title">Law Enforcement, 1985</unittitle>
+          <unitid type="local ID">Vol. 7</unitid>
+          <origination label="creator">
+            <corpname role="Originator">North Carolina. Division of Marine Fisheries</corpname>
+          </origination>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

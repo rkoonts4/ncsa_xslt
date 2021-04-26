@@ -10,6 +10,7 @@
     <!-- conversions for none standard characters created during Axaem import/export -->
     <xsl:include href="characters.xsl"/>
     
+    <!-- stylesheet containing addresses for the repositories -->
     <xsl:include href="address.xsl"/>
     
     <xsl:output method="xhtml" doctype-public="-//W3C//DTD XHTML 1.0 Transitional//EN" use-character-maps="no-control-characters" omit-xml-declaration="yes"/>
@@ -151,9 +152,6 @@
                             <xsl:when test="starts-with($location,'Outer')">
                                 <xsl:call-template name="obhc"/>
                             </xsl:when>
-                            <xsl:otherwise>
-                                <xsl:call-template name="ncsa"/>
-                            </xsl:otherwise>
                         </xsl:choose>
                     </xsl:for-each>
                     </xsl:when>
@@ -242,7 +240,7 @@
                     <dt>Extent</dt>
                     <xsl:for-each select="physdesc">
                         <xsl:choose>
-                            <xsl:when test="child::extent/attribute::label='Calculated Extent'">
+                            <xsl:when test="child::extent/attribute::label='Estimated Extent'">
                                 <dd>
                                     <xsl:for-each select="extent">
                                         <xsl:value-of select="."/><xsl:text> </xsl:text><xsl:value-of select="@unit"/>
@@ -261,16 +259,7 @@
                         <dd><xsl:value-of select="langmaterial"/></dd>                      
                     </xsl:if>
                      <dt>Repository</dt>
-                    <dd>
-                        <xsl:choose>
-                            <xsl:when test="repository">
-                                <xsl:value-of select="repository"/>
-                            </xsl:when>
-                            <xsl:otherwise>
-                                <xsl:value-of select="//publicationstmt/publisher" />
-                            </xsl:otherwise>
-                        </xsl:choose>
-                    </dd>
+                    <dd><xsl:value-of select="repository"/></dd>
                 </dl>
             </div>
         </xsl:for-each>
@@ -476,10 +465,10 @@
     <xsl:template name="contents">
         <xsl:for-each select="//c01[1]">
             <xsl:choose>
-               <xsl:when test="@level='series'">             
+               <xsl:when test="@level='series'">
                     <xsl:call-template name="series"/>
                </xsl:when> 
-               <xsl:otherwise>             
+               <xsl:otherwise>
                 <xsl:choose>
                     <xsl:when test="following-sibling::c01/attribute::level = 'series'">
                     <xsl:call-template name="series"/>
@@ -517,11 +506,6 @@
                 </div>
             </div>
             <xsl:call-template name="ns_containers"/>
-            <xsl:if test="bioghist">
-                <div>
-                    <xsl:apply-templates select="bioghist"/>
-                </div> 
-            </xsl:if>
             <xsl:if test="scopecontent">
                 <div>
                     <xsl:apply-templates select="scopecontent"/>
@@ -540,11 +524,6 @@
                 </div>
             </div>
             <xsl:call-template name="ns_containers"/>
-            <xsl:if test="bioghist">
-                <div>
-                    <xsl:apply-templates select="bioghist"/>
-                </div> 
-            </xsl:if>
             <xsl:if test="scopecontent">
                 <div>
                     <xsl:apply-templates select="scopecontent"/>
@@ -558,24 +537,24 @@
     <div class="faid_containers">
         <xsl:for-each select="did/unitid[1]">
             <xsl:choose>
-            <xsl:when test="following-sibling::container">
+                <xsl:when test="following-sibling::container">
                 <xsl:choose>
                     <xsl:when test="following-sibling::container[@id]">
                     <xsl:choose>
                     <xsl:when test="following-sibling::container[@parent]">
                     <xsl:variable name="parent" select="following-sibling::container/attribute::parent"/>
                         <xsl:variable name="box_num">
-                            <xsl:for-each select="/ead/archdesc/did/container">
+                            <xsl:for-each select="/container">
                                     <xsl:if test="@id = $parent">
                                         <xsl:value-of select="@label"/>
                                     </xsl:if>
                              </xsl:for-each>
                         </xsl:variable>
                          <xsl:choose>
-                            <xsl:when test="contains(lower-case($box_num),'box')">
+                             <xsl:when test="contains($box_num,'Box')">
                                 <span class="container_item box"><xsl:value-of select="$box_num"/></span> 
                             </xsl:when>
-                            <xsl:otherwise>                               
+                            <xsl:otherwise>
                                 <span class="container_item box">Box <xsl:value-of select="$box_num"/></span> 
                             </xsl:otherwise>
                         </xsl:choose>
@@ -588,7 +567,7 @@
                     <xsl:otherwise>
                         <span class="container_item box"><xsl:value-of select="following-sibling::container"/></span> 
                     </xsl:otherwise>
-                </xsl:choose>
+                    </xsl:choose>
                 </xsl:when>
                 <xsl:otherwise>
                     <xsl:choose>
@@ -613,9 +592,6 @@
         </h2>
             <div id="{generate-id()}" class="section sectionSubSeries showhide" style="display: block;">
                 <div class="title c01 c01_title_row">
-                    <xsl:if test="bioghist">
-                        <p dir="auto"><b><xsl:value-of select="bioghist/head"/><xsl:text>: </xsl:text></b><xsl:apply-templates select="bioghist/p"/></p>
-                    </xsl:if>
                     <xsl:if test="scopecontent">
                         <p dir="auto"><b><xsl:value-of select="scopecontent/head"/><xsl:text>: </xsl:text></b><xsl:apply-templates select="scopecontent/p"/></p>
                     </xsl:if>
@@ -656,9 +632,6 @@
                                         <xsl:call-template name="odd_ns"/>
                                         </xsl:if>
                                         </span></h3>
-                                        <xsl:if test="bioghist">
-                                            <p dir="auto"><b><xsl:value-of select="bioghist/head"/><xsl:text>: </xsl:text></b><xsl:apply-templates select="bioghist/p"/></p>
-                                        </xsl:if>
                                         <xsl:if test="scopecontent">
                                             <p dir="auto"><b><xsl:value-of select="scopecontent/head"/><xsl:text>: </xsl:text></b><xsl:apply-templates select="scopecontent/p"/></p>
                                         </xsl:if>
@@ -711,10 +684,6 @@
                         <p dir="auto"><b><xsl:value-of select="processinfo/head"/><xsl:text>: </xsl:text></b>
                             <xsl:apply-templates select="processinfo/p"/></p>
                     </xsl:if>
-                    <xsl:if test="bioghist">
-                        <p dir="auto"><b><xsl:value-of select="bioghist/head"/><xsl:text>: </xsl:text></b>
-                            <xsl:apply-templates select="bioghist/p"/></p>
-                    </xsl:if>
                     <xsl:if test="scopecontent">
                         <p dir="auto"><b><xsl:value-of select="scopecontent/head"/><xsl:text>: </xsl:text></b>
                             <xsl:apply-templates select="scopecontent/p"/></p>
@@ -740,10 +709,6 @@
                         <p dir="auto"><b><xsl:value-of select="processinfo/head"/><xsl:text>: </xsl:text></b>
                             <xsl:apply-templates select="processinfo/p"/></p>
                     </xsl:if>
-                    <xsl:if test="bioghist">
-                        <p dir="auto"><b><xsl:value-of select="bioghist/head"/><xsl:text>: </xsl:text></b>
-                            <xsl:apply-templates select="bioghist/p"/></p>
-                    </xsl:if>
                     <xsl:if test="scopecontent">
                         <p dir="auto"><b><xsl:value-of select="scopecontent/head"/><xsl:text>: </xsl:text></b>
                             <xsl:apply-templates select="scopecontent/p"/></p>
@@ -766,21 +731,17 @@
                         </xsl:when>
                         <xsl:otherwise>      
                             <xsl:variable name="box_num">
-<!-- 2021/04/06 Fix for missing containers at series level. I think this was the intended result.  
-                            <xsl:for-each select="/ead/archdesc/did/container">
+                                <xsl:for-each select="/ead/archdesc/did/container">
                                     <xsl:if test="@id = $parent">
                                         <xsl:value-of select="@label"/>
                                     </xsl:if>
                                 </xsl:for-each>
--->
-                                    <xsl:value-of select="./did/container/@label" />
-
                             </xsl:variable>
                             <xsl:choose>
-                                <xsl:when test="contains(lower-case($box_num),'box')">
+                                <xsl:when test="contains($box_num,'Box')">
                                     <span class="container_item box"><xsl:value-of select="$box_num"/></span> 
                                 </xsl:when>
-                                <xsl:otherwise>                                    
+                                <xsl:otherwise>
                                     <span class="container_item box">Box <xsl:value-of select="$box_num"/></span> 
                                 </xsl:otherwise>
                             </xsl:choose>
@@ -887,19 +848,11 @@
     <xsl:template match="lb">
         <br />
     </xsl:template>
-
-    <xsl:template match="bioghist">
-        <xsl:apply-templates/>
-    </xsl:template>
     
     <xsl:template match="scopecontent">
         <xsl:apply-templates/>
     </xsl:template>
     
-    <xsl:template match="head">
-        <xsl:apply-templates/>
-    </xsl:template>
-
     <xsl:template match="p">
         <p><xsl:apply-templates/></p>
     </xsl:template>
@@ -911,4 +864,5 @@
     
     <!-- leave this, it suppresses anything not specifically called -->
     <xsl:template match="*|@*"/>
+    
 </xsl:stylesheet>
