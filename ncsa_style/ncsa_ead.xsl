@@ -415,18 +415,12 @@
                 </xsl:when>
             </xsl:choose>
             <h2 class="mainheading"><xsl:value-of select="head"/></h2>
-            <div id="{generate-id()}" class="section showhide" style="display: block;">
-                <xsl:for-each select="child::*">
-                    <xsl:choose>
-                        <xsl:when test="name() = 'head'"/>
-                        <xsl:otherwise>
-                            <xsl:apply-templates/>
-                        </xsl:otherwise>
-                    </xsl:choose>
-                </xsl:for-each>
-            </div>
+            <div id="{generate-id()}" class="section showhide" style="display: block;"> 
+<xsl:apply-templates/>
+             </div> 
         </xsl:for-each>
     </xsl:template>
+    <xsl:template match="//archdesc/bioghist/head" />
     
     <!-- Subject Headings -->
     <xsl:template name="SH">
