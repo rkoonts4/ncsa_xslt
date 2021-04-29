@@ -238,7 +238,7 @@
                         <dt>Date</dt>
                         <dd><xsl:value-of select="unitdate"/></dd>
                     </xsl:if>
-                    <xsl:if test="physdesc/extent">
+                    <xsl:if test="physdesc/extent/attribute::label='Calculated Extent'">
                     <dt>Extent</dt>
                     <xsl:for-each select="physdesc">
                         <xsl:choose>
