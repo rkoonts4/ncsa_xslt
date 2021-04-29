@@ -482,7 +482,7 @@
                     </xsl:when>
                     <xsl:otherwise>
                     <a name="contents" class="anchor"/>
-                    <strong>Collection Contents</strong>
+                    
                     <xsl:call-template name="contents_ns"/>
                     </xsl:otherwise>
                     </xsl:choose>
