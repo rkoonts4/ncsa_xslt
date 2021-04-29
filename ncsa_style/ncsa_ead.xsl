@@ -245,9 +245,11 @@
                             <xsl:when test="child::extent/attribute::label='Calculated Extent'">
                                 <dd>
                                     <xsl:for-each select="extent">
+                                        <xsl:if test="./attribute::label='Calculated Extent'">
                                         <xsl:value-of select="."/><xsl:text> </xsl:text><xsl:value-of select="@unit"/>
-                                        <xsl:if test="following-sibling::extent">
-                                            <xsl:text>, </xsl:text>
+                                            <xsl:if test="following-sibling::extent/attribute::label='Calculated Extent'">
+                                                <xsl:text>, </xsl:text>
+                                            </xsl:if>
                                         </xsl:if>
                                     </xsl:for-each>
                                 </dd>
