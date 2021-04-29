@@ -190,7 +190,7 @@
         <xsl:if test="//abstract">
             <li><a href="#abstract">Abstract</a></li>
         </xsl:if>
-        <li><a href="#sql">Series Quick Links</a></li>
+        <li><a href="#sql">Quick Links</a></li>
         <li><a href="#collectionoverview">Collection Overview</a></li>
         <xsl:if test="//archdesc/arrangement">
             <li><a href="#arrangementnote">Arrangement Note</a></li>
@@ -281,7 +281,7 @@
     <xsl:template name="SQL">
  
          <a name="sql" class="anchor"/>
-        <h2 class="mainheading">Series Quick Links</h2>
+        <h2 class="mainheading">Quick Links</h2>
 
         <div id="{generate-id()}" class="section showhide" style="display: block;">
             <ol>
