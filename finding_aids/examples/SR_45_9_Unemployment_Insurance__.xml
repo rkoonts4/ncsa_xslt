@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="ISO-8859-15" standalone="yes"?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader findaidstatus="InProcess" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+    <eadid countrycode="US" mainagencycode="NC-Ar">SR.45.9</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Unemployment Insurance Division: Financial and Miscellaneous Reports<num>SR.45.9</num></titleproper>
+        <author>State Archives of North Carolina</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>State Archives of North Carolina</publisher>
+        <date type="publication" normal="20210506">2021-05-06T11:40:37</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using AXAEM<date normal="20210506">2021-05-06T11:40:37</date></creation>
+      <langusage>Description is in<language>English</language></langusage>
+    </profiledesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Unemployment Insurance Division: Financial and Miscellaneous Reports<num>SR.45.9</num></titleproper>
+      <author>State Archives of North Carolina</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc id="series30883" level="series" relatedencoding="dc">
+    <did>
+      <unittitle encodinganalog="title">Unemployment Insurance Division: Financial and Miscellaneous Reports</unittitle>
+      <unitid type="local ID">SR.45.9</unitid>
+      <unitid identifier="45.9" type="Mars ID" label="Mars ID">45.9</unitid>
+      <unitid identifier="45.9" type="Old Mars ID" label="Old Mars ID">45.9</unitid>
+      <unitid identifier="Box 2 - Box 3" type="Call Number" label="Location: BST 662">Box 2 - Box 3</unitid>
+      <unitdate encodinganalog="date" type="inclusive" normal="1937/1957">1937-1957</unitdate>
+      <container id="cid1299353" label="SR.45.002" type="Box">Unemployment Insurance Division: Financial and Miscellaneous Reports</container>
+      <container id="cid1299354" label="SR.45.003" type="Box">Unemployment Insurance Division: Financial and Miscellaneous Reports, and Joint Services Division: Miscellaneous File</container>
+      <physdesc>
+        <genreform>Reports</genreform>
+        <genreform>Speeches</genreform>
+        <genreform>Statistics</genreform>
+        <genreform>Memorandum</genreform>
+        <genreform>Accounts</genreform>
+        <genreform>Lists</genreform>
+      </physdesc>
+      <physdesc>
+        <extent label="Calculated Extent" encodinganalog="format" unit="cubic feet">0.800</extent>
+      </physdesc>
+      <origination label="creator">
+        <corpname role="Originator">Department of Commerce. Employment Security Commission.</corpname>
+      </origination>
+    </did>
+    <arrangement>
+      <head>Arrangement</head>
+      <p>Alphabetical by subject, then chronological.</p>
+    </arrangement>
+    <custodhist>
+      <p>Employment Security Commission</p>
+    </custodhist>
+    <relatedmaterial>
+      <p>Joint Services Division: Statistical Reports from the North Carolina Unemployment Compensation Commission,(series 30884), Box SR.45.003 contains records from both the Unemployment Insurance Division: Financial and Miscellaneous Reports series and the Joint Services Division: Statistical Reports series.</p>
+    </relatedmaterial>
+    <scopecontent>
+      <head>Scope and Content</head>
+      <p>Carbon copies of financial reports (1937-1954), including monthly analyses, summaries, reconciliation of accounts, trial balances, and lists of overpayments and of bad checks from employers. Miscellaneous records include status reports from various divisions; reports on group layoffs in North Carolina (1951-1957), delinquent employers, procedure for charging proportional benefits to former employers (1939), and resources available through the Unemployment Compensation Commission in North Carolina; a speech by Maj. Arthur L. Fletcher to the N.C. State Federation of Labor (ca. 1941); and a paper by William R. Curtis on the "Unemployment Compensation Experience in the South" (1939).<lb/><lb/>Box SR.45.003 also contains series SR.45.10, Joint Services Division: Statistical Reports.</p>
+    </scopecontent>
+    <controlaccess>
+      <controlaccess>
+        <persname encodinganalog="600" source="local">Fletcher, Arthur L.</persname>
+        <persname encodinganalog="600" source="local">Curtis, William R.</persname>
+      </controlaccess>
+      <controlaccess>
+        <corpname encodinganalog="610" source="local">Unemployment Administrative Fund</corpname>
+        <corpname encodinganalog="610" source="local">Unemployment Insurance Division</corpname>
+        <corpname encodinganalog="610" source="local">Unemployment Compensation Commission of North Carolina</corpname>
+        <corpname encodinganalog="610" source="local">North Carolina. Employment Security Commission</corpname>
+        <corpname encodinganalog="610" source="local">Federation of Labor</corpname>
+      </controlaccess>
+      <controlaccess>
+        <subject encodinganalog="650" source="local">Manpower Policy</subject>
+        <subject encodinganalog="650" source="local">Unemployment insurance</subject>
+        <subject encodinganalog="650" source="local">Employment Benefits</subject>
+        <subject encodinganalog="650" source="local">Labor</subject>
+      </controlaccess>
+    </controlaccess>
+    <dsc>
+      <c01 id="subseries13657" level="subseries">
+        <did>
+          <unittitle encodinganalog="title">Financial Reports</unittitle>
+          <unitid type="local ID">SR.45.9.1</unitid>
+          <unitdate encodinganalog="date" type="inclusive" normal="1937/1956">1937-1956</unitdate>
+          <origination label="creator">
+            <corpname role="Originator">Department of Commerce. Employment Security Commission.</corpname>
+          </origination>
+        </did>
+        <c02 id="file56440" level="file">
+          <did>
+            <unittitle encodinganalog="title">Monthly Analysis of Benefit Payment Account</unittitle>
+            <unitid type="local ID">SR.45.002</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1950/1956">1950-1956</unitdate>
+            <origination label="creator">
+              <corpname role="Originator">Department of Commerce. Employment Security Commission.</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file56441" level="file">
+          <did>
+            <unittitle encodinganalog="title">Monthly Analysis of Clearing Account</unittitle>
+            <unitid type="local ID">SR.45.002</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1950/1956">1950-1956</unitdate>
+            <origination label="creator">
+              <corpname role="Originator">Department of Commerce. Employment Security Commission.</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file56442" level="file">
+          <did>
+            <unittitle encodinganalog="title">Monthly Summary of Financial Transactions</unittitle>
+            <unitid type="local ID">SR.45.002</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1950/1956">1950-1956</unitdate>
+            <origination label="creator">
+              <corpname role="Originator">Department of Commerce. Employment Security Commission.</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file56443" level="file">
+          <did>
+            <unittitle encodinganalog="title">Overpayments</unittitle>
+            <unitid type="local ID">SR.45.002</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1949/1954">1949-1954</unitdate>
+            <origination label="creator">
+              <corpname role="Originator">Department of Commerce. Employment Security Commission.</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file56444" level="file">
+          <did>
+            <unittitle encodinganalog="title">Reconciliation of Accounts</unittitle>
+            <unitid type="local ID">SR.45.002</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1939/1952">1939-1952</unitdate>
+            <origination label="creator">
+              <corpname role="Originator">Department of Commerce. Employment Security Commission.</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file56445" level="file">
+          <did>
+            <unittitle encodinganalog="title">Reconcilement of the Unemployment Administrative Fund, Codes 58 and 59</unittitle>
+            <unitid type="local ID">SR.45.002</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1941/1954">1941-1954</unitdate>
+            <origination label="creator">
+              <corpname role="Originator">Department of Commerce. Employment Security Commission.</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file56446" level="file">
+          <did>
+            <unittitle encodinganalog="title">Trial Balance, Financial and Operating Reports</unittitle>
+            <unitid type="local ID">SR.45.002</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1937/1954">1937-1954</unitdate>
+            <origination label="creator">
+              <corpname role="Originator">Department of Commerce. Employment Security Commission.</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file56447" level="file">
+          <did>
+            <unittitle encodinganalog="title">Uncollected Checks</unittitle>
+            <unitid type="local ID">SR.45.002</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1938/1954">1938-1954</unitdate>
+            <origination label="creator">
+              <corpname role="Originator">Department of Commerce. Employment Security Commission.</corpname>
+            </origination>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="subseries13658" level="subseries">
+        <did>
+          <unittitle encodinganalog="title">Miscellaneous Reports</unittitle>
+          <unitid type="local ID">SR.45.9.2</unitid>
+          <unitdate encodinganalog="date" type="inclusive" normal="1939/1957">1939-1957</unitdate>
+          <origination label="creator">
+            <corpname role="Originator">Department of Commerce. Employment Security Commission.</corpname>
+          </origination>
+        </did>
+        <c02 id="file56542" level="file">
+          <did>
+            <unittitle encodinganalog="title">Group Layoffs</unittitle>
+            <unitid type="local ID">SR.45.002</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1951/1957">1951-1957</unitdate>
+            <origination label="creator">
+              <corpname role="Originator">Department of Commerce. Employment Security Commission.</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file56543" level="file">
+          <did>
+            <unittitle encodinganalog="title">Weekly Report of Delinquents</unittitle>
+            <unitid type="local ID">SR.45.002</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1952/1957">1952-1957</unitdate>
+            <origination label="creator">
+              <corpname role="Originator">Department of Commerce. Employment Security Commission.</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file56544" level="file">
+          <did>
+            <unittitle encodinganalog="title">Montly Report of Employers</unittitle>
+            <unitid type="local ID">SR.45.002</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1939/1954">1939-1954</unitdate>
+            <origination label="creator">
+              <corpname role="Originator">Department of Commerce. Employment Security Commission.</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file56545" level="file">
+          <did>
+            <unittitle encodinganalog="title">Monthly Report of Initial Determinations Protested</unittitle>
+            <unitid type="local ID">SR.45.002</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1947/1954">1947-1954</unitdate>
+            <origination label="creator">
+              <corpname role="Originator">Department of Commerce. Employment Security Commission.</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file56546" level="file">
+          <did>
+            <unittitle encodinganalog="title">Time Lapse Study of Benefit Payments</unittitle>
+            <unitid type="local ID">SR.45.002</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1947/1954">1947-1954</unitdate>
+            <origination label="creator">
+              <corpname role="Originator">Department of Commerce. Employment Security Commission.</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file56547" level="file">
+          <did>
+            <unittitle encodinganalog="title">Status Reports - Accounting Department</unittitle>
+            <unitid type="local ID">SR.45.002</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1951/1957">1951-1957</unitdate>
+            <origination label="creator">
+              <corpname role="Originator">Department of Commerce. Employment Security Commission.</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file56548" level="file">
+          <did>
+            <unittitle encodinganalog="title">Status Reports - Appeals Department</unittitle>
+            <unitid type="local ID">SR.45.002</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1951/1957">1951-1957</unitdate>
+            <origination label="creator">
+              <corpname role="Originator">Department of Commerce. Employment Security Commission.</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file56549" level="file">
+          <did>
+            <unittitle encodinganalog="title">Status Reports - Claims Department</unittitle>
+            <unitid type="local ID">SR.45.002</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1951/1957">1951-1957</unitdate>
+            <origination label="creator">
+              <corpname role="Originator">Department of Commerce. Employment Security Commission.</corpname>
+            </origination>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="subseries13659" level="subseries">
+        <did>
+          <unittitle encodinganalog="title">Miscellaneous</unittitle>
+          <unitid type="local ID">SR.45.9.3</unitid>
+          <unitdate encodinganalog="date" type="inclusive" normal="1939/1941">1939-1941</unitdate>
+          <origination label="creator">
+            <corpname role="Originator">North Carolina Unemployment Compensation Commission</corpname>
+          </origination>
+        </did>
+        <c02 id="file56550" level="file">
+          <did>
+            <unittitle encodinganalog="title">Experience Rating: North Carolina Materials</unittitle>
+            <unitid type="local ID">SR.45.003</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1939/1941">1939, 1941</unitdate>
+            <origination label="creator">
+              <corpname role="Originator">North Carolina Unemployment Compensation Commission</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file56551" level="file">
+          <did>
+            <unittitle encodinganalog="title">North Carolina Federation of Labor - Speech Made to this Organization by Major Fletcher</unittitle>
+            <unitid type="local ID">SR.45.003</unitid>
+            <unitdate encodinganalog="date" type="inclusive">undated</unitdate>
+            <origination label="creator">
+              <corpname role="Originator">Department of Commerce. Employment Security Commission.</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file56552" level="file">
+          <did>
+            <unittitle encodinganalog="title">Unemployment Compensation Experience in the South</unittitle>
+            <unitid type="local ID">SR.45.003</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1939/1939">1939</unitdate>
+            <origination label="creator">
+              <corpname role="Originator">North Carolina Unemployment Compensation Commission</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file56553" level="file">
+          <did>
+            <unittitle encodinganalog="title">Problems Involved in Integration of Placement and Unemployment</unittitle>
+            <unitid type="local ID">SR.45.003</unitid>
+            <unitdate encodinganalog="date" type="inclusive">undated</unitdate>
+            <origination label="creator">
+              <corpname role="Originator">Department of Commerce. Employment Security Commission.</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file56554" level="file">
+          <did>
+            <unittitle encodinganalog="title">Employment Security Resources and Services Available through North Carolina Unemployment Compensation Commission</unittitle>
+            <unitid type="local ID">SR.45.003</unitid>
+            <unitdate encodinganalog="date" type="inclusive">undated</unitdate>
+            <origination label="creator">
+              <corpname role="Originator">Department of Commerce. Employment Security Commission.</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file56555" level="file">
+          <did>
+            <unittitle encodinganalog="title">Developments in Employer Experience Rating in Unemployment Compensation in North Carolina</unittitle>
+            <unitid type="local ID">SR.45.003</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1939/1939">1939, undated</unitdate>
+            <origination label="creator">
+              <corpname role="Originator">North Carolina Unemployment Compensation Commission</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file56556" level="file">
+          <did>
+            <unittitle encodinganalog="title">Building and Maintaining Morale</unittitle>
+            <unitid type="local ID">SR.45.003</unitid>
+            <unitdate encodinganalog="date" type="inclusive">undated</unitdate>
+            <origination label="creator">
+              <corpname role="Originator">Department of Commerce. Employment Security Commission.</corpname>
+            </origination>
+          </did>
+        </c02>
+        <c02 id="file56557" level="file">
+          <did>
+            <unittitle encodinganalog="title">Using Statistical Reports in Local Office Operations</unittitle>
+            <unitid type="local ID">SR.45.003</unitid>
+            <unitdate encodinganalog="date" type="inclusive" normal="1940/1940">1940</unitdate>
+            <origination label="creator">
+              <corpname role="Originator">North Carolina Unemployment Compensation Commission</corpname>
+            </origination>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

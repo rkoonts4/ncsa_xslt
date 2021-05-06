@@ -449,12 +449,14 @@
     <!-- Processing Information -->
     
     <xsl:template name="PI">
-        <h2 class="mainheading">Processing Information</h2>
-        <div id="{generate-id()}" class="section showhide" style="display: block;">
-            <xsl:for-each select="//archdesc/processinfo/p">
-                <li><xsl:apply-templates/></li>
-            </xsl:for-each>
-        </div>
+        <xsl:if test="/ead/archdesc/processinfo">
+            <h2 class="mainheading">Processing Information</h2>
+            <div id="{generate-id()}" class="section showhide" style="display: block;">
+                <xsl:for-each select="//archdesc/processinfo/p">
+                    <div><xsl:apply-templates/></div>
+                </xsl:for-each>
+            </div>
+        </xsl:if>
     </xsl:template>
     
     <!-- Collection Content area -->
@@ -572,7 +574,7 @@
                                 <span class="container_item box"><xsl:value-of select="$box_num"/></span> 
                             </xsl:when>
                             <xsl:otherwise>                               
-                                <span class="container_item box">Box <xsl:value-of select="$box_num"/></span> 
+                                <span class="container_item box"><xsl:value-of select="$box_num"/></span> 
                             </xsl:otherwise>
                         </xsl:choose>
                     </xsl:when>
@@ -777,7 +779,7 @@
                                     <span class="container_item box"><xsl:value-of select="$box_num"/></span> 
                                 </xsl:when>
                                 <xsl:otherwise>                                    
-                                    <span class="container_item box">Box <xsl:value-of select="$box_num"/></span> 
+                                    <span class="container_item box"><xsl:value-of select="$box_num"/></span> 
                                 </xsl:otherwise>
                             </xsl:choose>
                         </xsl:otherwise>

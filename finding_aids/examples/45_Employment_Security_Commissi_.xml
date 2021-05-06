@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="ISO-8859-15" standalone="yes"?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader findaidstatus="InProcess" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+    <eadid countrycode="US" mainagencycode="NC-Ar">45</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Employment Security Commission Record Group<num>45</num></titleproper>
+        <author>State Archives of North Carolina</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>State Archives of North Carolina</publisher>
+        <date type="publication" normal="20210504">2021-05-04T09:21:03</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using AXAEM<date normal="20210504">2021-05-04T09:21:03</date></creation>
+      <langusage>Description is in<language>English</language></langusage>
+    </profiledesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Employment Security Commission Record Group<num>45</num></titleproper>
+      <author>State Archives of North Carolina</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc id="recordgrp100045" level="recordgrp" relatedencoding="dc">
+    <did>
+      <unittitle encodinganalog="title">Employment Security Commission Record Group</unittitle>
+      <unitid type="local ID">45</unitid>
+      <unitid identifier="45" type="Mars ID" label="Mars ID">45</unitid>
+      <unitid identifier="45" type="Old Mars ID" label="Old Mars ID">45</unitid>
+      <origination label="creator">
+        <corpname role="Originator">Employment Security Commission</corpname>
+      </origination>
+      <origination label="Creator">
+        <corpname role="Unspecified">Employment Security Commission</corpname>
+      </origination>
+      <origination label="Creator">
+        <corpname role="Unspecified">Unemployment Compensation Commission</corpname>
+      </origination>
+      <repository encodinganalog="publisher">
+        <corpname>State Archives of North Carolina</corpname>
+      </repository>
+    </did>
+    <acqinfo>
+      <p>Transfered (from us)</p>
+    </acqinfo>
+    <relatedmaterial>
+      <p> Dept. of Commerce (MARS # 37)</p>
+    </relatedmaterial>
+    <scopecontent>
+      <head>Scope and Content</head>
+      <p>In 1921 the General Assembly called for the establishment of an Employment Bureau within the Department of Labor and Printing, the first free employment service in the state to receive funding from both the state and the federal government. The commissioner of labor and printing was authorized to contract with local authorities for the establishment of branch employment offices and to cooperate with and accept aid from certain agencies designated by Congress to assist the unemployed. The commissioner was also charged with collecting data and generating statistics on various labor topics, including unemployment. In 1931 the General Assembly abolished the Department of Labor and Printing and transferred most of its functions to the newly established Department of Labor under the administration of a commissioner of labor.<lb/>In an attempt to address the nation's severe unemployment problems during the era of the Great Depression, Congress enacted the Wagner-Peyser Act of 1933. It provided for the coordination of all local, state, and federal employment agencies into a comprehensive system directed by the U.S. Employment Service within the federal Department of Labor. Subsequently, in March 1935 the General Assembly amended the legislation establishing the Employment Bureau and empowered the commissioner of labor to cooperate with the U.S. Employment Service and other agencies under terms required by the recent federal legislation. This amendment established the State Employment Service and required it to offer vocational guidance in addition to job placement services.<lb/>In May 1935 the General Assembly directed the governor and Council of State to select a means of administering an unemployment compensation fund, an action that anticipated the passage of federal unemployment insurance laws. The following August Congress enacted the National Social Security Act, with various provisions for unemployed workers under Titles III and IX. This legislation declared a mandatory federal excise tax on employers with payrolls carrying eight or more workers and authorized qualified state agencies to receive federal grants through the U.S. Department of Labor and to administer tax-based funds to the unemployed who met the conditions required by the Social Security Act. A federal Social Security Board was established to administer the act and to set standards for participating state agencies. Subsequently, the Social Security Board took over the U.S. Employment Service and thereafter followed a course of coordinating job insurance with a program of job placement.<lb/>In response to federal initiatives and requirements, the General Assembly called a special session in December 1936 and established the North Carolina Unemployment Compensation Commission (UCC). The commission's primary function was to provide aid to those out of work by circumstances beyond their control and to continue to fund such assistance in consonance with federal directives. The UCC was to consist of two gubernatorial appointees and the commissioner of labor, with a chairman designated by the governor from among these members. Following the initial staggered terms, terms of appointed board members were to be for six years. Other powers and duties of the UCC included the following: to adopt administrative rules and regulations; to submit an annual report to the governor including any recommended legislative amendments; to publish relevant laws, rules, regulations, and reports for public distribution; to prescribe the records to be maintained by employers, which were to remain open to inspection by the commission; in disputed cases, to issue or authorize a representative to issue subpoenas requiring attendance of witnesses and the production of records with the backing of the state's courts; and to cooperate fully with the Social Security Board and all other federal agencies charged with the administration of public works or assistance through public employment. The law permitted judicial review of the commission's decisions through appeal to the superior court in the aggrieved party's county of residence.<lb/>The Unemployment Compensation Law of 1936 also provided for the establishment of two separate administrative units within the UCC: the State Employment Service Division and the Unemployment Compensation Division. The former division was the successor of the State Employment Service established in 1935. Subsequently, two other components were added for legal and administrative purposes: General Counsel, created to advise the commission and to represent it in court proceedings; and the Bureau of Research and Statistics, charged with supplying data required by federal law. The UCC was also empowered to establish state and various local advisory councils to discuss problems and to help formulate policies related to the administration of the unemployment act. In 1938 the North Carolina Merit System Council was created to handle the personnel work of the UCC and was subsequently expanded to do the same for other agencies required to maintain federal employment standards.<lb/>In 1939 the General Assembly extended the UCC's quasi-judicial powers, stipulating that its decisions, when docketed by a clerk of court, carried the same force as a judgment of the superior court. Subsequently, the legislature in 1941 removed the commissioner of labor from service on the commission, changed the number of gubernatorial appointees from two to seven, reduced members' tenures to four years after initial staggered terms, and specified that none could simultaneously hold a position with any political party.<lb/>Following the nation's entry into World War II, President Franklin D. Roosevelt requested that states' separate employment services be centralized into one federal agency responsive to the demands of national defense. Effective 1 January 1942, the records of the State Employment Service Division and various other personnel under the UCC were transferred to the United States Employment Service under the Social Security Board. The following year, the General Assembly empowered the UCC to cooperate with other unemployment compensation agencies and to make reciprocal arrangements with agencies of the federal and other state governments.<lb/>The State Employment Service Division was returned to the UCC in November 1946. In 1947 the General Assembly changed the name of the agency to the Employment Security Commission (ESC) and vested it with all powers and duties previously granted to it as the Unemployment Compensation Commission.<lb/>Under the Executive Organization Act of 1971 the ESC was placed within the Department of Commerce for administrative purposes, although the commission retained its previously granted powers and duties and was not subject to the authority of the cabinet-level departmental secretary. Other legislation passed during that period included an amendment to the Employment Security Law in 1977 to comply with various federal requirements communicated through the U.S. Department of Labor. The ESC was thereafter authorized to suspend enforcement of any of the law's provisions until the legislature had the opportunity to make state law conform with federal law. In 1981 the General Assembly made the tenure of the ESC chairman indefinite, although subject to the pleasure of any current governor. In 1987 the General Assembly directed that the commission would continue to print its rules and regulations for distribution to the public, but it was no longer required to submit reports to the governor.<lb/>In 1989 the General Assembly directed that judgments of the ESC were not binding in subsequent litigation in the courts of the state or federal government, although the commissioner's decisions were to be accepted in proceedings before the North Carolina Industrial Commission. In 1989 the legislature also reorganized the ESC's administrative agency as the Department of Economic and Community Development. However, the General Assembly of 1991 restored the name of the agency to the Department of Commerce, effective 1 January 1993.<lb/>The present ESC offers a variety of services and programs added during recent years, yet its organizational structure is based on its original divisions of Employment Service, Unemployment Insurance Compensation, and Labor Market Information (formerly Research and Statistics), and the Office of General Counsel. In addition to providing job referral and training, the Division of Employment Service currently offers services to special groups such as migrant and seasonal workers, veterans, youth, senior citizens, and the handicapped. The division also directs federal programs including the Work Incentive Program, Veterans Employment Service, and the Job Training Partnership Act. The Division of Unemployment Compensation continues to determine applicants' entitlement to benefits and to make payments to eligible claimants. The division also administers a variety of federal plans such as Supplemental Benefits; Special Unemployment Assistance; and Unemployment Compensation for Federal Employees. The Division of Labor Market Information is responsible for developing and managing a comprehensive information system using current technologies. Substantial growth of the division has occurred since the executive order of Governor James B. Hunt, Jr., in March 1982, designating the ESC as lead agency for labor market information in the state, including figures on employment, unemployment, wages, and projected occupational needs.<lb/>REFERENCES: P.L., 1921, c.131.<lb/>P.L., 1931, cc. 312, 426.<lb/>P.L., 1935, cc. 106, 306, 492.<lb/>P.L., 1939, cc. 27, 28, 52, 207, 209.<lb/>P.L., 1941, cc. 108, 279.<lb/>P.L., 1943, c. 377, s. 22.<lb/>S.L., 1947, c. 598.<lb/>S.L., 1971, c. 864, s. 17(1-3)(6).<lb/>S.L., 1977, c. 727, s. 56.<lb/>S.L., 1981, c. 354; Executive Order No. 77, 3 March 1982.<lb/>S.L., 1987, cc. 17, 273.<lb/>S.L., 1989, cc. 583; 751, ss. 1-2.<lb/>S.L., 1991, c. 959.<lb/>G.S. 96-1 through 96-5 [1992]. Employment Security Commission. BIENNIAL 	REPORT OF THE EMPLOYMENT SECURITY COMMISSION OF NORTH 	CAROLINA: JULY 1, 1950 TO JUNE 30, 1952. Raleigh, 1952. Pp. 34-39.<lb/>Hicks, John D. THE AMERICAN NATION: A HISTORY OF THE UNITED <lb/>	STATES FROM 1865 TO THE PRESENT. Boston: Houghton Mifflin <lb/>	Company, 1941 Pp. 668, 697-699.<lb/>Institute for Government Research of the Brookings Institution. <lb/>	REPORT ON A SURVEY OF THE ORGANIZATION AND ADMINISTRATION 	OF THE STATE GOVERNMENT OF NORTH CAROLINA. Washington, D.C., <lb/>	1930. Pp. 266-273. <lb/>Office of the Secretary of State. NORTH CAROLINA MANUAL, 1991-1992. <lb/>	Edited by Julie W. Snee. Raleigh, 1992. Pp. 152-153.<lb/>Poff, Jan-Michael, ed. ADDRESSES AND PUBLIC PAPERS OF JAMES BAXTER <lb/>	HUNT, JR., GOVERNOR OF NORTH CAROLINA, VOLUME II, 1981-1985. <lb/>	Raleigh: Division of Archives and History, Department of Cultural <lb/>	Resources, 1987. Pp. 418-421, 571.<lb/>Rankin, Robert S. THE GOVERNMENT AND ADMINISTRATION OF NORTH <lb/>	CAROLINA. American Commonwealths Series, edited by W. Brooke <lb/>	Graves. New York: Thomas Y. Crowell Company, 1955. Pp. 145-146; <lb/>	289-291.<lb/>Thornton, Mary Lindsay, compiler. OFFICIAL PUBLICATIONS OF THE <lb/>	COLONY AND STATE OF NORTH CAROLINA, 1749-1939: A 	BIBLIOGRAPHY. Chapel Hill: University of North Carolina Press, 1954. 	P. 263.<lb/>Unemployment Compensation Commission. BIENNIAL REPORT OF THE <lb/>	UNEMPLOYMENT COMPENSATION COMMISSION OF NORTH CAROLINA: 	JULY 1, 1940 TO JUNE 30, 1942. Raleigh, 1942. Pp. 9-17.<lb/>U.S. Congress. Social Security Act, 14 August 1935. STATUTES AT <lb/>	LARGE, (74th Congress, 1st sess., H.R. 7260), Vol. 49, pt. 2.</p>
+    </scopecontent>
+    <controlaccess>
+      <controlaccess>
+        <corpname encodinganalog="610" source="local">North Carolina. Employment Security Commission</corpname>
+        <corpname encodinganalog="610" source="local">Unemployment Compensation Commission of North Carolina</corpname>
+        <corpname encodinganalog="610" source="local">North Carolina. Department of Commerce</corpname>
+      </controlaccess>
+      <controlaccess>
+        <subject encodinganalog="650" source="local">Unemployment</subject>
+        <subject encodinganalog="650" source="local">Job Security</subject>
+        <subject encodinganalog="650" source="local">Unemployment insurance</subject>
+        <subject encodinganalog="650" source="local">Manpower Policy</subject>
+        <subject encodinganalog="650" source="local">Employment</subject>
+      </controlaccess>
+    </controlaccess>
+    <dsc>
+      <c01 id="series30875" level="series">
+        <did>
+          <unittitle encodinganalog="title">Chairman's Office: Employment and Training Administration Correspondence File</unittitle>
+          <unitid type="local ID">45.1</unitid>
+          <unitid identifier="422" type="Records Series (RS) Number" label="Records Series (RS) Number">422</unitid>
+          <unitid identifier="45.1" type="Mars ID" label="Mars ID">45.1</unitid>
+          <unitid identifier="45.1" type="Old Mars ID" label="Old Mars ID">45.1</unitid>
+          <unitdate encodinganalog="date" type="inclusive" normal="1940/1981">1940-1975, 1979-1981</unitdate>
+          <physdesc>
+            <genreform>Correspondence</genreform>
+            <genreform>Reports</genreform>
+          </physdesc>
+          <origination label="creator">
+            <corpname role="Originator">Employment Security Commission</corpname>
+          </origination>
+          <origination label="Creator">
+            <corpname role="Unspecified">Employment Security Commission</corpname>
+          </origination>
+          <origination label="Creator">
+            <corpname role="Unspecified">Unemployment Compensation Commission</corpname>
+          </origination>
+        </did>
+        <arrangement>
+          <head>Arrangement</head>
+          <p>Unprocessed; chronological.</p>
+        </arrangement>
+        <accessrestrict>
+          <head>Access Restriction</head>
+          <p>Records are stored in the State Records Center and require additional time to pull. Access to these records on Saturdays requires prior arrangements. Please consult the reference staff for more information.</p>
+        </accessrestrict>
+        <custodhist>
+          <custodhist>
+            <p>Commerce, Dept. of</p>
+          </custodhist>
+          <custodhist>
+            <p>Employment Security Commission</p>
+          </custodhist>
+        </custodhist>
+        <scopecontent>
+          <head>Scope and Content</head>
+          <p>Correspondence between the Employment Security Commission and the U.S. Department of Labor's Employment and Training Administration. File includes records and reports concerning national and state employment programs and policies.<lb/> <lb/>TRANSFERRED DATES VOLUME TO ARCHIVES<lb/>Transf. 6/22/59 1940-1942 	 	1 box 5-17-79 <lb/>	1941-42, 1942-43 		1 box 5-17-79 <lb/>	1943-1944 		1 box 5-17-79 <lb/>	1943-44, 1944-45 		1 box 5-17-79 <lb/>	1945-1947 		1 box 5-17-79 <lb/>	1945-46, 1946-47 	1 box 5-17-79 <lb/>	1947-48, 1948-49 		1 box 5-17-79 <lb/>	1948-1951 		1 box 5-17-79 <lb/>	1949-50, 1950-51 		1 box 5-17-79 <lb/>	1951-52, 1952-53 		1 box 5-17-79 <lb/>	1952-1953 		1 box 5-17-79 <lb/>	1954 		1 box 5-17-79 <lb/>	1953-54, 1954-55 		1 box 5-17-79<lb/>Transf. 7/17/63 1954-1959 		4 boxes 5-17-79<lb/>Transf. 4/16/75 Back to 1940 	1 box 5-17-79<lb/>Transf. 7/17/63 1958-1960 	1 box 6-20-88<lb/>Transf. 7/15/70 1959-1964 	3 boxes 6-20-88<lb/>Transf. 7/17/72 1951-1962 	4 boxes 6-20-88<lb/>Transf. 7/17/72 1963-1968		3 boxes 6-20-88<lb/>Transf. 7/17/72 1964-1968		4 boxes 6-20-88<lb/>Transf. 8/9/74 1968-1972		7 boxes 6-20-88<lb/>Transf. 4/16/75 1963-1970 		2 boxes 6-20-88<lb/>Transf. 4/16/75 1971-1973		1 box 6-20-88<lb/>Transf. 4/1/76 1972-1975 		2 boxes 6-20-88<lb/>Transf. 2/22/85 1979-1981		9 boxes 2-19-93</p>
+        </scopecontent>
+      </c01>
+      <c01 id="series30876" level="series">
+        <did>
+          <unittitle encodinganalog="title">[DEACCESSIONED] Administrative Law Division, Appeals Section: Appeals Referees' Decisions File</unittitle>
+          <unitid type="local ID">45.2</unitid>
+          <unitid identifier="449" type="Records Series (RS) Number" label="Records Series (RS) Number">449</unitid>
+          <unitid identifier="45.2" type="Mars ID" label="Mars ID">45.2</unitid>
+          <unitid identifier="45.2" type="Old Mars ID" label="Old Mars ID">45.2</unitid>
+          <unitdate encodinganalog="date" type="inclusive" normal="1974/1977">1974-1977</unitdate>
+          <physdesc>
+            <genreform>Decisions</genreform>
+          </physdesc>
+          <abstract label="Abstract">Legal decisions issued by the appeals referees as a result of protested claims for unemployment insurance benefits.</abstract>
+          <origination label="creator">
+            <corpname role="Originator">Employment Security Commission</corpname>
+          </origination>
+          <origination label="Creator">
+            <corpname role="Unspecified">Employment Security Commission</corpname>
+          </origination>
+        </did>
+        <custodhist>
+          <p>Commerce, Dept. of</p>
+        </custodhist>
+        <scopecontent>
+          <head>Scope and Content</head>
+          <p>These records have been deaccessioned as approved by the North Carolina Historical Commission in their meeting on 22 May 2003.<lb/><lb/>Transfer History<lb/>4 cubic feet of records dated 1974-1976 transferred to the State Records Center on 12 January 1982 and accessioned 20 June 1988.<lb/>1 cubic feet of records dated 1976-1977 transferred to the State Records Center on 22 June 1982 and accessioned 20 June 1988.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="series30877" level="series">
+        <did>
+          <unittitle encodinganalog="title">Administrative Law Division, Appeals Section: Departmental Administrative File</unittitle>
+          <unitid type="local ID">45.3</unitid>
+          <unitid identifier="448" type="Records Series (RS) Number" label="Records Series (RS) Number">448</unitid>
+          <unitid identifier="45.3" type="Mars ID" label="Mars ID">45.3</unitid>
+          <unitid identifier="45.3" type="Old Mars ID" label="Old Mars ID">45.3</unitid>
+          <unitdate encodinganalog="date" type="inclusive" normal="1963/1977">1963-1977</unitdate>
+          <physdesc>
+            <genreform>Correspondence</genreform>
+            <genreform>Memorandum</genreform>
+          </physdesc>
+          <origination label="creator">
+            <corpname role="Originator">Employment Security Commission</corpname>
+          </origination>
+          <origination label="Creator">
+            <corpname role="Unspecified">Employment Security Commission</corpname>
+          </origination>
+        </did>
+        <arrangement>
+          <head>Arrangement</head>
+          <p>Unprocessed.</p>
+        </arrangement>
+        <accessrestrict>
+          <head>Access Restriction</head>
+          <p>Records at the Old Records Center are stored offsite, meaning that advanced notice is required to retrieve these records. Please consult the reference staff for more information.</p>
+        </accessrestrict>
+        <custodhist>
+          <p>Commerce, Dept. of</p>
+        </custodhist>
+        <scopecontent>
+          <head>Scope and Content</head>
+          <p>Correspondence, memoranda, annual appeals performance plans, procedures, policies, conference information, reporting procedures, disclosure of information, and other records of the daily operation of the section. Series may include travel vouchers and equipment records. <lb/>TRANSFERRED DATES VOLUME TO ARCHIVES<lb/>Transf. 8/3/81 1963-1977 1 box 6-20-88</p>
+        </scopecontent>
+      </c01>
+      <c01 id="series30878" level="series">
+        <did>
+          <unittitle encodinganalog="title">Administrative Services Division, Finance and Accounting Section, Cost Accounting Section: Rural Concentrated Employment Program File</unittitle>
+          <unitid type="local ID">45.4</unitid>
+          <unitid identifier="420" type="Records Series (RS) Number" label="Records Series (RS) Number">420</unitid>
+          <unitid identifier="45.4" type="Mars ID" label="Mars ID">45.4</unitid>
+          <unitid identifier="45.4" type="Old Mars ID" label="Old Mars ID">45.4</unitid>
+          <unitdate encodinganalog="date" type="inclusive" normal="1973/1973">1973</unitdate>
+          <physdesc>
+            <genreform>Correspondence</genreform>
+            <genreform>Reports</genreform>
+            <genreform>Payrolls</genreform>
+          </physdesc>
+          <origination label="creator">
+            <corpname role="Originator">Employment Security Commission</corpname>
+          </origination>
+          <origination label="Creator">
+            <corpname role="Unspecified">Employment Security Commission</corpname>
+          </origination>
+        </did>
+        <arrangement>
+          <head>Arrangement</head>
+          <p>Unprocessed.</p>
+        </arrangement>
+        <accessrestrict>
+          <head>Access Restriction</head>
+          <p>Records at the Old Records Center are stored offsite, meaning that advanced notice is required to retrieve these records. Please consult the reference staff for more information.</p>
+        </accessrestrict>
+        <custodhist>
+          <p>Commerce, Dept. of</p>
+        </custodhist>
+        <scopecontent>
+          <head>Scope and Content</head>
+          <p>Reports, correspondence, payrolls, and record copies of data concerning a federally funded program for employment training of the underprivileged in New Hanover, Bladen, and Robeson counties in 1973-1974. <lb/>TRANSFERRED DATES VOLUME TO ARCHIVES<lb/>Transf. 5/22/81 1973 9 boxes 6-20-88</p>
+        </scopecontent>
+      </c01>
+      <c01 id="series30879" level="series">
+        <did>
+          <unittitle encodinganalog="title">Employment Services Division, Manpower Programs Unit (CETA and WIN), Central Records Unit: Follow-up Summary Reports File</unittitle>
+          <unitid type="local ID">45.5</unitid>
+          <unitid identifier="430" type="Records Series (RS) Number" label="Records Series (RS) Number">430</unitid>
+          <unitid identifier="45.5" type="Mars ID" label="Mars ID">45.5</unitid>
+          <unitid identifier="45.5" type="Old Mars ID" label="Old Mars ID">45.5</unitid>
+          <unitdate encodinganalog="date" type="inclusive" normal="1979/1980">1979-1980</unitdate>
+          <physdesc>
+            <genreform>Reports</genreform>
+          </physdesc>
+          <origination label="creator">
+            <corpname role="Originator">Employment Security Commission</corpname>
+          </origination>
+          <origination label="Creator">
+            <corpname role="Unspecified">Employment Security Commission</corpname>
+          </origination>
+        </did>
+        <arrangement>
+          <head>Arrangement</head>
+          <p>Unprocessed.</p>
+        </arrangement>
+        <accessrestrict>
+          <head>Access Restriction</head>
+          <p>Records at the Records Center are stored offsite and require addititional time to pull. Access to these records on Saturdays requires prior arrangements. Please consult the reference staff for more informatio</p>
+        </accessrestrict>
+        <custodhist>
+          <p>Commerce, Dept. of</p>
+        </custodhist>
+        <scopecontent>
+          <head>Scope and Content</head>
+          <p>Official copies of documents (in report format) concerning the results of follow-up actions on each participant in manpower programs. <lb/>TRANSFERRED DATES VOLUME TO ARCHIVES<lb/>Transf. 11/4/81 1979-1980 3 boxes 6-20-88</p>
+        </scopecontent>
+      </c01>
+      <c01 id="series30880" level="series">
+        <did>
+          <unittitle encodinganalog="title">Employment Services Division, Manpower Programs Unit (CETA and WIN), Director's Office: Correspondence File</unittitle>
+          <unitid type="local ID">45.6</unitid>
+          <unitid identifier="424" type="Records Series (RS) Number" label="Records Series (RS) Number">424</unitid>
+          <unitid identifier="45.6" type="Mars ID" label="Mars ID">45.6</unitid>
+          <unitid identifier="45.6" type="Old Mars ID" label="Old Mars ID">45.6</unitid>
+          <unitdate encodinganalog="date" type="inclusive" normal="1977/1982">1977-1982</unitdate>
+          <physdesc>
+            <genreform>Correspondence</genreform>
+            <genreform>Memorandum</genreform>
+            <genreform>Reports</genreform>
+          </physdesc>
+          <origination label="creator">
+            <corpname role="Originator">Employment Security Commission</corpname>
+          </origination>
+          <origination label="Creator">
+            <corpname role="Unspecified">Employment Security Commission</corpname>
+          </origination>
+        </did>
+        <arrangement>
+          <head>Arrangement</head>
+          <p>Unprocessed.</p>
+        </arrangement>
+        <accessrestrict>
+          <head>Access Restriction</head>
+          <p>Records are stored in the State Records Center and require additional time to pull. Access to these records on Saturdays requires prior arrangements. Please consult the reference staff for more information.</p>
+        </accessrestrict>
+        <custodhist>
+          <p>Commerce, Dept. of</p>
+        </custodhist>
+        <scopecontent>
+          <head>Scope and Content</head>
+          <p>Correspondence, memoranda, reports, administrative and operational records, and related records concerning the Manpower Programs Unit.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="series30881" level="series">
+        <did>
+          <unittitle encodinganalog="title">Legal Counsel Division, Appeals Section: Administrative Bulletins File</unittitle>
+          <unitid type="local ID">45.7</unitid>
+          <unitid identifier="45.7" type="Mars ID" label="Mars ID">45.7</unitid>
+          <unitid identifier="45.7" type="Old Mars ID" label="Old Mars ID">45.7</unitid>
+          <unitid identifier="451" type="Records Series (RS) Number" label="Records Series (RS) Number">451</unitid>
+          <unitdate encodinganalog="date" type="inclusive" normal="1964/1970">1964-1970</unitdate>
+          <physdesc>
+            <genreform>Bulletins</genreform>
+          </physdesc>
+          <origination label="creator">
+            <corpname role="Originator">Employment Security Commission</corpname>
+          </origination>
+          <origination label="Creator">
+            <corpname role="Unspecified">Employment Security Commission</corpname>
+          </origination>
+        </did>
+        <arrangement>
+          <head>Arrangement</head>
+          <p>Unprocessed.</p>
+        </arrangement>
+        <accessrestrict>
+          <head>Access Restriction</head>
+          <p>Records at the Old Records Center are stored offsite, meaning that advanced notice is required to retrieve these records. Please consult the reference staff for more information.</p>
+        </accessrestrict>
+        <custodhist>
+          <p>Commerce, Dept. of</p>
+        </custodhist>
+        <scopecontent>
+          <head>Scope and Content</head>
+          <p>Reference copies of administrative bulletins to departmental employees concerning policies and procedures. <lb/>TRANSFERRED DATES VOLUME TO ARCHIVES<lb/>Transf. 8/3/81 1964-1970 1 box 6-20-88</p>
+        </scopecontent>
+      </c01>
+      <c01 id="series30882" level="series">
+        <did>
+          <unittitle encodinganalog="title">Unemployment Insurance Division: Director's Correspondence</unittitle>
+          <unitid type="local ID">45.8</unitid>
+          <unitid identifier="45.8" type="Mars ID" label="Mars ID">45.8</unitid>
+          <unitid identifier="45.8" type="Old Mars ID" label="Old Mars ID">45.8</unitid>
+          <unitid identifier="Box 1" type="Call Number" label="Location: BST 662">Box 1</unitid>
+          <unitdate encodinganalog="date" type="inclusive" normal="1939/1953">1939-1940, 1945-1953</unitdate>
+          <physdesc>
+            <genreform>Press releases</genreform>
+            <genreform>Notes</genreform>
+            <genreform>Memorandum</genreform>
+            <genreform>Lists</genreform>
+            <genreform>Correspondence</genreform>
+            <genreform>Accounts</genreform>
+            <genreform>Reports</genreform>
+            <genreform>Statistics</genreform>
+            <genreform>Budgets</genreform>
+            <genreform>Press releases</genreform>
+          </physdesc>
+          <origination label="creator">
+            <corpname role="Originator">Employment Security Commission</corpname>
+          </origination>
+          <origination label="Creator">
+            <corpname role="Unspecified">Employment Security Commission</corpname>
+          </origination>
+          <origination label="Creator">
+            <corpname role="Unspecified">Unemployment Compensation Commission</corpname>
+          </origination>
+        </did>
+        <arrangement>
+          <head>Arrangement</head>
+          <p>Chronological.</p>
+        </arrangement>
+        <custodhist>
+          <p>Employment Security Commission</p>
+        </custodhist>
+        <scopecontent>
+          <head>Scope and Content</head>
+          <p>Carbon copies of correspondence (1939-1940) of the chairman of the Unemployment Compensation Commission, including letters, memoranda, a press release, and various computations relating to the merger of unemployment compensation funds for over forty railroads into a Railroad Unemployment Insurance Account to be administered by the National Rail Road Retirement Board, and the transfer of funds already collected by the state. Also carbon copies of correspondence (1945-1953) of the director of the Unemployment Insurance Division with the Readjustment Allowance Service of the Veterans Administration in Washington, D.C., discussing administration of the Servicemen's Readjustment Act of 1944. Subjects include retraining programs for veterans, disqualifications, readjustment allowances for the self-employed and farmers, paperwork, audits, and problems of joint federal-state operations.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="series30883" level="series">
+        <did>
+          <unittitle encodinganalog="title">Unemployment Insurance Division: Financial and Miscellaneous Reports</unittitle>
+          <unitid type="local ID">45.9</unitid>
+          <unitid identifier="45.9" type="Mars ID" label="Mars ID">45.9</unitid>
+          <unitid identifier="45.9" type="Old Mars ID" label="Old Mars ID">45.9</unitid>
+          <unitid identifier="Box 2 - Box 3" type="Call Number" label="Location: BST 662">Box 2 - Box 3</unitid>
+          <unitdate encodinganalog="date" type="inclusive" normal="1937/1957">1937-1957</unitdate>
+          <physdesc>
+            <genreform>Reports</genreform>
+            <genreform>Speeches</genreform>
+            <genreform>Statistics</genreform>
+            <genreform>Memorandum</genreform>
+            <genreform>Accounts</genreform>
+            <genreform>Lists</genreform>
+          </physdesc>
+          <origination label="creator">
+            <corpname role="Originator">Employment Security Commission</corpname>
+          </origination>
+          <origination label="Creator">
+            <corpname role="Unspecified">Employment Security Commission</corpname>
+          </origination>
+          <origination label="Creator">
+            <corpname role="Unspecified">Unemployment Compensation Commission</corpname>
+          </origination>
+        </did>
+        <arrangement>
+          <head>Arrangement</head>
+          <p>Alphabetical by subject, then chronological.</p>
+        </arrangement>
+        <custodhist>
+          <p>Employment Security Commission</p>
+        </custodhist>
+        <scopecontent>
+          <head>Scope and Content</head>
+          <p>Carbon copies of financial reports (1937-1954), including monthly analyses, summaries, reconciliation of accounts, trial balances, and lists of overpayments and of bad checks from employers. Miscellaneous records include status reports from various divisions; reports on group layoffs in North Carolina (1951-1957), delinquent employers, procedure for charging proportional benefits to former employers (1939), and resources available through the Unemployment Compensation Commission in North Carolina; a speech by Maj. Arthur L. Fletcher to the N.C. State Federation of Labor (ca. 1941); and a paper by William R. Curtis on the "Unemployment Compensation Experience in the South" (1939).<lb/>Box 3 also contains the series, Joint Services Division: Miscellaneous File.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="series30884" level="series">
+        <did>
+          <unittitle encodinganalog="title">Joint Services Division: Statistical Reports</unittitle>
+          <unitid type="local ID">45.10</unitid>
+          <unitid identifier="45.10" type="Mars ID" label="Mars ID">45.10</unitid>
+          <unitid identifier="45.10" type="Old Mars ID" label="Old Mars ID">45.10</unitid>
+          <unitid identifier="Box 3" type="Call Number" label="Location: BST 662">Box 3</unitid>
+          <unitdate encodinganalog="date" type="inclusive" normal="1938/1941">1938-1941</unitdate>
+          <physdesc>
+            <genreform>Statistics</genreform>
+            <genreform>Charts</genreform>
+            <genreform>Graphs</genreform>
+            <genreform>Surveys</genreform>
+          </physdesc>
+          <origination label="creator">
+            <corpname role="Originator">Unemployment Compensation Commission</corpname>
+          </origination>
+          <origination label="Creator">
+            <corpname role="Unspecified">Unemployment Compensation Commission</corpname>
+          </origination>
+        </did>
+        <arrangement>
+          <head>Arrangement</head>
+          <p>By topic.</p>
+        </arrangement>
+        <custodhist>
+          <p>Employment Security Commission</p>
+        </custodhist>
+        <scopecontent>
+          <head>Scope and Content</head>
+          <p>Mimeographed memoranda with charts and statistics, produced by the Bureau of Research and Statistics (ca. 1940-1941). Topics include a Wilmington Labor Market Survey (May 1941); analysis of active job seekers; registration and placement of younger persons, aged 15-24 (based on 1937 statistics); defense construction and number of clearance placements; benefit formulas; duration of benefits; a time-lapse study of compensation; work-loads in local offices; and an analysis of the unemployment compensation fund.<lb/>Box 3 also contains the series, Unemployment Insurance Division: Financial and Miscellaneous Reports.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="series30885" level="series">
+        <did>
+          <unittitle encodinganalog="title">Employment Services Division, Manpower Programs Unit (CETA and WIN), Central Records Unit: Targeted Jobs Tax Credit Reports File</unittitle>
+          <unitid type="local ID">45.11</unitid>
+          <unitid identifier="432" type="Records Series (RS) Number" label="Records Series (RS) Number">432</unitid>
+          <unitid identifier="45.11" type="Mars ID" label="Mars ID">45.11</unitid>
+          <unitid identifier="45.11" type="Old Mars ID" label="Old Mars ID">45.11</unitid>
+          <unitdate encodinganalog="date" type="inclusive" normal="1982/1983">1982-1983</unitdate>
+          <physdesc>
+            <genreform>Reports</genreform>
+          </physdesc>
+          <origination label="creator">
+            <corpname role="Originator">Employment Security Commission</corpname>
+          </origination>
+          <origination label="Creator">
+            <corpname role="Unspecified">Employment Security Commission</corpname>
+          </origination>
+        </did>
+        <arrangement>
+          <head>Arrangement</head>
+          <p>Unprocessed.</p>
+        </arrangement>
+        <accessrestrict>
+          <head>Access Restriction</head>
+          <p>Records at the Old Records Center are stored offsite, meaning that advanced notice is required to retrieve these records. Please consult the reference staff for more information.</p>
+        </accessrestrict>
+        <custodhist>
+          <p>Commerce, Dept. of</p>
+        </custodhist>
+        <scopecontent>
+          <head>Scope and Content</head>
+          <p>Reports concerning the Targeted Jobs Tax Credit Program. The reports were sent to prime sponsors, agency area supervisors, and the United States Dept. of Labor. <lb/>TRANSFERRED DATES VOLUME TO ARCHIVES<lb/>Transf. 12/6/84 1982-1983 42 boxes 2-19-93</p>
+        </scopecontent>
+      </c01>
+      <c01 id="series30886" level="series">
+        <did>
+          <unittitle encodinganalog="title">North Carolina State Occupational Information Coordinating Committee File</unittitle>
+          <unitid type="local ID">45.12</unitid>
+          <unitid identifier="2018.3.56" type="Accession Number" label="Accession Number">2018.3.56</unitid>
+          <unitid identifier="423" type="Records Series (RS) Number" label="Records Series (RS) Number">423</unitid>
+          <unitid identifier="45.12" type="Mars ID" label="Mars ID">45.12</unitid>
+          <unitdate encodinganalog="date" type="inclusive" normal="1977/1979">1977-1979</unitdate>
+          <origination label="creator">
+            <corpname role="Originator">Employment Security Commission</corpname>
+          </origination>
+          <origination label="Creator">
+            <corpname role="Author">Employment Security Commission</corpname>
+          </origination>
+        </did>
+        <arrangement>
+          <head>Arrangement</head>
+          <p>Unprocessed.</p>
+        </arrangement>
+        <accessrestrict>
+          <head>Access Restriction</head>
+          <p>Material stored off-site at the State Records Center requires advance notice for access; please contact the Reference Services staff in the Archives Search Room for more information.</p>
+        </accessrestrict>
+        <scopecontent>
+          <head>Scope and Content</head>
+          <p>Documents detailing the authority, purposes, methods, procedures, operating philosophy, and primary functions and programs administered by the committee. Series includes correspondence, memorandums, and various other materials pertaining to CETA, committees, associations, conferences, workshops, grants, plans, projects, proposals, and reports.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="series30887" level="series">
+        <did>
+          <unittitle encodinganalog="title">Reserved for Capstone email transfers</unittitle>
+          <unitid type="local ID">45.13</unitid>
+          <unitid identifier="45.13" type="Mars ID" label="Mars ID">45.13</unitid>
+          <origination label="creator">
+            <corpname role="Originator">Employment Security Commission</corpname>
+          </origination>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>
