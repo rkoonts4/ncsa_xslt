@@ -507,46 +507,14 @@
     
     <xsl:template name="odd_ns">
         <div id="{@id}" class="c_row {name()} {name()}_row grid_12 alpha fa_odd">
-            <a class="row-option sharing-link tipTip" href="#{@id}" title="Link to this row"></a>
-            <div class='component_info'>
-                <div class='component_title'>
-                    <span><xsl:value-of select="did/unittitle"/><xsl:if test="did/unitdate"><xsl:if test="ends-with(did/unittitle,',')"> </xsl:if><xsl:if test="not(ends-with(did/unittitle,','))">, </xsl:if><xsl:value-of select="did/unitdate[1]"/></xsl:if></span>
-                </div>
-            </div>
             <xsl:call-template name="ns_containers"/>
-            <xsl:if test="bioghist">
-                <div>
-                    <xsl:apply-templates select="bioghist"/>
-                </div> 
-            </xsl:if>
-            <xsl:if test="scopecontent">
-                <div>
-                    <xsl:apply-templates select="scopecontent"/>
-                </div> 
-            </xsl:if>
         </div>
         <div class="clear"></div>
     </xsl:template>
     
     <xsl:template name="even_ns">
         <div id="{@id}" class="c_row {name()} {name()}_row grid_12 alpha">
-            <a class="row-option sharing-link tipTip" href="#{@id}" title="Link to this row"></a>
-            <div class='component_info'>
-                <div class='component_title'>
-                    <span><xsl:value-of select="did/unittitle"/><xsl:if test="did/unitdate"><xsl:if test="ends-with(did/unittitle,',')"> </xsl:if><xsl:if test="not(ends-with(did/unittitle,','))">, </xsl:if><xsl:value-of select="did/unitdate[1]"/></xsl:if></span>
-                </div>
-            </div>
             <xsl:call-template name="ns_containers"/>
-            <xsl:if test="bioghist">
-                <div>
-                    <xsl:apply-templates select="bioghist"/>
-                </div> 
-            </xsl:if>
-            <xsl:if test="scopecontent">
-                <div>
-                    <xsl:apply-templates select="scopecontent"/>
-                </div> 
-            </xsl:if>
         </div>
         <div class="clear"></div>
     </xsl:template>
@@ -637,7 +605,7 @@
                         </xsl:otherwise>
                     </xsl:choose>
                     <xsl:if test="not(descendant::c02)">
-                    <xsl:call-template name="ns_containers"/>
+                    <xsl:call-template name="odd_ns"/>
                     </xsl:if>
                     <xsl:for-each select="descendant::c02|descendant::c03|descendant::c04|descendant::c05|descendant::c06|descendant::c07|descendant::c08">
                         <!-- remove this outter choose statement once microfilm is included in the finding aids -->
@@ -671,7 +639,7 @@
                                         <xsl:choose>
                                             <xsl:when test="not(did/container)"/>
                                             <xsl:otherwise>
-                                                <xsl:call-template name="cr_containers"/>                                       
+                                                <xsl:call-template name="cr_containers"/>                                      
                                             </xsl:otherwise>
                                         </xsl:choose>
                                     </div>
