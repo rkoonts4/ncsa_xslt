@@ -474,17 +474,16 @@
     <xsl:template name="contents">
         <xsl:for-each select="//c01[1]">
             <xsl:choose>
-               <xsl:when test="@level='series'">             
+               <xsl:when test="@level='series' or 'subseries'">             
                     <xsl:call-template name="series"/>
                </xsl:when> 
                <xsl:otherwise>             
                 <xsl:choose>
-                    <xsl:when test="following-sibling::c01/attribute::level = 'series'">
+                    <xsl:when test="following-sibling::c01/attribute::level = 'series' or 'subseries'">
                     <xsl:call-template name="series"/>
                     </xsl:when>
                     <xsl:otherwise>
                     <a name="contents" class="anchor"/>
-                    
                     <xsl:call-template name="contents_ns"/>
                     </xsl:otherwise>
                     </xsl:choose>
@@ -638,7 +637,7 @@
                         </xsl:otherwise>
                     </xsl:choose>
                     <xsl:if test="not(descendant::c02)">
-                    <xsl:call-template name="odd_ns"/>
+                    <xsl:call-template name="ns_containers"/>
                     </xsl:if>
                     <xsl:for-each select="descendant::c02|descendant::c03|descendant::c04|descendant::c05|descendant::c06|descendant::c07|descendant::c08">
                         <!-- remove this outter choose statement once microfilm is included in the finding aids -->
